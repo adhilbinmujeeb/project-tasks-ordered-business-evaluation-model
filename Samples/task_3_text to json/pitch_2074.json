@@ -1,0 +1,773 @@
+{
+    "episode_metadata": {
+        "show_name": "Shark Tank",
+        "season": 11,
+        "episode": 14,
+        "air_date": "not_provided",
+        "total_pitches": 1
+    },
+    "pitches": [
+        {
+            "pitch_id": "pitch_1_simply_good_jars",
+            "business_info": {
+                "business_name": "Simply Good Jars",
+                "founder_names": [
+                    {
+                        "name": "Jared Cannon",
+                        "role": "Founder & Chef"
+                    }
+                ],
+                "location": "Philadelphia",
+                "industry_category": [
+                    "Food",
+                    "Packaged Food",
+                    "Salads"
+                ],
+                "business_model_type": "B2C",
+                "product_description": "Fresh, healthy, grab-and-go salads in returnable jars."
+            },
+            "pitch_metrics": {
+                "initial_ask_amount": 500000,
+                "equity_offered": 7,
+                "implied_valuation": 7142857,
+                "final_deal_terms": {
+                    "deal_made": true,
+                    "offered_amount": 500000,
+                    "equity_percentage": 10,
+                    "investors": [
+                        "Lori Greiner",
+                        "Mark Cuban"
+                    ]
+                }
+            },
+            "business_metrics": {
+                "basic_metrics": {
+                    "current_revenue": {
+                        "last_year": 300000,
+                        "year_to_date": 475000,
+                        "projected_year": 750000,
+                        "confidence": 1.0,
+                        "source": "direct quote"
+                    },
+                    "margins": "not_provided",
+                    "costs": {
+                        "production_cost_per_jar": {
+                            "value": "2.50-3.60",
+                            "confidence": 1.0,
+                            "source": "direct quote"
+                        }
+                    },
+                    "price_points": {
+                        "retail_price": {
+                            "value": "8.99-10.99",
+                            "confidence": 1.0,
+                            "source": "direct quote"
+                        },
+                        "wholesale_price_to_retailer": {
+                            "value": "5-6",
+                            "confidence": 1.0,
+                            "source": "direct quote"
+                        }
+                    },
+                    "profitability": {
+                        "profitable": false,
+                        "time_to_profitability": "1 year",
+                        "loss_last_year": {
+                            "value": 900000,
+                            "confidence": 1.0,
+                            "source": "direct quote"
+                        },
+                        "projected_loss_this_year": {
+                            "value": 900000,
+                            "confidence": 1.0,
+                            "source": "implied"
+                        }
+                    },
+                    "funding_raised_to_date": {
+                        "value": 2500000,
+                        "confidence": 1.0,
+                        "source": "direct quote"
+                    },
+                    "founder_investment": {
+                        "value": 1000,
+                        "confidence": 1.0,
+                        "source": "direct quote"
+                    },
+                    "founder_ownership": {
+                        "value": 51,
+                        "confidence": 1.0,
+                        "source": "direct quote"
+                    },
+                    "shelf_life": {
+                        "value": "9 days",
+                        "confidence": 1.0,
+                        "source": "direct quote"
+                    }
+                },
+                "market_metrics": {
+                    "market_size": "not_provided",
+                    "market_share": "not_provided",
+                    "competitors": [],
+                    "market_growth_rate": "not_provided"
+                },
+                "distribution_channels": [
+                    "Smart Coolers (pre-COVID)",
+                    "Retail (Walgreens, C-Stores)",
+                    "CloudKitchens",
+                    "Meal Delivery Platforms"
+                ]
+            },
+            "questions_asked": [
+                {
+                    "question_id": "Q1",
+                    "sequence_number": 1,
+                    "investor": "unknown_investor_1",
+                    "raw_text": "Can we try it?",
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "Of course!",
+                    "new_metrics_revealed": [],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q2",
+                    "sequence_number": 2,
+                    "investor": "unknown_investor_2",
+                    "raw_text": "What's the shelf life of it?",
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "So, it's a nine\u2010day shelf life.",
+                    "new_metrics_revealed": [
+                        {
+                            "metric": "shelf_life",
+                            "value": "9 days"
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q3",
+                    "sequence_number": 3,
+                    "investor": "Kevin",
+                    "raw_text": "Why can't anybody just put together a jar that's shake and bake and I made it at home, right?",
+                    "basic_category": "Market",
+                    "contains_metrics": false,
+                    "response_text": "So, the whole jarred\u2010salad thing is like a Pinterest fad. It's been around forever, but nobody's ever commercialized it.",
+                    "new_metrics_revealed": [],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q4",
+                    "sequence_number": 4,
+                    "investor": "unknown_investor_3",
+                    "raw_text": "Are you selling this where people are putting it into their own coolers?",
+                    "basic_category": "Operations",
+                    "contains_metrics": false,
+                    "response_text": "So, before COVID, the primary revenue driver for our business was, you know, really supported by this fleet of these smart coolers that we would put into places where there was kind of a captive audience, not a lot of access to food, let alone fresh food.",
+                    "new_metrics_revealed": [],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q5",
+                    "sequence_number": 5,
+                    "investor": "unknown_investor_4",
+                    "raw_text": "Like what kind of places?",
+                    "basic_category": "Operations",
+                    "contains_metrics": false,
+                    "response_text": "Hotels, airports...",
+                    "new_metrics_revealed": [
+                        {
+                            "distribution_location_type": "hotels"
+                        },
+                        {
+                            "distribution_location_type": "airports"
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q6",
+                    "sequence_number": 6,
+                    "investor": "unknown_investor_5",
+                    "raw_text": "Office buildings?",
+                    "basic_category": "Operations",
+                    "contains_metrics": false,
+                    "response_text": "...convention centers, office buildings, universities.",
+                    "new_metrics_revealed": [
+                        {
+                            "distribution_location_type": "convention centers"
+                        },
+                        {
+                            "distribution_location_type": "office buildings"
+                        },
+                        {
+                            "distribution_location_type": "universities"
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q7",
+                    "sequence_number": 7,
+                    "investor": "unknown_investor_6",
+                    "raw_text": "So, after COVID?",
+                    "basic_category": "Operations",
+                    "contains_metrics": false,
+                    "response_text": "So, as you would imagine, all the places that we had distribution \u2010\u2010 98% gone.",
+                    "new_metrics_revealed": [
+                        {
+                            "metric": "distribution_impact_covid",
+                            "value": "98% gone"
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q8",
+                    "sequence_number": 8,
+                    "investor": "unknown_investor_7",
+                    "raw_text": "And, Jared, how did you get into retail? How did you make that transition?",
+                    "basic_category": "Operations",
+                    "contains_metrics": false,
+                    "response_text": "So, between Easter and Memorial Day, we went from four locations to 230 doors. Wow. We launched Walgreens in Chicago, and then we launched 175 C stores, and we partner with CloudKitchens.",
+                    "new_metrics_revealed": [
+                        {
+                            "metric": "location_growth_speed",
+                            "value": "4 to 230 doors between Easter and Memorial Day"
+                        },
+                        {
+                            "retail_partner": "Walgreens (Chicago)"
+                        },
+                        {
+                            "retail_partner": "175 C stores"
+                        },
+                        {
+                            "distribution_partner": "CloudKitchens"
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q9",
+                    "sequence_number": 9,
+                    "investor": "unknown_investor_8",
+                    "raw_text": "And that's where you maximize your margin, and that's where you make the most money, right? Can you afford the 30% that they take?",
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "Oh, yeah. It's only 10%.",
+                    "new_metrics_revealed": [
+                        {
+                            "delivery_platform_fee": "10%"
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q10",
+                    "sequence_number": 10,
+                    "investor": "unknown_investor_9",
+                    "raw_text": "Okay, but are you going to actually, as a company, set up a CloudKitchen for each major demographic?",
+                    "basic_category": "Strategy",
+                    "contains_metrics": false,
+                    "response_text": "Yeah, so our contract with CloudKitchens is national.",
+                    "new_metrics_revealed": [
+                        {
+                            "distribution_strategy": "national CloudKitchens contract"
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q11",
+                    "sequence_number": 11,
+                    "investor": "unknown_investor_10",
+                    "raw_text": "And what do you sell one for?",
+                    "basic_category": "Financial",
+                    "contains_metrics": false,
+                    "response_text": "So, jars sell from $8.99 to $10.99 today.",
+                    "new_metrics_revealed": [
+                        {
+                            "price_point_retail": {
+                                "value": "8.99-10.99",
+                                "unit": "USD"
+                            }
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q12",
+                    "sequence_number": 12,
+                    "investor": "unknown_investor_11",
+                    "raw_text": "And what do you sell it to the retailer for?",
+                    "basic_category": "Financial",
+                    "contains_metrics": false,
+                    "response_text": "So, on the wholesale model, we're selling it $5 to $6.",
+                    "new_metrics_revealed": [
+                        {
+                            "price_point_wholesale": {
+                                "value": "5-6",
+                                "unit": "USD"
+                            }
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q13",
+                    "sequence_number": 13,
+                    "investor": "unknown_investor_12",
+                    "raw_text": "It costs us about $2.50 to $3.60.",
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "(Implicitly confirming as the investor moves to next question based on this cost)",
+                    "new_metrics_revealed": [
+                        {
+                            "production_cost_per_jar": {
+                                "value": "2.50-3.60",
+                                "unit": "USD"
+                            }
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q14",
+                    "sequence_number": 14,
+                    "investor": "unknown_investor_13",
+                    "raw_text": "So you're making about $3.50 each.",
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "(Implicitly confirming as the investor moves to next question)",
+                    "new_metrics_revealed": [
+                        {
+                            "profit_per_jar_wholesale": {
+                                "value": "approx. 2.40-2.50",
+                                "unit": "USD",
+                                "note": "calculated, slightly inaccurate investor calculation"
+                            }
+                        }
+                    ],
+                    "confidence": 0.9
+                },
+                {
+                    "question_id": "Q15",
+                    "sequence_number": 15,
+                    "investor": "unknown_investor_14",
+                    "raw_text": "Alright, why don't we talk about your numbers? So, first of all, excellent, excellent, excellent salad. So what did you do last year? Sure. And then what are you on track to do this year?",
+                    "basic_category": "Financial",
+                    "contains_metrics": false,
+                    "response_text": "So last year, we did just shy of about $300,000. So, we're $475,000 year to date. We're on track to do about $700,000, $750,000 this year.",
+                    "new_metrics_revealed": [
+                        {
+                            "revenue_last_year": {
+                                "value": 300000,
+                                "unit": "USD"
+                            }
+                        },
+                        {
+                            "revenue_year_to_date": {
+                                "value": 475000,
+                                "unit": "USD"
+                            }
+                        },
+                        {
+                            "projected_revenue_this_year": {
+                                "value": "700000-750000",
+                                "unit": "USD"
+                            }
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q16",
+                    "sequence_number": 16,
+                    "investor": "unknown_investor_15",
+                    "raw_text": "$300,000? $300,000 last year. Wait a minute. Hold on. Wait. I want to make sure that I heard the valuation correctly. You want $500,000 for 7%? That's it?",
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "Oh, yeah.",
+                    "new_metrics_revealed": [
+                        {
+                            "valuation_ask": {
+                                "amount": 500000,
+                                "equity": 7,
+                                "implied_valuation": 7142857
+                            }
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q17",
+                    "sequence_number": 17,
+                    "investor": "unknown_investor_16",
+                    "raw_text": "$750,000, and how much will you make on that?",
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "We're not profitable. We won't be for about a year. Oh!",
+                    "new_metrics_revealed": [
+                        {
+                            "profitability_this_year": false,
+                            "time_to_profitability": "1 year"
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q18",
+                    "sequence_number": 18,
+                    "investor": "unknown_investor_17",
+                    "raw_text": "And how much have you raised?",
+                    "basic_category": "Financial",
+                    "contains_metrics": false,
+                    "response_text": "We raised $2.5 million to date. \u2010Whoa! \u2010Wow. \u2010I know. \u2010Wow. A lot of that was predicated on buying 60 of these things and really funding that model.",
+                    "new_metrics_revealed": [
+                        {
+                            "funding_raised_total": {
+                                "value": 2500000,
+                                "unit": "USD"
+                            }
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q19",
+                    "sequence_number": 19,
+                    "investor": "unknown_investor_18",
+                    "raw_text": "You did say that you're not gonna make any money this year. Correct. What did you lose last year? Probably not next year, either. What did you lose?",
+                    "basic_category": "Financial",
+                    "contains_metrics": false,
+                    "response_text": "$900,000. Last year, you lost $900,000? \u2010Yep. \u2010Wow. We're gonna probably lose that this year again. \u2010Ouch! Ouch! \u2010Oh! But we more than doubled our revenue.",
+                    "new_metrics_revealed": [
+                        {
+                            "loss_last_year": {
+                                "value": 900000,
+                                "unit": "USD"
+                            }
+                        },
+                        {
+                            "projected_loss_this_year": {
+                                "value": 900000,
+                                "unit": "USD"
+                            }
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q20",
+                    "sequence_number": 20,
+                    "investor": "unknown_investor_19",
+                    "raw_text": "How much of your own money did you invest in this?",
+                    "basic_category": "Team",
+                    "contains_metrics": false,
+                    "response_text": "So I started this entire company on a $1,000 loan. \u2010Okay. \u2010Really? \u2010Cool. \u2010Oh, yeah. I had been working on this for probably five years.",
+                    "new_metrics_revealed": [
+                        {
+                            "founder_initial_investment": {
+                                "value": 1000,
+                                "unit": "USD"
+                            }
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q21",
+                    "sequence_number": 21,
+                    "investor": "unknown_investor_20",
+                    "raw_text": "And how much of the company do you own?",
+                    "basic_category": "Team",
+                    "contains_metrics": false,
+                    "response_text": "51%. \u2010Ooh. Okay. \u2010Ooh!",
+                    "new_metrics_revealed": [
+                        {
+                            "founder_ownership_percentage": 51
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q22",
+                    "sequence_number": 22,
+                    "investor": "unknown_investor_21",
+                    "raw_text": "Who owns the other 49%?",
+                    "basic_category": "Team",
+                    "contains_metrics": false,
+                    "response_text": "We have probably about a cap table of maybe 12 other individuals and groups. But I've assembled a team to take this to scale in a big way and do it smartly. So we're paying for that.",
+                    "new_metrics_revealed": [
+                        {
+                            "number_of_investors": 12
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q23",
+                    "sequence_number": 23,
+                    "investor": "Kevin",
+                    "raw_text": "Jared, I think \u2010\u2010 I think you're in trouble.",
+                    "basic_category": "Risk",
+                    "contains_metrics": false,
+                    "response_text": "I hope not. I don't believe I'm in trouble at all.",
+                    "new_metrics_revealed": [],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q24",
+                    "sequence_number": 24,
+                    "investor": "Kevin",
+                    "raw_text": "You know, you're gonna need several more raises. You're not gonna be in control of the company anymore 'cause you're at 51%. You lose control right here today. I'm worried for you, man. Why?",
+                    "basic_category": "Risk",
+                    "contains_metrics": false,
+                    "response_text": "Look, if I'm gonna raise a series A, I'm gonna lose control. No entrepreneur that's gonna take something to the level that we are shooting for is gonna have 80% of the company in his pocket.",
+                    "new_metrics_revealed": [],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q25",
+                    "sequence_number": 25,
+                    "investor": "Kevin",
+                    "raw_text": "Do you remember Plated? Yeah. Oh, yeah. Know them well. Okay, that was my deal. Yep. Your numbers are identical in the second year. We were losing between $900,000 and $1.5 million for three years in a row. Right. It is expensive, baby. Sure. So that was a big, big, big burn, and it was scaring the living you know what out of me... ...until we sold it to Albertsons for $340 million. So I'm a believer in this space. And I like the product. So I'm thinking you're gonna need to raise somewhere between another 5 and 10 million bucks. That's exactly what we're doing right now, yep. Okay, and so that's extremely dilutive. I'm gonna make you the same offer I made the Plated guys. They choked on it, but we all made a lot of money later. I will do the $500,000 as debt at 9.5%, and I'll take the 7% as equity... It's the same. ...so that you're not going to dilute yourself any more, and that 7%'s gonna get diluted down to about 4% by the time you finish. And I'll help you with the A round. A lot more than that. I know how to do that syndication. I love the deal, so I'm definitely considering it. It's not off the table.",
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "I love the deal, so I'm definitely considering it. It's not off the table.",
+                    "new_metrics_revealed": [
+                        {
+                            "competitor_example": "Plated"
+                        },
+                        {
+                            "plated_acquisition_price": {
+                                "value": 340000000,
+                                "unit": "USD"
+                            }
+                        },
+                        {
+                            "funding_needed_series_A": {
+                                "value": "5-10 million",
+                                "unit": "USD"
+                            }
+                        },
+                        {
+                            "offer_debt_equity_split": {
+                                "debt_amount": 500000,
+                                "debt_interest_rate": 9.5,
+                                "equity_percentage": 7
+                            }
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q26",
+                    "sequence_number": 26,
+                    "investor": "Daymond",
+                    "raw_text": "Jared, I love it, except I just realized something. I don't think it's gonna work. I actually think you're gonna start losing far more money as you get bigger. Yeah. And the only light at the end of that tunnel is somebody buying you out. You've got to be everywhere tomorrow. I see too much risk for me in this. I hear you. I'm out. I appreciate it. Thank you very much.",
+                    "basic_category": "Risk",
+                    "contains_metrics": false,
+                    "response_text": "I appreciate it. Thank you very much.",
+                    "new_metrics_revealed": [],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q27",
+                    "sequence_number": 27,
+                    "investor": "Robert",
+                    "raw_text": "Yeah. Yeah. So... I think you're in trouble, but I actually like you so much, maybe 'cause of the salad, that I \u2010\u2010 You started with $1,000. That's as underdog as you can get. Yeah, I'm not mad at it, right? I think you're gonna have to raise a lot of money or you're gonna die, and I see a lot of these deals, but I just don't know if you're gonna be able to make it through that critical time. Sure. Well, this is the critical time, right? And for us, 500 doors represents $5 million. I know it is, but I don't want it to be a critical time for my money, so I'm out.",
+                    "basic_category": "Risk",
+                    "contains_metrics": true,
+                    "response_text": "Sure. Well, this is the critical time, right? And for us, 500 doors represents $5 million.",
+                    "new_metrics_revealed": [
+                        {
+                            "revenue_projection_per_door": {
+                                "value": 10000,
+                                "unit": "USD/door",
+                                "calculation": "5 million / 500 doors"
+                            }
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q28",
+                    "sequence_number": 28,
+                    "investor": "Lori",
+                    "raw_text": "Listen, you were in a situation in COVID. It wasn't working. Everything closed down. You created something new. I would actually consider going in on this deal with Kevin. Kevin? 'Cause I don't normally \u2010\u2010 I'm a lone shark. I like to do things myself. But the reason why I would consider is because I think with my sales and marketing skills, packaging skills, and I like Kevin, and his experience with Plated, I find very appealing. I think it's a good combo because we get the marketing from Lori. But I want to work with you on the A round. Look, I'll make it official. I'll go in with her, same deal. We'll go 50/50, exactly the terms detailed. I want to work on funding the next round. Or do you want to hear what Mark has to say?",
+                    "basic_category": "Deal",
+                    "contains_metrics": false,
+                    "response_text": "I always want to entertain what's in front of me, too, so... Want to throw your foot in, please do.",
+                    "new_metrics_revealed": [
+                        {
+                            "investor_collaboration_potential": "Lori and Kevin considering joint investment"
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q29",
+                    "sequence_number": 29,
+                    "investor": "Mark",
+                    "raw_text": "So, I'll match their offer, but at 3% interest. But I'm gonna suggest that we don't push for the series A. That's a mistake. You will never be a Plated if you stay small. Look, you're already positioned to scale, right? Yes. This is tough. You know what? I would not be a billionaire if I had just kept on raising money over and over and over again. I'm with it. Right? Yeah. Damn, that's nice to say. We're not gonna have to keep raising. We're gonna be doing so well... That's just putting it on the table right there. ...we won't have to keep raising. \"Here you go, homey.\"",
+                    "basic_category": "Deal",
+                    "contains_metrics": true,
+                    "response_text": "Jared, here's how I look at it. You know, you have three very different people sitting here. I do. I don't think we're going to have to worry. Kevin wants to, like, raise more money. But what I like to do is I like to get so many sales and do it so fast and blitz out so fast... Exactly. So, Lori, you and I should be working together. ...that you're not going to have to do a whole bunch of raising. She's right. She's actually right on that. Right? Yeah. You know what, Jared? I'll change my offer. I'm not gonna do it as a loan. I'm gonna do it as equity. I'll offer you $500,000 for 7%. Did you want me in on it? Did you make an offer to me earlier? I'll do that deal as equity right now. Done. Both of you? Us? Oh, the two of us, you mean? Would you be willing to go in with Mark as an equity deal, $500,000, 8%, 4% and 4%, call it a deal? You make it 10%, I'll split it with her. If you make it 10%, I'll do that deal. As equity.",
+                    "new_metrics_revealed": [
+                        {
+                            "offer_mark_debt_equity": {
+                                "debt_amount": 500000,
+                                "debt_interest_rate": 3,
+                                "equity_percentage": 7
+                            }
+                        },
+                        {
+                            "strategy_suggestion_mark": "Avoid series A, focus on rapid sales growth"
+                        },
+                        {
+                            "offer_lori_kevin_joint": {
+                                "amount": 500000,
+                                "equity_percentage": 7,
+                                "investors": [
+                                    "Lori",
+                                    "Kevin"
+                                ]
+                            }
+                        },
+                        {
+                            "counter_offer_lori_kevin_mark_equity_split_8": {
+                                "amount": 500000,
+                                "equity_percentage": 8,
+                                "investors": [
+                                    "Lori",
+                                    "Kevin",
+                                    "Mark"
+                                ],
+                                "split": "4%, 4%, split unspecified"
+                            }
+                        },
+                        {
+                            "counter_offer_lori_kevin_mark_equity_split_10": {
+                                "amount": 500000,
+                                "equity_percentage": 10,
+                                "investors": [
+                                    "Lori",
+                                    "Kevin",
+                                    "Mark"
+                                ],
+                                "split": "5%, 5%, split unspecified"
+                            }
+                        }
+                    ],
+                    "confidence": 1.0
+                },
+                {
+                    "question_id": "Q30",
+                    "sequence_number": 30,
+                    "investor": "Jared (Entrepreneur)",
+                    "raw_text": "Can we go up a little bit in dollars? You're getting two Sharks. Come on. I know. And we're gonna increase your sales. Come on, baby. And think about it \u2010\u2010 Okay, 10%, deal. Done. Done.",
+                    "basic_category": "Negotiation",
+                    "contains_metrics": false,
+                    "response_text": "Done. Boom! Let's shake that salad.",
+                    "new_metrics_revealed": [],
+                    "confidence": 1.0
+                }
+            ],
+            "interaction_dynamics": {
+                "investor_interest_indicators": {
+                    "positive_responses": [
+                        "\"This is very, very good.\"",
+                        "\"It's really good, really good.\"",
+                        "\"Yeah, it's fresh.\"",
+                        "\"I'm a believer in this space. And I like the product.\"",
+                        "\"I actually like you so much, maybe 'cause of the salad\""
+                    ],
+                    "negative_responses": [
+                        "\"I think you're in trouble.\"",
+                        "\"I don't think it's gonna work.\"",
+                        "\"I see too much risk for me in this.\"",
+                        "\"I don't want it to be a critical time for my money, so I'm out.\""
+                    ],
+                    "skepticism_indicators": [
+                        "\"You're gonna need several more raises.\"",
+                        "\"You're not gonna be in control of the company anymore\"",
+                        "\"I actually think you're gonna start losing far more money as you get bigger.\"",
+                        "\"I just don't know if you're gonna be able to make it through that critical time.\""
+                    ]
+                },
+                "negotiation_dynamics": {
+                    "counter_offers": [
+                        "Kevin's debt offer: $500,000 as debt at 9.5%, and 7% equity",
+                        "Mark's debt offer: $500,000 as debt at 3%, and 7% equity",
+                        "Lori & Kevin joint equity offer: $500,000 for 7% equity",
+                        "Lori & Kevin & Mark equity counter offer: $500,000 for 8% equity",
+                        "Final deal: $500,000 for 10% equity (Lori & Mark)"
+                    ],
+                    "deal_breakers": [
+                        "Daymond's concern about increasing losses with scale",
+                        "Robert's risk aversion related to critical financial time"
+                    ],
+                    "key_concerns": [
+                        "Lack of profitability",
+                        "High burn rate",
+                        "Need for future funding rounds",
+                        "Risk of losing control"
+                    ]
+                }
+            },
+            "pitch_structure": {
+                "initial_pitch_segment": {
+                    "start_time": "beginning of transcript",
+                    "end_time": "after 'So tell me, who wants to shake things up and help us create the new standard for eating on the go?'",
+                    "key_points": [
+                        "Introduction of Jared Cannon and Simply Good Jars",
+                        "Seeking $500,000 for 7% equity",
+                        "Description of product - salads in jars",
+                        "USP - Freshness, convenience, returnable jars, social mission"
+                    ]
+                },
+                "qa_segment": {
+                    "start_time": "after 'Can we try it?'",
+                    "end_time": "before Kevin's debt offer",
+                    "question_count": 25
+                },
+                "negotiation_segment": {
+                    "start_time": "Kevin's debt offer",
+                    "end_time": "Deal acceptance - 'Okay, 10%, deal. Done. Done.'",
+                    "key_events": [
+                        "Kevin's debt and equity offer",
+                        "Daymond and Robert out",
+                        "Lori considers joint offer with Kevin",
+                        "Mark's debt offer",
+                        "Lori and Kevin joint equity offer",
+                        "Mark matches equity offer and suggests different strategy",
+                        "Negotiation for increased equity percentage",
+                        "Final deal at 10% equity with Lori and Mark"
+                    ]
+                }
+            },
+            "extraction_metadata": {
+                "confidence_scores": {
+                    "speaker_identification": 0.9,
+                    "question_classification": 1.0,
+                    "metric_extraction": 1.0,
+                    "business_classification": 1.0
+                },
+                "extraction_challenges": [],
+                "data_quality_flags": []
+            }
+        }
+    ],
+    "episode_validation": {
+        "completeness": {
+            "all_pitches_processed": true,
+            "pitch_count": 1,
+            "missing_pitches": []
+        },
+        "consistency": {
+            "schema_adherence": true,
+            "cross_pitch_references": false
+        }
+    }
+}

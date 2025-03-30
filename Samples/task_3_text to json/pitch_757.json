@@ -1,0 +1,715 @@
+{
+    "episode_metadata": {
+        "show_name": "Shark Tank",
+        "season": 11,
+        "episode": 14,
+        "air_date": "not_provided",
+        "total_pitches": 1
+    },
+    "pitches": [
+        {
+            "business_id": "pitch_1_fadis_by_fudd",
+            "business_basics": {
+                "business_name": "Fadis by Fudd",
+                "founder_names": [
+                    "Luke",
+                    "Chrissy"
+                ],
+                "founder_roles": [
+                    "Business",
+                    "Recipes/Food"
+                ],
+                "location": "Melbourne",
+                "industry_category": [
+                    "Specialty Food",
+                    "Food & Beverage"
+                ],
+                "business_model_type": "B2C/Product & Retail & Wholesale"
+            },
+            "pitch_metrics": {
+                "ask_amount": 100000,
+                "equity_offered": 10,
+                "implied_valuation": 1000000,
+                "final_deal_terms": {
+                    "deal_made": true,
+                    "offered_amount": 100000,
+                    "equity_taken": 40,
+                    "investors": [
+                        "Janine"
+                    ]
+                },
+                "participating_investors": [
+                    "Steve",
+                    "Janine",
+                    "Naomi",
+                    "Andrew",
+                    "Glen"
+                ]
+            },
+            "business_metrics": {
+                "basic_metrics": {
+                    "revenue": 210000,
+                    "margins": "not_provided",
+                    "costs": "not_provided",
+                    "price_points": "not_provided"
+                },
+                "market_metrics": {
+                    "market_size": "not_provided",
+                    "market_share": "not_provided",
+                    "competitors": []
+                },
+                "deal_metrics": {
+                    "ask_amount": 100000,
+                    "equity_offered": 10,
+                    "implied_valuation": 1000000,
+                    "final_terms": {
+                        "deal_made": true,
+                        "offered_amount": 100000,
+                        "equity_taken": 40,
+                        "investors": [
+                            "Janine"
+                        ]
+                    }
+                }
+            },
+            "questions_asked": [
+                {
+                    "question_id": "q1_terminology_fodmap",
+                    "raw_text": "so I just need to get thisterminology low fodmap low fodmap or lowso low folk so the map ma p yes yes ODmep it's an acronym acronym yeah andwhat does it stand forit stands for fermentableoligosaccharides disaccharidesmonosaccharides and polyols which is whywe call it fodmap",
+                    "investor": "Steve",
+                    "sequence_number": 1,
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "it stands for fermentableoligosaccharides disaccharidesmonosaccharides and polyols which is whywe call it fodmap",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q2_valuation_check",
+                    "raw_text": "that was $100,000 for 10% so you'revaluing your company at around a millionbucks that's correct yeah exactly$1,000,000 exactly nice round figurethat's terrific",
+                    "investor": "Steve",
+                    "sequence_number": 2,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "that's correct yeah exactly$1,000,000 exactly",
+                    "new_metrics_revealed": [
+                        "1,000,000 valuation"
+                    ]
+                },
+                {
+                    "question_id": "q3_founder_relationship",
+                    "raw_text": "and are you two related in someway no we are partners we'reboyfriend/girlfriend right okay that'sright you're not related but you'rehaving relations I get that okay yeah",
+                    "investor": "Steve",
+                    "sequence_number": 3,
+                    "basic_category": "Team",
+                    "contains_metrics": false,
+                    "response_text": "no we are partners we'reboyfriend/girlfriend",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q4_business_duration",
+                    "raw_text": "so how long have you been in business 14months",
+                    "investor": "Steve",
+                    "sequence_number": 4,
+                    "basic_category": "Operations",
+                    "contains_metrics": true,
+                    "response_text": "seriously so we actually startedwith an online store last year",
+                    "new_metrics_revealed": [
+                        "14 months in business"
+                    ]
+                },
+                {
+                    "question_id": "q5_recipe_origin",
+                    "raw_text": "who cameup with the recipes I do so I do thefood good job and and Luke does thebusiness and when I was diagnosed aboutseven years ago is really where mypassion started so I started to makerecipes create new for you diagnose with",
+                    "investor": "Steve",
+                    "sequence_number": 5,
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "I do so I do thefood good job and and Luke does thebusiness and when I was diagnosed aboutseven years ago is really where mypassion started so I started to makerecipes create new for you diagnose with",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q6_founder_diagnosis",
+                    "raw_text": "so I have fructose malabsorption andlactose intolerant what does that meanwhat are you symptoms for that when Ieat the wrong foods and I get severelybloatedum and I have some I'm not sayingregular bowel movement yes thank you yesthank you for sharing",
+                    "investor": "Steve",
+                    "sequence_number": 6,
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "when Ieat the wrong foods and I get severelybloatedum and I have some I'm not sayingregular bowel movement yes thank you yesthank you for sharing",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q7_financial_performance_last_year",
+                    "raw_text": "so tell usa little bit more about the financialside of the business sure what does thatlook like yes so last financial year inthe nine months that we were seriouslyoperational we generated revenues of twohundred and ten thousand dollars",
+                    "investor": "Steve",
+                    "sequence_number": 7,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "yes so last financial year inthe nine months that we were seriouslyoperational we generated revenues of twohundred and ten thousand dollars",
+                    "new_metrics_revealed": [
+                        "210,000 revenue (last 9 months)"
+                    ]
+                },
+                {
+                    "question_id": "q8_financial_projections_this_year",
+                    "raw_text": "thiscoming financial year we're projectingrevenues of about four hundred thousanddollars",
+                    "investor": "Steve",
+                    "sequence_number": 8,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "thiscoming financial year we're projectingrevenues of about four hundred thousanddollars",
+                    "new_metrics_revealed": [
+                        "400,000 projected revenue (this financial year)"
+                    ]
+                },
+                {
+                    "question_id": "q9_fodmap_category_belief",
+                    "raw_text": "are you trying to create a wholenew category of food or does thiscategory of food already exist it existsat a smaller scale than what we'recurrently see we see lots of businessesfirst non-low minor fodmap business everyeah but we've seen getting free beforewhat percentage of the population has aFord map issue and just just talk methrough it because I don't believe thisexists as a category",
+                    "investor": "Steve",
+                    "sequence_number": 9,
+                    "basic_category": "Market",
+                    "contains_metrics": false,
+                    "response_text": "it existsat a smaller scale than what we'recurrently see we see lots of businessesfirst non-low minor fodmap business everyeah but we've seen getting free beforewhat percentage of the population has aFord map issue and just just talk methrough it because I don't believe thisexists as a category",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q10_fodmap_population_percentage",
+                    "raw_text": "what percentage of the population has aFord map issue",
+                    "investor": "Steve",
+                    "sequence_number": 10,
+                    "basic_category": "Market",
+                    "contains_metrics": true,
+                    "response_text": "estimates range between one in fiveto one in three now personally I thinkthe one in three so I'm sorry okay let'sjust let's just let's just sanity checkyeah twenty to thirty three percentnumber yeah twenty to thirty threepercent of people that's more thanbloody diabetes for crying out loud",
+                    "new_metrics_revealed": [
+                        "20-33% population with FODMAP issues"
+                    ]
+                },
+                {
+                    "question_id": "q11_business_breakdown_cafe_wholesale",
+                    "raw_text": "so I'mtrying to understand to business you'vegot your cafe and you got your fadibranded supermarket style yeahfoods here that's correct break thebusiness down for me so you've got acafe what does that turnover the cafe sothis financial year it's 80% of therevenue we've generated to date which isa hundred and thirty thousand dollars",
+                    "investor": "Andrew",
+                    "sequence_number": 11,
+                    "basic_category": "Operations",
+                    "contains_metrics": false,
+                    "response_text": "the cafe sothis financial year it's 80% of therevenue we've generated to date which isa hundred and thirty thousand dollars",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q12_business_parts_explanation",
+                    "raw_text": "explain the other parts you businessthingsure so the eighty percent is the cafe10% of the business this financial yearare the ready-made meals and theremaining 10% that is the wholesale thatwe're selling out of a store",
+                    "investor": "Andrew",
+                    "sequence_number": 12,
+                    "basic_category": "Operations",
+                    "contains_metrics": true,
+                    "response_text": "sure so the eighty percent is the cafe10% of the business this financial yearare the ready-made meals and theremaining 10% that is the wholesale thatwe're selling out of a store",
+                    "new_metrics_revealed": [
+                        "Cafe: 80% of revenue",
+                        "Ready-made meals: 10% of revenue",
+                        "Wholesale: 10% of revenue"
+                    ]
+                },
+                {
+                    "question_id": "q13_cafe_turnover_assessment",
+                    "raw_text": "$130,000 ina cafe in any cafe is not a good resultit's not like eight oh my god agreed andthat that's the immediate scalability isthe wholesale business which is whythat's what we're focusing we're notfocusing on the retail in cafe storebecause the wholesale and productionbusiness is scalable quickly and morecost-effectively",
+                    "investor": "Andrew",
+                    "sequence_number": 13,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "agreed andthat that's the immediate scalability isthe wholesale business which is whythat's what we're focusing we're notfocusing on the retail in cafe storebecause the wholesale and productionbusiness is scalable quickly and morecost-effectively",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q14_cafe_role_in_business",
+                    "raw_text": "now the cafe and retail outlet serves areally important role in the businessbecause if I can just quickly growsomething when we have a new product weput it in a jar we've put it on theshelf we will give it two to threemonths and if it sells we keep it whichmeans that we have a huge competitiveadvantage over not just our directcompetitors but even our largercompetitors but our focus is onwholesale and food production becauseit's scalable quickly yep and then oncewe're established we then want to rollout an international press so you'reusing your cafe as a sampling exerciseeffectively and that's that's what wewanted to be is good we do to minimizeViable Product test it you've gotcustomers who are giving you feedbackbecause they either buy it or they do itexactly or you scale",
+                    "investor": "Andrew",
+                    "sequence_number": 14,
+                    "basic_category": "Strategy",
+                    "contains_metrics": false,
+                    "response_text": "when we have a new product weput it in a jar we've put it on theshelf we will give it two to threemonths and if it sells we keep it whichmeans that we have a huge competitiveadvantage over not just our directcompetitors but even our largercompetitors but our focus is onwholesale and food production becauseit's scalable quickly",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q15_growth_plan_next_years",
+                    "raw_text": "where are we seeingthe next three four years ago personwell we've just signed on a distributoractually we got the email this morningsaying they're gonna be putting us infront of 450 stores in Victoria and NewSouth Wales which is really exciting",
+                    "investor": "Andrew",
+                    "sequence_number": 15,
+                    "basic_category": "Strategy",
+                    "contains_metrics": true,
+                    "response_text": "well we've just signed on a distributorthey're gonna be putting us infront of 450 stores in Victoria and NewSouth Wales which is really exciting",
+                    "new_metrics_revealed": [
+                        "Distribution to 450 stores"
+                    ]
+                },
+                {
+                    "question_id": "q16_recipe_protection",
+                    "raw_text": "what about your recipes they're notI'm in there your recipes that theirdefinition others could copy them yeahabsolutely so that is a bit of a barrierit look that applies to any foodbusiness",
+                    "investor": "Andrew",
+                    "sequence_number": 16,
+                    "basic_category": "Risk",
+                    "contains_metrics": false,
+                    "response_text": "yeahabsolutely so that is a bit of a barrierit look that applies to any foodbusiness",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q17_funding_amount_adequacy",
+                    "raw_text": "I'm just thinking through the cost ofbuilding a brand you are trying to builda brand in a niche market you know it'stricky because I don't think you'relooking for enough money you need a lotmore money to build a brand than ahundred thousand so you're gonna try anddo this incrementally and then you'regonna need to raise more money and thenyou're gonna need to raise a lot moremoney so I'm mulling that over I don'twant to",
+                    "investor": "Andrew",
+                    "sequence_number": 17,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "so you're gonna try anddo this incrementally and then you'regonna need to raise more money and thenyou're gonna need to raise a lot moremoney so I'm mulling that over I don'twant to",
+                    "new_metrics_revealed": [
+                        "100,000 ask is potentially insufficient"
+                    ]
+                },
+                {
+                    "question_id": "q18_reason_for_out_naomi",
+                    "raw_text": "I've neverheard of fodmap before but guess that'sbecause I'm not from Melbourne oops I'mreally glad that you've got into 450retailers I think you do fabulously wellyou carve out a great business foryourself but it's not an investment forme so for that reason I'm out",
+                    "investor": "Naomi",
+                    "sequence_number": 18,
+                    "basic_category": "Market",
+                    "contains_metrics": true,
+                    "response_text": "I think you do fabulously wellyou carve out a great business foryourself but it's not an investment forme so for that reason I'm out",
+                    "new_metrics_revealed": [
+                        "Distribution to 450 retailers (mentioned again)"
+                    ]
+                },
+                {
+                    "question_id": "q19_reason_for_out_glen",
+                    "raw_text": "I have twogolden rules in investing you know my mymoney is a bit like soldiers I like himto come back you've probably heard thatbefore but I mean generally I can't getaway from these two issues barriers toentry and scalability and for thatreason I'm out",
+                    "investor": "Glen",
+                    "sequence_number": 19,
+                    "basic_category": "Risk",
+                    "contains_metrics": false,
+                    "response_text": "I mean generally I can't getaway from these two issues barriers toentry and scalability and for thatreason I'm out",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q20_numbers_convincing_andrew",
+                    "raw_text": "I am teetering on the on the top I amgoing oh I can sort of see where thecafe can go I can see the wholesale justI just aren't come the numbers haven'tconvinced me you guys have convinced meyep the numbers at this pointDevin convinced meI'm sorry I'm at",
+                    "investor": "Andrew",
+                    "sequence_number": 20,
+                    "basic_category": "Financial",
+                    "contains_metrics": false,
+                    "response_text": "the numbers haven'tconvinced me you guys have convinced meyep the numbers at this pointDevin convinced meI'm sorry I'm at",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q21_counter_offer_possible",
+                    "raw_text": "is there anything we can do to changeyour mind I'll come back mixed you yescome back next year with more tractionyepgood luck tool I think if you don't giveup keep scholarly days you'll get theregood luck",
+                    "investor": "Andrew",
+                    "sequence_number": 21,
+                    "basic_category": "Strategy",
+                    "contains_metrics": false,
+                    "response_text": "come back next year with more traction",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q22_sales_seasonality",
+                    "raw_text": "I will say as well we are entering astronger period like last year this thesummer months and the autumn months wereour best periods so I think that it willbe growing quite something significantly",
+                    "investor": "Luke",
+                    "sequence_number": 22,
+                    "basic_category": "Financial",
+                    "contains_metrics": false,
+                    "response_text": "last year this thesummer months and the autumn months wereour best periods so I think that it willbe growing quite something significantly",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q23_andrew_final_decision",
+                    "raw_text": "you don't know no you're fantastic Ithink the numbers just aren't solidenough for me definitely know you've gottime",
+                    "investor": "Andrew",
+                    "sequence_number": 23,
+                    "basic_category": "Financial",
+                    "contains_metrics": false,
+                    "response_text": "Ithink the numbers just aren't solidenough for me definitely know you've gottime",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q24_market_size_reiteration",
+                    "raw_text": "are you absolutely sure it is a bigopportunitydomestically the gluten-free market isworth a hundred million dollars peopledidn't really know anything about glutenfree 15 years ago that's where we arewith low fodmap today",
+                    "investor": "Janine",
+                    "sequence_number": 24,
+                    "basic_category": "Market",
+                    "contains_metrics": true,
+                    "response_text": "domestically the gluten-free market isworth a hundred million dollars peopledidn't really know anything about glutenfree 15 years ago that's where we arewith low fodmap today",
+                    "new_metrics_revealed": [
+                        "Gluten-free market size: $100 million"
+                    ]
+                },
+                {
+                    "question_id": "q25_international_demand",
+                    "raw_text": "we know that atleast a hundred people in the US wouldbuy our product there's a hundred peoplein the US has said to us and we needyour product here someone came down fromNorway she couldn't speak English ittook her three days to find the shop butshe finally got there where he loved itamazing",
+                    "investor": "Janine",
+                    "sequence_number": 25,
+                    "basic_category": "Market",
+                    "contains_metrics": true,
+                    "response_text": "we know that atleast a hundred people in the US wouldbuy our product there's a hundred peoplein the US has said to us and we needyour product here someone came down fromNorway she couldn't speak English ittook her three days to find the shop butshe finally got there where he loved itamazing",
+                    "new_metrics_revealed": [
+                        "100+ potential US customers"
+                    ]
+                },
+                {
+                    "question_id": "q26_deal_offer_janine",
+                    "raw_text": "we want to help you're made forthis Thunder team 40% hundred thousandOhwas it was it what I said you were afteryou are after um 10% for a hundredthousand",
+                    "investor": "Janine",
+                    "sequence_number": 26,
+                    "basic_category": "Deal",
+                    "contains_metrics": true,
+                    "response_text": "you are after um 10% for a hundredthousand",
+                    "new_metrics_revealed": [
+                        "Offer: $100,000 for 40% equity"
+                    ]
+                },
+                {
+                    "question_id": "q27_deal_acceptance",
+                    "raw_text": "you are after um 10% for a hundredthousandyou've got no profit there's no profitit's a reason I was out uma Janine I think we're absolutely thankyou very excited thank you thank youvery much thank you to somebody's name",
+                    "investor": "Janine",
+                    "sequence_number": 27,
+                    "basic_category": "Deal",
+                    "contains_metrics": false,
+                    "response_text": "Janine I think we're absolutely thankyou very excited thank you thank youvery much thank you to somebody's name",
+                    "new_metrics_revealed": []
+                }
+            ],
+            "responses": [
+                {
+                    "question_id": "q1_terminology_fodmap",
+                    "response_text": "it stands for fermentableoligosaccharides disaccharidesmonosaccharides and polyols which is whywe call it fodmap",
+                    "responding_person": "Luke/Chrissy",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q2_valuation_check",
+                    "response_text": "that's correct yeah exactly$1,000,000 exactly",
+                    "responding_person": "Luke",
+                    "numerical_data_mentioned": [
+                        1000000
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q3_founder_relationship",
+                    "response_text": "no we are partners we'reboyfriend/girlfriend",
+                    "responding_person": "Luke/Chrissy",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q4_business_duration",
+                    "response_text": "seriously so we actually startedwith an online store last year",
+                    "responding_person": "Luke",
+                    "numerical_data_mentioned": [
+                        14
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q5_recipe_origin",
+                    "response_text": "I do so I do thefood good job and and Luke does thebusiness and when I was diagnosed aboutseven years ago is really where mypassion started so I started to makerecipes create new for you diagnose with",
+                    "responding_person": "Chrissy",
+                    "numerical_data_mentioned": [
+                        7
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q6_founder_diagnosis",
+                    "response_text": "when Ieat the wrong foods and I get severelybloatedum and I have some I'm not sayingregular bowel movement yes thank you yesthank you for sharing",
+                    "responding_person": "Chrissy",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q7_financial_performance_last_year",
+                    "response_text": "yes so last financial year inthe nine months that we were seriouslyoperational we generated revenues of twohundred and ten thousand dollars",
+                    "responding_person": "Luke",
+                    "numerical_data_mentioned": [
+                        210000,
+                        9
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q8_financial_projections_this_year",
+                    "response_text": "thiscoming financial year we're projectingrevenues of about four hundred thousanddollars",
+                    "responding_person": "Luke",
+                    "numerical_data_mentioned": [
+                        400000
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q9_fodmap_category_belief",
+                    "response_text": "it existsat a smaller scale than what we'recurrently see we see lots of businessesfirst non-low minor fodmap business everyeah but we've seen getting free beforewhat percentage of the population has aFord map issue and just just talk methrough it because I don't believe thisexists as a category",
+                    "responding_person": "Luke",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q10_fodmap_population_percentage",
+                    "response_text": "estimates range between one in fiveto one in three now personally I thinkthe one in three so I'm sorry okay let'sjust let's just let's just sanity checkyeah twenty to thirty three percentnumber yeah twenty to thirty threepercent of people that's more thanbloody diabetes for crying out loud",
+                    "responding_person": "Luke",
+                    "numerical_data_mentioned": [
+                        "one in five",
+                        "one in three",
+                        "20",
+                        "33"
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q11_business_breakdown_cafe_wholesale",
+                    "response_text": "the cafe sothis financial year it's 80% of therevenue we've generated to date which isa hundred and thirty thousand dollars",
+                    "responding_person": "Luke",
+                    "numerical_data_mentioned": [
+                        80,
+                        130000
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q12_business_parts_explanation",
+                    "response_text": "sure so the eighty percent is the cafe10% of the business this financial yearare the ready-made meals and theremaining 10% that is the wholesale thatwe're selling out of a store",
+                    "responding_person": "Luke",
+                    "numerical_data_mentioned": [
+                        80,
+                        10,
+                        10
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q13_cafe_turnover_assessment",
+                    "response_text": "agreed andthat that's the immediate scalability isthe wholesale business which is whythat's what we're focusing we're notfocusing on the retail in cafe storebecause the wholesale and productionbusiness is scalable quickly and morecost-effectively",
+                    "responding_person": "Luke",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q14_cafe_role_in_business",
+                    "response_text": "when we have a new product weput it in a jar we've put it on theshelf we will give it two to threemonths and if it sells we keep it whichmeans that we have a huge competitiveadvantage over not just our directcompetitors but even our largercompetitors but our focus is onwholesale and food production becauseit's scalable quickly",
+                    "responding_person": "Luke",
+                    "numerical_data_mentioned": [
+                        "two to three months"
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q15_growth_plan_next_years",
+                    "response_text": "well we've just signed on a distributorthey're gonna be putting us infront of 450 stores in Victoria and NewSouth Wales which is really exciting",
+                    "responding_person": "Luke",
+                    "numerical_data_mentioned": [
+                        450
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q16_recipe_protection",
+                    "response_text": "yeahabsolutely so that is a bit of a barrierit look that applies to any foodbusiness",
+                    "responding_person": "Luke",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q17_funding_amount_adequacy",
+                    "response_text": "so you're gonna try anddo this incrementally and then you'regonna need to raise more money and thenyou're gonna need to raise a lot moremoney so I'm mulling that over I don'twant to",
+                    "responding_person": "Andrew",
+                    "numerical_data_mentioned": [
+                        100000
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q18_reason_for_out_naomi",
+                    "response_text": "I think you do fabulously wellyou carve out a great business foryourself but it's not an investment forme so for that reason I'm out",
+                    "responding_person": "Naomi",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q19_reason_for_out_glen",
+                    "response_text": "I mean generally I can't getaway from these two issues barriers toentry and scalability and for thatreason I'm out",
+                    "responding_person": "Glen",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q20_numbers_convincing_andrew",
+                    "response_text": "the numbers haven'tconvinced me you guys have convinced meyep the numbers at this pointDevin convinced meI'm sorry I'm at",
+                    "responding_person": "Andrew",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q21_counter_offer_possible",
+                    "response_text": "come back next year with more traction",
+                    "responding_person": "Andrew",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q22_sales_seasonality",
+                    "response_text": "last year this thesummer months and the autumn months wereour best periods so I think that it willbe growing quite something significantly",
+                    "responding_person": "Luke",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q23_andrew_final_decision",
+                    "response_text": "Ithink the numbers just aren't solidenough for me definitely know you've gottime",
+                    "responding_person": "Andrew",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q24_market_size_reiteration",
+                    "response_text": "domestically the gluten-free market isworth a hundred million dollars peopledidn't really know anything about glutenfree 15 years ago that's where we arewith low fodmap today",
+                    "responding_person": "Janine",
+                    "numerical_data_mentioned": [
+                        100000000
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q25_international_demand",
+                    "response_text": "we know that atleast a hundred people in the US wouldbuy our product there's a hundred peoplein the US has said to us and we needyour product here someone came down fromNorway she couldn't speak English ittook her three days to find the shop butshe finally got there where he loved itamazing",
+                    "responding_person": "Janine",
+                    "numerical_data_mentioned": [
+                        100
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q26_deal_offer_janine",
+                    "response_text": "you are after um 10% for a hundredthousand",
+                    "responding_person": "Janine",
+                    "numerical_data_mentioned": [
+                        10,
+                        100000
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q27_deal_acceptance",
+                    "response_text": "Janine I think we're absolutely thankyou very excited thank you thank youvery much thank you to somebody's name",
+                    "responding_person": "Luke",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                }
+            ],
+            "market_information": {
+                "target_market_size": "not_provided",
+                "current_market_share": "not_provided",
+                "competitors": [],
+                "market_growth_rate": "not_provided"
+            },
+            "product_service_information": {
+                "core_offering_description": "Low FODMAP, gluten-free, allergy-friendly packaged food products",
+                "unique_selling_proposition": "Delicious, easy to digest food for people with stomach issues",
+                "patent_ip_status": "not_provided",
+                "development_stage": "Retail outlet and cafe in Melbourne, packaged products, wholesale distribution starting"
+            },
+            "deal_outcome": {
+                "final_result": "deal",
+                "final_terms_details": {
+                    "offered_amount": 100000,
+                    "equity_percentage": 40,
+                    "investors": [
+                        "Janine"
+                    ]
+                },
+                "number_of_interested_investors": 1,
+                "contingencies_placed": "none"
+            },
+            "data_quality_indicators": {
+                "missing_critical_data_flags": [],
+                "unclear_information_flags": [],
+                "investor_attribution_confidence": 1
+            },
+            "interaction_dynamics": {
+                "investor_interest_indicators": {
+                    "positive_responses": [
+                        "Janine offering a deal",
+                        "Naomi saying 'you do fabulously well'",
+                        "Andrew saying 'you guys have convinced me'"
+                    ],
+                    "negative_responses": [
+                        "Steve 'I won't be investing I don't believe in it'",
+                        "Naomi 'it's not an investment for me'",
+                        "Glen 'barriers to entry and scalability and for that reason I'm out'",
+                        "Andrew 'numbers haven't convinced me'"
+                    ],
+                    "skepticism_indicators": [
+                        "Steve's initial skepticism about FODMAP as a category",
+                        "Andrew's concern about cafe turnover",
+                        "Andrew's concern about funding amount being too low",
+                        "Glen's concern about barriers to entry and scalability"
+                    ]
+                },
+                "negotiation_dynamics": {
+                    "counter_offers": [],
+                    "deal_breakers": [
+                        "Steve's disbelief in the category",
+                        "Andrew's initial hesitation due to numbers",
+                        "Naomi's and Glen's concerns about investment fit"
+                    ],
+                    "key_concerns": [
+                        "Lack of profit (mentioned by Janine)",
+                        "Cafe performance",
+                        "Scalability of wholesale",
+                        "Barriers to entry for recipes",
+                        "Funding amount adequacy"
+                    ]
+                }
+            },
+            "pitch_structure": {
+                "initial_pitch_segment": {
+                    "start_time": "0:00",
+                    "end_time": "0:30",
+                    "key_points": [
+                        "Introduction of Fadis by Fudd",
+                        "Seeking $100k for 10% equity",
+                        "Description of low FODMAP food and target market",
+                        "Product demonstration with samples",
+                        "Vision to be the largest specialty food brand"
+                    ]
+                },
+                "qa_segment": {
+                    "start_time": "0:30",
+                    "end_time": "5:00",
+                    "question_count": 27
+                },
+                "negotiation_segment": {
+                    "start_time": "5:00",
+                    "end_time": "6:00",
+                    "key_events": [
+                        "Janine offers $100k for 40%",
+                        "Entrepreneurs accept Janine's offer",
+                        "Proposal and acceptance"
+                    ]
+                }
+            }
+        }
+    ],
+    "episode_validation": {
+        "completeness": {
+            "all_pitches_processed": true,
+            "pitch_count": 1,
+            "missing_pitches": []
+        },
+        "consistency": {
+            "schema_adherence": true,
+            "cross_pitch_references": false
+        }
+    },
+    "extraction_metadata": {
+        "confidence_scores": {
+            "speaker_identification": 1.0,
+            "question_classification": 0.9,
+            "metric_extraction": 0.95,
+            "business_classification": 0.9
+        },
+        "extraction_challenges": [],
+        "data_quality_flags": []
+    }
+}

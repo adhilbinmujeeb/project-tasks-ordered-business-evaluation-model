@@ -1,0 +1,536 @@
+{
+    "episode_metadata": {
+        "show_name": "Shark Tank",
+        "season": 11,
+        "episode": 14,
+        "air_date": "2020-01-24",
+        "total_pitches": 1
+    },
+    "pitches": [
+        {
+            "pitch_id": "pitch_1",
+            "business_basics": {
+                "business_name": "Wearable X (Nadi X)",
+                "founder_names_and_roles": [
+                    {
+                        "name": "Billy White House",
+                        "role": "CEO and Founder"
+                    }
+                ],
+                "location": "Sydney (born), USA (based)",
+                "industry_category": [
+                    "Fitness",
+                    "Technology",
+                    "Apparel",
+                    "Yoga"
+                ],
+                "business_model_type": [
+                    "B2C",
+                    "Product"
+                ]
+            },
+            "pitch_metrics": {
+                "initial_ask_amount": 1800000,
+                "equity_offered": 18,
+                "implied_valuation": 10000000,
+                "final_deal_terms": "no deal",
+                "participating_investors": []
+            },
+            "business_metrics": {
+                "basic_metrics": {
+                    "current_revenue": 70000,
+                    "margins": "not_provided",
+                    "costs": "not_provided",
+                    "price_points": "not_provided"
+                },
+                "market_metrics": {
+                    "market_size": "massive yoga industry",
+                    "market_share": "not_provided",
+                    "competitors": [
+                        "Lulu Lemon",
+                        "Nike"
+                    ],
+                    "market_growth_rate": "2019 is the year that this explodes"
+                },
+                "deal_metrics": {
+                    "ask_amount": 1800000,
+                    "equity_offered": 18,
+                    "implied_valuation": 10000000,
+                    "final_terms": "no deal"
+                },
+                "sales_numbers": "70,000 sales to date",
+                "distribution_channels": "not_provided",
+                "production_costs": "not_provided"
+            },
+            "questions_asked": [
+                {
+                    "question_id": "Q1",
+                    "raw_text": "it's a pretty big valuation you put out there $10 million you're after 1.8 million yeah",
+                    "investor": "unknown_investor",
+                    "sequence_number": 1,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "so we've done a really minimal marketing spend so far and sold $70,000 worth of product I personally think that we're about to actually hit Mass market",
+                    "new_metrics_revealed": [
+                        "minimal marketing spend",
+                        "mass market potential"
+                    ]
+                },
+                {
+                    "question_id": "Q2",
+                    "raw_text": "where are you from",
+                    "investor": "unknown_investor",
+                    "sequence_number": 2,
+                    "basic_category": "Team",
+                    "contains_metrics": false,
+                    "response_text": "I am a Sydney born girl um but I've been in the States now for almost 5 years",
+                    "new_metrics_revealed": [
+                        "Sydney born",
+                        "Based in US for 5 years"
+                    ]
+                },
+                {
+                    "question_id": "Q3",
+                    "raw_text": "what took you there",
+                    "investor": "unknown_investor",
+                    "sequence_number": 3,
+                    "basic_category": "Team",
+                    "contains_metrics": false,
+                    "response_text": "blind ambition oh blind ambition",
+                    "new_metrics_revealed": [
+                        "blind ambition"
+                    ]
+                },
+                {
+                    "question_id": "Q4",
+                    "raw_text": "last year we were nominated by fast company as one of the most Innovative companies in Fitness um so previously uh we started in a slightly more risque uh business risque yes we were making vibrating Underpants for couples in long-distance relationships hang on hang on a minute hang on VI vibrating underwear for couples in long distance now that is very creative thank you hang on I'm trying to get this um it was an insertable piece of a technology that went into our custom underwear and you could control each other from vast distances oh my god",
+                    "investor": "unknown_investor",
+                    "sequence_number": 4,
+                    "basic_category": "Business History/Product",
+                    "contains_metrics": false,
+                    "response_text": "well hey oh that time how do they feel they actually feel really comfortable yeah all right so I can feel that there's things in it can you explain the product",
+                    "new_metrics_revealed": [
+                        "Previous business: vibrating underwear for long-distance couples"
+                    ]
+                },
+                {
+                    "question_id": "Q5",
+                    "raw_text": "can you explain the product",
+                    "investor": "unknown_investor",
+                    "sequence_number": 5,
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "absolutely let's connect you to your pulse this is a pulse it has the battery and the Bluetooth module so it can communicate back with your smartphone so this Clips just behind your left knee oh okay I'd love to see how that works I absolutely let's do a demo 100% um so the this is in fact isn't the sensor the sensors are woven in through the ankles down here behind the knees and in the hips the pose Library sits within the app and there's 30 poses in the library that you can learn step by step one by one so I mean let's just do a warrior it's a beginner pose and it can start you off take a large step forward with your left foot making sure you're able to bend your left knee to align with your ankle yep I can feel it sweep up your arms while being sure to engage your back leg okay so it's vibrating at certain points so what's it trying to tell me",
+                    "new_metrics_revealed": [
+                        "Pulse: battery and Bluetooth module",
+                        "Sensors woven in pants (ankles, knees, hips)",
+                        "Pose library app with 30 poses",
+                        "Demo of Warrior pose"
+                    ]
+                },
+                {
+                    "question_id": "Q6",
+                    "raw_text": "so what's it trying to tell me",
+                    "investor": "unknown_investor",
+                    "sequence_number": 6,
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "it's trying to show you where to focus and activate those muscles yep so what we've seen in our research is that people are practicing yoga and they're either doing it really quickly or they're not really paying attention to what's going on with their body yep so what you're talking about is not necessarily replacing a class you're talking about the daily adjustments that maybe only a teacher would give you exactly fine tuning",
+                    "new_metrics_revealed": [
+                        "Focus and muscle activation guidance",
+                        "Targets beginners and intermediates, home practice"
+                    ]
+                },
+                {
+                    "question_id": "Q7",
+                    "raw_text": "all right I look at this here but there's a couple of poses I'm thinking about that this might be in the way is that sort of have you sort of considered those definitely have so if I did a tripod headstand would that have any Advantage for me let's see that here we go oh she's going to do it wow okay yeah I'm impressed bloody hell",
+                    "investor": "unknown_investor",
+                    "sequence_number": 7,
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "J there you go very impressive got to drink a lot of smoothies to do that there are four or five sometimes there are six steps to move into each pose well what the vibrations do is they direct your attention to what part of the body you should focus on that hurt no then the last step actually reads your body so the sensors are all talking to each other that's when we're detecting whether you made it into the pose or not how do they make you feel",
+                    "new_metrics_revealed": [
+                        "Demo of Headstand",
+                        "Vibrations guide through steps of poses",
+                        "Sensors detect if pose is achieved"
+                    ]
+                },
+                {
+                    "question_id": "Q8",
+                    "raw_text": "how do they make you feel",
+                    "investor": "unknown_investor",
+                    "sequence_number": 8,
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "yeah look they they're super comfortable and and interesting you can feel that there's things in there but you can't feel that it's on there so no well done yeah and well done to you oh mate great job jday I'm exhausted just watching actually the the only thing I'm trying to understand about the the the product itself is how it can make you better",
+                    "new_metrics_revealed": [
+                        "Comfortable to wear"
+                    ]
+                },
+                {
+                    "question_id": "Q9",
+                    "raw_text": "the only thing I'm trying to understand about the the the product itself is how it can make you better right now it's very targeted it's someone who wants to get into yoga not someone who does yoga absolutely it's beginners and intermediates right okay or people that do it at home let's have a look at the numbers let's do it so why and how are we going to justify a $10 million valuation doing somewhat conservative projections in the first year we're planning to do $1.6 million in sales and selling 4,000 units",
+                    "investor": "unknown_investor",
+                    "sequence_number": 9,
+                    "basic_category": "Product/Market/Financial",
+                    "contains_metrics": true,
+                    "response_text": "um so we're at 7 million for the year after that selling up to 12,000 units",
+                    "new_metrics_revealed": [
+                        "Target audience: yoga beginners and intermediates, home users",
+                        "Year 1 projection: $1.6M sales, 4,000 units",
+                        "Year 2 projection: $7M sales, 12,000 units"
+                    ]
+                },
+                {
+                    "question_id": "Q10",
+                    "raw_text": "so Billy the 10 million valuation now is based on the hope of what's going to happen in the future it's based on the the sophistication of the platform now I got that because at the end of the day no matter how sophisticated the platform is it's all about return on investment for an investor",
+                    "investor": "unknown_investor",
+                    "sequence_number": 10,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "how many senses are there there were five sensors that's not many is it it's actually the most that's on the market yeah really okay I have a mild Electronics background just to let you know I'm keen understanding the science here with the engineering anyway do you want to go and put a pair on Steve no I don't actually no I don't want him to either there's a positional element to it so it knows where your ankle is compared to your knee and therefore it how does it know that is it some sort of strain gauge or is it a measurement thing um collected enough data on hundreds of different yogis I just know I just know how the tech works I know intimately how the tech works right so could could your software tell for my legs there or there",
+                    "new_metrics_revealed": [
+                        "Valuation based on future potential and platform sophistication",
+                        "5 sensors in the pants",
+                        "Positional technology to track body parts"
+                    ]
+                },
+                {
+                    "question_id": "Q11",
+                    "raw_text": "could could your software tell for my legs there or there",
+                    "investor": "unknown_investor",
+                    "sequence_number": 11,
+                    "basic_category": "Product/Technology",
+                    "contains_metrics": false,
+                    "response_text": "yes I call rubbish I just know I just know how the tech works so what we do when it's reading your body if you make it into the pose which Janine did perfectly then it says congratulations you can move on to the next pose if you didn't make it into the pose which is how we can tell what your body is doing bodies are subtly different right there's no such thing as an average person right so there's no such thing as an average limb length or anything along those lines so do you have to calibrate it before you start so you don't need to calibrate it because of the amount of data that we've collected oh no there there's a technology that allows you to understand the position of Those sensors it's a software I want understand machine learning okay you're using you you are driving Square pigs and round holes right now what you're saying okay is there someone else you've got here who actually understands a tick cuz you don't at this point in time ooh it's a bit harsh",
+                    "new_metrics_revealed": [
+                        "Software recognizes poses and gives feedback",
+                        "No calibration needed due to data collection",
+                        "Technology uses software to understand sensor positions",
+                        "Implied use of machine learning (questioned by investor)"
+                    ]
+                },
+                {
+                    "question_id": "Q12",
+                    "raw_text": "is there someone else you've got here who actually understands a tick cuz you don't at this point in time",
+                    "investor": "unknown_investor",
+                    "sequence_number": 12,
+                    "basic_category": "Team/Technology",
+                    "contains_metrics": false,
+                    "response_text": "ooh it's a bit harsh I'm surprised that you say that because I what I'm saying what I'm saying is I'm I'm asking about the technology fundamentally the technology how does it work",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "Q13",
+                    "raw_text": "fundamentally the technology how does it work",
+                    "investor": "unknown_investor",
+                    "sequence_number": 13,
+                    "basic_category": "Technology",
+                    "contains_metrics": false,
+                    "response_text": "we have 99% accuracy every time oh uh if you do understand the TIY described exceptionally poorly today you you really have he's tough isn't he so um that that concerns me a lot I wish you all the best Billy but I'm I'm done I'm out okay thanks Dave",
+                    "new_metrics_revealed": [
+                        "99% accuracy"
+                    ]
+                },
+                {
+                    "question_id": "Q14",
+                    "raw_text": "Billy so you you've asked for 1.8 million for 8% which values it $10 million how will I get my 1.8 million plus my bump when she flicks the company to Lulu Lemon",
+                    "investor": "unknown_investor",
+                    "sequence_number": 14,
+                    "basic_category": "Financial/Exit Strategy",
+                    "contains_metrics": true,
+                    "response_text": "we're doing conservative projections for the first few years because we're still young we're still new um but year three is when we see truly exponential growth and that's when the market honestly it's already started listening the bigger Brands like your Lulu and your Nikes have certainly paid attention to us um and they're even saying that 2019 is the year that this explodes okay Billy I can tell you where I'm at um look congratulations I love the Sydney girl made good um for me you know the valuation says you know risk reward for me is not where I need it to be I wish you well but I'm out thank you you are a very impressive person and the pitch has been very impressive I certainly I believe your story and you are seriously a good entrepreneur you don't have a golf product yet that would have been appealing to me the yoga just don't quite understand it and I guess because I don't quite understand the marketplace for this product I just can't invest so unfortunately today I'm out thanks good luck thank you so Billy what a wonderful export you are you know I'm really proud that you're Australian and representing us overseas I think that's absolutely fabulous but just saying trust me it works doesn't quite cut it so thank you so much for coming but I'm out oh thank you namei and then there was Janine Billy God you you're very impressive and look the yoga industry is massive you're certainly in the right category I live this world you know I I'm actually only qualified for one thing in my whole life that's a yoga instructor which is pretty sad right that's it that's the only thing I'm qualified for so yes it was my passion and I you know I live it and love it I think what is really good is that the vibration on it will actually help people cuz other people get hinged in yog cuz I don't know how to move it so I think that you're on the right track let's invest in but because of the askers 1.8 it's it's and a $10 million valuation when you haven't actually proven sales just yet I needed to see more proof in sales I'm out thank you very much appreciate it thanks Billy all the",
+                    "new_metrics_revealed": [
+                        "Year 3: Exponential growth expected",
+                        "Target exit: Acquisition by larger brands like Lulu Lemon or Nike"
+                    ]
+                }
+            ],
+            "responses": [
+                {
+                    "response_id": "R1",
+                    "raw_text": "so we've done a really minimal marketing spend so far and sold $70,000 worth of product I personally think that we're about to actually hit Mass market",
+                    "responding_person": "Billy White House",
+                    "numerical_data_mentioned": [
+                        70000
+                    ],
+                    "new_metrics_revealed": [
+                        "minimal marketing spend",
+                        "mass market potential"
+                    ]
+                },
+                {
+                    "response_id": "R2",
+                    "raw_text": "I am a Sydney born girl um but I've been in the States now for almost 5 years",
+                    "responding_person": "Billy White House",
+                    "numerical_data_mentioned": [
+                        5
+                    ],
+                    "new_metrics_revealed": [
+                        "Sydney born",
+                        "Based in US for 5 years"
+                    ]
+                },
+                {
+                    "response_id": "R3",
+                    "raw_text": "blind ambition oh blind ambition",
+                    "responding_person": "Billy White House",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": [
+                        "blind ambition"
+                    ]
+                },
+                {
+                    "response_id": "R4",
+                    "raw_text": "well hey oh that time how do they feel they actually feel really comfortable yeah all right so I can feel that there's things in it can you explain the product",
+                    "responding_person": "unknown_investor",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": [
+                        "Previous business: vibrating underwear for long-distance couples"
+                    ]
+                },
+                {
+                    "response_id": "R5",
+                    "raw_text": "absolutely let's connect you to your pulse this is a pulse it has the battery and the Bluetooth module so it can communicate back with your smartphone so this Clips just behind your left knee oh okay I'd love to see how that works I absolutely let's do a demo 100% um so the this is in fact isn't the sensor the sensors are woven in through the ankles down here behind the knees and in the hips the pose Library sits within the app and there's 30 poses in the library that you can learn step by step one by one so I mean let's just do a warrior it's a beginner pose and it can start you off take a large step forward with your left foot making sure you're able to bend your left knee to align with your ankle yep I can feel it sweep up your arms while being sure to engage your back leg okay so it's vibrating at certain points so what's it trying to tell me",
+                    "responding_person": "Billy White House",
+                    "numerical_data_mentioned": [
+                        30
+                    ],
+                    "new_metrics_revealed": [
+                        "Pulse: battery and Bluetooth module",
+                        "Sensors woven in pants (ankles, knees, hips)",
+                        "Pose library app with 30 poses",
+                        "Demo of Warrior pose"
+                    ]
+                },
+                {
+                    "response_id": "R6",
+                    "raw_text": "it's trying to show you where to focus and activate those muscles yep so what we've seen in our research is that people are practicing yoga and they're either doing it really quickly or they're not really paying attention to what's going on with their body yep so what you're talking about is not necessarily replacing a class you're talking about the daily adjustments that maybe only a teacher would give you exactly fine tuning",
+                    "responding_person": "Billy White House",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": [
+                        "Focus and muscle activation guidance",
+                        "Targets beginners and intermediates, home practice"
+                    ]
+                },
+                {
+                    "response_id": "R7",
+                    "raw_text": "J there you go very impressive got to drink a lot of smoothies to do that there are four or five sometimes there are six steps to move into each pose well what the vibrations do is they direct your attention to what part of the body you should focus on that hurt no then the last step actually reads your body so the sensors are all talking to each other that's when we're detecting whether you made it into the pose or not how do they make you feel",
+                    "responding_person": "Billy White House",
+                    "numerical_data_mentioned": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "new_metrics_revealed": [
+                        "Demo of Headstand",
+                        "Vibrations guide through steps of poses",
+                        "Sensors detect if pose is achieved"
+                    ]
+                },
+                {
+                    "response_id": "R8",
+                    "raw_text": "yeah look they they're super comfortable and and interesting you can feel that there's things in there but you can't feel that it's on there so no well done yeah and well done to you oh mate great job jday I'm exhausted just watching actually the the only thing I'm trying to understand about the the the product itself is how it can make you better",
+                    "responding_person": "Janine",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": [
+                        "Comfortable to wear"
+                    ]
+                },
+                {
+                    "response_id": "R9",
+                    "raw_text": "um so we're at 7 million for the year after that selling up to 12,000 units",
+                    "responding_person": "Billy White House",
+                    "numerical_data_mentioned": [
+                        1600000,
+                        4000,
+                        7000000,
+                        12000
+                    ],
+                    "new_metrics_revealed": [
+                        "Target audience: yoga beginners and intermediates, home users",
+                        "Year 1 projection: $1.6M sales, 4,000 units",
+                        "Year 2 projection: $7M sales, 12,000 units"
+                    ]
+                },
+                {
+                    "response_id": "R10",
+                    "raw_text": "how many senses are there there were five sensors that's not many is it it's actually the most that's on the market yeah really okay I have a mild Electronics background just to let you know I'm keen understanding the science here with the engineering anyway do you want to go and put a pair on Steve no I don't actually no I don't want him to either there's a positional element to it so it knows where your ankle is compared to your knee and therefore it how does it know that is it some sort of strain gauge or is it a measurement thing um collected enough data on hundreds of different yogis I just know I just know how the tech works I know intimately how the tech works right so could could your software tell for my legs there or there",
+                    "responding_person": "Billy White House",
+                    "numerical_data_mentioned": [
+                        5
+                    ],
+                    "new_metrics_revealed": [
+                        "Valuation based on future potential and platform sophistication",
+                        "5 sensors in the pants",
+                        "Positional technology to track body parts"
+                    ]
+                },
+                {
+                    "response_id": "R11",
+                    "raw_text": "yes I call rubbish I just know I just know how the tech works so what we do when it's reading your body if you make it into the pose which Janine did perfectly then it says congratulations you can move on to the next pose if you didn't make it into the pose which is how we can tell what your body is doing bodies are subtly different right there's no such thing as an average person right so there's no such thing as an average limb length or anything along those lines so do you have to calibrate it before you start so you don't need to calibrate it because of the amount of data that we've collected oh no there there's a technology that allows you to understand the position of Those sensors it's a software I want understand machine learning okay you're using you you are driving Square pigs and round holes right now what you're saying okay is there someone else you've got here who actually understands a tick cuz you don't at this point in time ooh it's a bit harsh",
+                    "responding_person": "Billy White House",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": [
+                        "Software recognizes poses and gives feedback",
+                        "No calibration needed due to data collection",
+                        "Technology uses software to understand sensor positions",
+                        "Implied use of machine learning (questioned by investor)"
+                    ]
+                },
+                {
+                    "response_id": "R12",
+                    "raw_text": "ooh it's a bit harsh I'm surprised that you say that because I what I'm saying what I'm saying is I'm I'm asking about the technology fundamentally the technology how does it work",
+                    "responding_person": "unknown_investor",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "response_id": "R13",
+                    "raw_text": "we have 99% accuracy every time oh uh if you do understand the TIY described exceptionally poorly today you you really have he's tough isn't he so um that that concerns me a lot I wish you all the best Billy but I'm I'm done I'm out okay thanks Dave",
+                    "responding_person": "Billy White House",
+                    "numerical_data_mentioned": [
+                        99
+                    ],
+                    "new_metrics_revealed": [
+                        "99% accuracy"
+                    ]
+                },
+                {
+                    "response_id": "R14",
+                    "raw_text": "we're doing conservative projections for the first few years because we're still young we're still new um but year three is when we see truly exponential growth and that's when the market honestly it's already started listening the bigger Brands like your Lulu and your Nikes have certainly paid attention to us um and they're even saying that 2019 is the year that this explodes okay Billy I can tell you where I'm at um look congratulations I love the Sydney girl made good um for me you know the valuation says you know risk reward for me is not where I need it to be I wish you well but I'm out thank you you are a very impressive person and the pitch has been very impressive I certainly I believe your story and you are seriously a good entrepreneur you don't have a golf product yet that would have been appealing to me the yoga just don't quite understand it and I guess because I don't quite understand the marketplace for this product I just can't invest so unfortunately today I'm out thanks good luck thank you so Billy what a wonderful export you are you know I'm really proud that you're Australian and representing us overseas I think that's absolutely fabulous but just saying trust me it works doesn't quite cut it so thank you so much for coming but I'm out oh thank you namei and then there was Janine Billy God you you're very impressive and look the yoga industry is massive you're certainly in the right category I live this world you know I I'm actually only qualified for one thing in my whole life that's a yoga instructor which is pretty sad right that's it that's the only thing I'm qualified for so yes it was my passion and I you know I live it and love it I think what is really good is that the vibration on it will actually help people cuz other people get hinged in yog cuz I don't know how to move it so I think that you're on the right track let's invest in but because of the askers 1.8 it's it's and a $10 million valuation when you haven't actually proven sales just yet I needed to see more proof in sales I'm out thank you very much appreciate it thanks Billy all the",
+                    "responding_person": "Billy White House",
+                    "numerical_data_mentioned": [
+                        3
+                    ],
+                    "new_metrics_revealed": [
+                        "Year 3: Exponential growth expected",
+                        "Target exit: Acquisition by larger brands like Lulu Lemon or Nike"
+                    ]
+                }
+            ],
+            "market_information": {
+                "target_market_size": "Massive yoga industry",
+                "current_market_share": "not_provided",
+                "named_competitors": [
+                    "Lulu Lemon",
+                    "Nike"
+                ],
+                "market_growth_rate": "Exploding in 2019 (mentioned in future context)"
+            },
+            "product_service_information": {
+                "core_offering_description": "Yoga pants with woven-in sensors and haptic feedback to guide users through yoga poses via a smartphone app.",
+                "unique_selling_proposition": "Provides the touch of a yoga teacher at home, allowing practice anywhere, anytime.",
+                "patent_ip_status": "not_provided",
+                "development_stage": "Launched, with $70,000 in sales"
+            },
+            "deal_outcome": {
+                "final_result": "no deal",
+                "final_terms_if_deal_made": "not_applicable",
+                "number_of_interested_investors": 0,
+                "any_contingencies_placed": "not_applicable"
+            },
+            "data_quality_indicators": {
+                "missing_critical_data_flags": [
+                    "margins",
+                    "costs",
+                    "price_points",
+                    "distribution_channels",
+                    "production_costs",
+                    "patent/IP status"
+                ],
+                "unclear_information_flags": [
+                    "Specifics of technology behind sensor and feedback system are vague."
+                ],
+                "investor_attribution_confidence": 0.8
+            },
+            "interaction_dynamics": {
+                "investor_interest_indicators": {
+                    "positive_responses": [
+                        "Janine's initial interest due to yoga background and product concept.",
+                        "Initial curiosity from all investors during demo."
+                    ],
+                    "negative_responses": [
+                        "Skepticism from one investor regarding technology explanation and valuation.",
+                        "All investors eventually declined to make a deal."
+                    ],
+                    "skepticism_indicators": [
+                        "Investor questioning the technology explanation and calling it 'rubbish'.",
+                        "Concerns about high valuation without proven sales.",
+                        "Lack of clarity on the core technology and its differentiation."
+                    ]
+                },
+                "negotiation_dynamics": {
+                    "counter_offers": [],
+                    "deal_breakers": [
+                        "High valuation and lack of proven sales.",
+                        "Unconvincing explanation of the core technology.",
+                        "Skepticism about the business model and market fit for some investors."
+                    ],
+                    "key_concerns": [
+                        "Valuation too high.",
+                        "Lack of clear technology explanation.",
+                        "Unproven sales and market demand at scale.",
+                        "Risk/reward ratio not favorable for investors."
+                    ]
+                }
+            },
+            "segment_identification": {
+                "pitch_structure": {
+                    "initial_pitch_segment": {
+                        "start_time": "0:00",
+                        "end_time": "0:00",
+                        "key_points": [
+                            "Introduction of Wearable X and Nadi X.",
+                            "Ask for $1.8 million for 18% equity.",
+                            "Description of yoga pants with technology and haptic feedback.",
+                            "Mention of $70,000 sales to date."
+                        ]
+                    },
+                    "qa_segment": {
+                        "start_time": "0:00",
+                        "end_time": "0:00",
+                        "question_count": 14
+                    },
+                    "negotiation_segment": {
+                        "start_time": "0:00",
+                        "end_time": "0:00",
+                        "key_events": [
+                            "Investors express concerns about valuation and technology.",
+                            "Investors explain their reasons for declining to invest.",
+                            "No offers are made."
+                        ]
+                    }
+                }
+            },
+            "extraction_metadata": {
+                "confidence_scores": {
+                    "speaker_identification": 0.9,
+                    "question_classification": 0.8,
+                    "metric_extraction": 0.9,
+                    "business_classification": 0.9
+                },
+                "extraction_challenges": [
+                    "Identifying specific investor names from 'unknown_investor' in the transcript.",
+                    "Inferring implied questions and categorizing them.",
+                    "Lack of explicit financial details like margins and costs in the transcript."
+                ],
+                "data_quality_flags": [
+                    "Some financial metrics are 'not_provided'.",
+                    "Technology explanation remains somewhat vague."
+                ]
+            }
+        }
+    ],
+    "episode_validation": {
+        "completeness": {
+            "all_pitches_processed": true,
+            "pitch_count": 1,
+            "missing_pitches": []
+        },
+        "consistency": {
+            "schema_adherence": true,
+            "cross_pitch_references": false
+        }
+    }
+}

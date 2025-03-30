@@ -1,0 +1,794 @@
+{
+    "episode_metadata": {
+        "show_name": "Dragons' Den",
+        "season": "not_provided",
+        "episode": "not_provided",
+        "air_date": "not_provided",
+        "total_pitches": 1
+    },
+    "pitches": [
+        {
+            "pitch_id": "pitch_1_story_bookdaddy",
+            "business_basics": {
+                "business_name": "Tell my story bookdaddy",
+                "founder_names": [
+                    {
+                        "name": "Owen Hevron",
+                        "role": "Founder"
+                    }
+                ],
+                "location": "Ireland",
+                "industry_category": [
+                    "Personalized Children's Books",
+                    "Publishing",
+                    "E-commerce"
+                ],
+                "business_model_type": "B2C Product"
+            },
+            "pitch_metrics": {
+                "ask_amount": "40000 euro",
+                "equity_offered": "20%",
+                "implied_valuation": "200000 euro",
+                "final_deal_terms": {
+                    "deal_made": true,
+                    "investors": [
+                        "Barry"
+                    ],
+                    "equity_percentage": "20%",
+                    "investment_amount": "40000 euro",
+                    "royalty": "1 euro per book until 40000 euro is recovered"
+                },
+                "participating_investors": [
+                    "Gavin",
+                    "Alison",
+                    "Tyler",
+                    "Richard",
+                    "Barry"
+                ]
+            },
+            "business_metrics": {
+                "basic_metrics": {
+                    "revenue": "6000 euro (from 255 books sold)",
+                    "margins": "87.7% (gross), 49% (year 2 net), 41% (year 3 net), 19.8% (net with marketplace commission)",
+                    "costs": "1.38 euro per book production cost, 3.08 euro per book with P&P",
+                    "price_points": "18.95 euro (base price), 22.90 euro (minimum online price with P&P), 25 euro (average price with add-ons), 32.30 euro (max spend with add-ons)"
+                },
+                "market_metrics": {
+                    "market_size": "not_provided",
+                    "market_share": "not_provided",
+                    "competitors": [
+                        "UK based personalized children's book company",
+                        "Shutterfly (US)"
+                    ]
+                },
+                "deal_metrics": {
+                    "ask_amount": "40000 euro",
+                    "equity_offered": "20%",
+                    "implied_valuation": "200000 euro",
+                    "final_terms": {
+                        "investment": "40000 euro",
+                        "equity": "20%",
+                        "royalty": "1 euro per book until 40000 euro recovered",
+                        "investor": "Barry"
+                    }
+                }
+            },
+            "questions_asked": [
+                {
+                    "question_id": "q1",
+                    "raw_text": "tell me you did talk about a competitor in the uk uh are they also in the irish market?",
+                    "investor": "Gavin",
+                    "sequence_number": 1,
+                    "basic_category": "Market",
+                    "contains_metrics": false,
+                    "response_text": "yeah they're global they're selling 167 countries worldwide",
+                    "new_metrics_revealed": [
+                        "global reach",
+                        "selling in 167 countries"
+                    ]
+                },
+                {
+                    "question_id": "q2",
+                    "raw_text": "so what makes you different than them how are you going to compete against them they sound like a big threat with lots of funding behind",
+                    "investor": "Gavin",
+                    "sequence_number": 2,
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "no i don't see them as a threat their books revolve around the child's name where ours goes to the next level we bring the personalization up we actually have the photograph the child as well so i actually think we've more potential",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q3",
+                    "raw_text": "could you tell me just what's the process is is that you you upload your photograph onto a website and it goes from there",
+                    "investor": "Richard",
+                    "sequence_number": 3,
+                    "basic_category": "Operations",
+                    "contains_metrics": false,
+                    "response_text": "i try to make it as easy as possible for them to use so they log on and they first of all put the child's name in and then we actually have a preview and then at the checkout stage they upload the photograph",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q4",
+                    "raw_text": "and what price is the book selling for",
+                    "investor": "Richard",
+                    "sequence_number": 4,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "we have a base price they're 18.95 but there's a compulsory to 395 for pnp then we've add on options we can add on a personalized dedication for the first page for 195 we can add on priority order that's for 3.95 and we can add on a gift wrap for a tree or a 50. so the max spend is 32 euro 30",
+                    "new_metrics_revealed": [
+                        "price: 18.95 euro (base)",
+                        "P&P: 3.95 euro",
+                        "personalized dedication: 1.95 euro",
+                        "priority order: 3.95 euro",
+                        "gift wrap: 3.50 euro",
+                        "max spend: 32.30 euro"
+                    ]
+                },
+                {
+                    "question_id": "q5",
+                    "raw_text": "what's your background",
+                    "investor": "Richard",
+                    "sequence_number": 5,
+                    "basic_category": "Team",
+                    "contains_metrics": false,
+                    "response_text": "both my parents are professional photographers so from a young age i was trained up as a photographer and in 2014 i set up hebron print as well as at the same time as develop and tell my story group data",
+                    "new_metrics_revealed": [
+                        "Background in photography",
+                        "Owns Hebron Print since 2014"
+                    ]
+                },
+                {
+                    "question_id": "q6",
+                    "raw_text": "i see in the book there's also dot com you own obviously both tomorrow i have lots of domains uh gavin i have daddy.cod.uk.com and a range of other ones as well do you see most of your sales uh through uh your website",
+                    "investor": "Alison",
+                    "sequence_number": 6,
+                    "basic_category": "Operations",
+                    "contains_metrics": false,
+                    "response_text": "definitely for year one we're pushing this totally uh online",
+                    "new_metrics_revealed": [
+                        "Online sales focus for year 1"
+                    ]
+                },
+                {
+                    "question_id": "q7",
+                    "raw_text": "what's your margin and how can you achieve a decent margin out of a capacity of 63 books a day",
+                    "investor": "Alison",
+                    "sequence_number": 7,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "we have a gross margin of 87.7 basically for one book it costs us one euro 38 cent with p and p that brings it up to tree or an eight cent then we sell it for a minimum of 22 euro and 90 cent online we our average price is 25 euro with our add-ons so we've our gross margin which includes the pmp is 87.7",
+                    "new_metrics_revealed": [
+                        "Gross margin: 87.7%",
+                        "Production cost per book: 1.38 euro",
+                        "Cost per book with P&P: 3.08 euro",
+                        "Minimum online selling price: 22.90 euro",
+                        "Average selling price with add-ons: 25 euro",
+                        "Production capacity: 63 books per day"
+                    ]
+                },
+                {
+                    "question_id": "q8",
+                    "raw_text": "in terms of of your margin of 87.7 percent is astounding if you go into volume yes does your cost of of production of a book increase in year one we'll be looking well i'll go to year two our net will be 49 then in year three we raise the amount that we're paying our employees and we're shipping more overseas so our costs go up and our net comes down to we should have an average of about 41 net",
+                    "investor": "Alison",
+                    "sequence_number": 8,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "i've also other revenue streams i'll be teaming up with existing marketplaces online marketplaces one of these that i've identified they took a personalized children's book that was selling 40 units a year and they turned them into 760 000 a year so i'll be paying them a commission with the commission i'll be still left with 19.8 percent net profit",
+                    "new_metrics_revealed": [
+                        "Net margin year 2: 49%",
+                        "Net margin year 3 (average): 41%",
+                        "Net profit with marketplace commission: 19.8%"
+                    ]
+                },
+                {
+                    "question_id": "q9",
+                    "raw_text": "but at that point you couldn't produce the book yourself",
+                    "investor": "Alison",
+                    "sequence_number": 9,
+                    "basic_category": "Operations",
+                    "contains_metrics": false,
+                    "response_text": "yeah i don't think the premises have it lined up paperwork's been looked at",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q10",
+                    "raw_text": "talk to me about your us competitors one of the biggest ones this is a huge company it's called shutterfly i'm not sure if you heard they're massive they turned 912 million in 2014 their sales are growing annually by 17 for the last three years",
+                    "investor": "Tyler",
+                    "sequence_number": 10,
+                    "basic_category": "Market",
+                    "contains_metrics": true,
+                    "response_text": "owen is there anybody in the business though who knows anything about driving traffic to a website",
+                    "new_metrics_revealed": [
+                        "Shutterfly revenue 2014: 912 million",
+                        "Shutterfly annual sales growth: 17% (last 3 years)"
+                    ]
+                },
+                {
+                    "question_id": "q11",
+                    "raw_text": "owen is there anybody in the business though who knows anything about driving traffic to a website",
+                    "investor": "Tyler",
+                    "sequence_number": 11,
+                    "basic_category": "Team",
+                    "contains_metrics": false,
+                    "response_text": "100 that was something that was the same we're here now a while and i haven't heard anything about that because what we have is a book that's pretty expensive right but you know there are parents who uh will like the idea of the photograph etc and that accounts for your generous margins but competitors could underprice you so so it's really how many customers you can find yeah you've found 200 so far is that right",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q12",
+                    "raw_text": "255",
+                    "investor": "Tyler",
+                    "sequence_number": 12,
+                    "basic_category": "Sales",
+                    "contains_metrics": true,
+                    "response_text": "255 so we're we're clearly not good at that how are you going to improve it",
+                    "new_metrics_revealed": [
+                        "Sales so far: 255 books"
+                    ]
+                },
+                {
+                    "question_id": "q13",
+                    "raw_text": "how are you going to improve it",
+                    "investor": "Tyler",
+                    "sequence_number": 13,
+                    "basic_category": "Strategy",
+                    "contains_metrics": false,
+                    "response_text": "i've got a guy lined up who's the he's the online marketing expert for one of ireland leading fast food operations so he's going to concentrate and drive in traffic directly to the website now this guy he's sought after a lot of people after him he only takes on one person at a time",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q14",
+                    "raw_text": "what's he going to cost you this year",
+                    "investor": "Tyler",
+                    "sequence_number": 14,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "that's that's the great thing about it he liked the business so much that he's cutting his rates for the first he said for the first three months he's cutting his rates like he charges a lot of money i can't divulge that much i think you do if we're going to invest um like this is a business deal it's not the kgbyou know so you haven't given us his name even how much is he going to cost you in 2017.",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q15",
+                    "raw_text": "i'd manage about 50 or an hour how many hours will you be using him",
+                    "investor": "Richard",
+                    "sequence_number": 15,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "we'll set him targets he's to hit these targets so he'll dedicate the amount of time to hit these targets",
+                    "new_metrics_revealed": [
+                        "Marketing expert hourly rate: 50 euro"
+                    ]
+                },
+                {
+                    "question_id": "q16",
+                    "raw_text": "i'm a bit worried about your margin i got all excited at 87.7 we then dropped 41 percent net now we're factoring in a guy at 50 euros an hour and we're not sure how many hours he's going to be doing when you factor in all those costs what's what's really happening on the margin",
+                    "investor": "Alison",
+                    "sequence_number": 16,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "okay so we still will always have a gross margin of 87 87.7 but then our costs do come into it and the lowest net that we'd be left with is 19.8 say 20 net which means the volumes i was looking at in terms of a return in investment before money have now dramatically increased",
+                    "new_metrics_revealed": [
+                        "Lowest net margin: 19.8% or 20%"
+                    ]
+                },
+                {
+                    "question_id": "q17",
+                    "raw_text": "yeah so we'd be needing to sell a near tree 45 000 units which i know we can definitely achieve talk to me about your price point on how does it compare to the price point of the competitor in the uk that doesn't do the pictures or shutterfly in the us that doesn't like you brought that up actually because we're the cheapest out of all of them so the uk one you're talking 27 euro and they're not a hardback we're a hardback in the us you're talking 39 which is roughly about 36 euro so we're a lot cheaper than them so we've huge potential to grow because we have the emergence lots of potential not just potential i'll deliver it 100",
+                    "investor": "Richard",
+                    "sequence_number": 17,
+                    "basic_category": "Market",
+                    "contains_metrics": true,
+                    "response_text": "so owen you've hired a an expensive guy with a ponytail to do the website marketing for you but like what marketing ideas do you have so give me your five big things that are going to drive you on this website give me seven then the magnificent seven from own heaven here we go",
+                    "new_metrics_revealed": [
+                        "UK competitor price: 27 euro (softback)",
+                        "US competitor (Shutterfly) price: 39 USD (~36 euro) (not specified hard/softback)",
+                        "Sales target to achieve 20% net margin: 45000 units"
+                    ]
+                },
+                {
+                    "question_id": "q18",
+                    "raw_text": "so owen you've hired a an expensive guy with a ponytail to do the website marketing for you but like what marketing ideas do you have so give me your five big things that are going to drive you on this website give me seven then the magnificent seven from own heaven here we go",
+                    "investor": "Barry",
+                    "sequence_number": 18,
+                    "basic_category": "Strategy",
+                    "contains_metrics": false,
+                    "response_text": "one so i've mentioned that covered the first two which was taking on a guy and using third parties the third one this one you're looking for gavin it's i like to call it outside of the box thinking gorilla marketing one is we're gonna team up with national radio stations offer our books with prizes for competitions i've already done this got great success for two fm the nikki burn show area two lately toy show area number three is celebrities i've identified with the top 50 celebrities in the world who have kids in this sort of area",
+                    "new_metrics_revealed": [
+                        "Marketing idea 1: Team up with national radio stations for competitions",
+                        "Marketing idea 2: Celebrity outreach (top 50 world celebrities with kids)"
+                    ]
+                },
+                {
+                    "question_id": "q19",
+                    "raw_text": "it just sounds a little bit creepy they're not gonna send pictures or kids right pictures of them he calls it creepy i call it marketing keep going i think it's good yeah yeah yeah keep going fourth thing is um bloggers five would be gift guides number six we're looking at trade shows and seven the final one is we'll do a database of email address our own bad database we build that database up directly target our customers through that",
+                    "investor": "Gavin",
+                    "sequence_number": 19,
+                    "basic_category": "Strategy",
+                    "contains_metrics": false,
+                    "response_text": "i think it's a great product but i'm really concerned that to get the story out you're gonna have to spend a lot of money",
+                    "new_metrics_revealed": [
+                        "Marketing idea 3: Bloggers",
+                        "Marketing idea 4: Gift guides",
+                        "Marketing idea 5: Trade shows",
+                        "Marketing idea 6: Email database marketing"
+                    ]
+                },
+                {
+                    "question_id": "q20",
+                    "raw_text": "i think it's a great product but i'm really concerned that to get the story out you're gonna have to spend a lot of money",
+                    "investor": "Alison",
+                    "sequence_number": 20,
+                    "basic_category": "Risk",
+                    "contains_metrics": false,
+                    "response_text": "i think it's a really tough job for you to find a position in the market unfortunately i'm out",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q21",
+                    "raw_text": "oh and one of the ways businesses can succeed from a start is to create a temporary monopoly that they get a head start in everybody else and it looks like you do have a temporary monopoly but i just think it's too small i don't think it's a defendable enough space you're going to come under pressure from your competition very quickly so for that reason i'm out",
+                    "investor": "Tyler",
+                    "sequence_number": 21,
+                    "basic_category": "Market",
+                    "contains_metrics": false,
+                    "response_text": "let me tell you where i'm at there's too many moving parts and there's too little proved absolutely so for that reason i'm out",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q22",
+                    "raw_text": "on the magic secret sauce of how do you get parents throughout ireland and the uk and in other territories to go online and buy from you and that part is all on a hope and a wish that the guy with the ponytail comes along with a wand and makes it all happen that's just no no no it's you've said a few times i'm sorry you know you know it's just a shot in the dark here which i can't take i'm out",
+                    "investor": "Richard",
+                    "sequence_number": 22,
+                    "basic_category": "Strategy",
+                    "contains_metrics": false,
+                    "response_text": "okay thank you i don't agree that it is a shot in the dark i have the guide lined up it's the uk company that have proven record in doing this",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q23",
+                    "raw_text": "well let's say your 2017 sales you've got these guys lined up what percentage of your business in 2017 is going to be generated by the guys who are lined up",
+                    "investor": "Gavin",
+                    "sequence_number": 23,
+                    "basic_category": "Strategy",
+                    "contains_metrics": true,
+                    "response_text": "about 60 of the business and i'm hoping that from in that meantime the years one two and three that we're going to be getting repeat customers directly to our site at the same time",
+                    "new_metrics_revealed": [
+                        "Projected 2017 sales from marketing expert: 60%"
+                    ]
+                },
+                {
+                    "question_id": "q24",
+                    "raw_text": "60 of your business plan is dependent on a bunch of people that you've found using google basically that's just one there's a countless of these marketplace i just isolated one because i didn't want to be but there is other marketplace that do the similar things that's the biggest one in the uk",
+                    "investor": "Gavin",
+                    "sequence_number": 24,
+                    "basic_category": "Risk",
+                    "contains_metrics": true,
+                    "response_text": "i'm going to make you an offer but i have to de-risk it a bit for myself you're asking me to project forward from a proof point of 255 books to the big dream uh which i'm prepared to buy into i could de-risk it by asking you for you know half your business instead of 25 percent what i'd like to do instead though to de-risk it for me is to make you the following offer so i'll offer you the full amount 40 000 for 20 of the business but i'm also going to need a royalty of one euro per book sold until i get the 40 000 back",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q25",
+                    "raw_text": "i was waiting to negotiate but that's a fantastic offer and i'd definitely take you on that one i thought you were going to go in higher",
+                    "investor": "Barry",
+                    "sequence_number": 25,
+                    "basic_category": "Deal",
+                    "contains_metrics": false,
+                    "response_text": "[Applause] thanks for working with me thanks well done thank you on well done barry you can advise the guy in the ponytail i can help him with all of the online piece of it so and that's really the story here bad news barriers you've lost four sales we all have one now no you just have to pay me my royalty check oh well don",
+                    "new_metrics_revealed": []
+                }
+            ],
+            "responses": [
+                {
+                    "question_id": "q1",
+                    "response_text": "yeah they're global they're selling 167 countries worldwide",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [
+                        "167"
+                    ],
+                    "new_metrics_revealed": [
+                        "global reach",
+                        "selling in 167 countries"
+                    ]
+                },
+                {
+                    "question_id": "q2",
+                    "response_text": "no i don't see them as a threat their books revolve around the child's name where ours goes to the next level we bring the personalization up we actually have the photograph the child as well so i actually think we've more potential",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q3",
+                    "response_text": "i try to make it as easy as possible for them to use so they log on and they first of all put the child's name in and then we actually have a preview and then at the checkout stage they upload the photograph",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q4",
+                    "response_text": "we have a base price they're 18.95 but there's a compulsory to 395 for pnp then we've add on options we can add on a personalized dedication for the first page for 195 we can add on priority order that's for 3.95 and we can add on a gift wrap for a tree or a 50. so the max spend is 32 euro 30",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [
+                        "18.95",
+                        "3.95",
+                        "1.95",
+                        "3.95",
+                        "3.50",
+                        "32.30"
+                    ],
+                    "new_metrics_revealed": [
+                        "price: 18.95 euro (base)",
+                        "P&P: 3.95 euro",
+                        "personalized dedication: 1.95 euro",
+                        "priority order: 3.95 euro",
+                        "gift wrap: 3.50 euro",
+                        "max spend: 32.30 euro"
+                    ]
+                },
+                {
+                    "question_id": "q5",
+                    "response_text": "both my parents are professional photographers so from a young age i was trained up as a photographer and in 2014 i set up hebron print as well as at the same time as develop and tell my story group data",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [
+                        "2014"
+                    ],
+                    "new_metrics_revealed": [
+                        "Background in photography",
+                        "Owns Hebron Print since 2014"
+                    ]
+                },
+                {
+                    "question_id": "q6",
+                    "response_text": "definitely for year one we're pushing this totally uh online",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [
+                        "one"
+                    ],
+                    "new_metrics_revealed": [
+                        "Online sales focus for year 1"
+                    ]
+                },
+                {
+                    "question_id": "q7",
+                    "response_text": "we have a gross margin of 87.7 basically for one book it costs us one euro 38 cent with p and p that brings it up to tree or an eight cent then we sell it for a minimum of 22 euro and 90 cent online we our average price is 25 euro with our add-ons so we've our gross margin which includes the pmp is 87.7",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [
+                        "87.7",
+                        "1.38",
+                        "3.08",
+                        "22.90",
+                        "25",
+                        "87.7"
+                    ],
+                    "new_metrics_revealed": [
+                        "Gross margin: 87.7%",
+                        "Production cost per book: 1.38 euro",
+                        "Cost per book with P&P: 3.08 euro",
+                        "Minimum online selling price: 22.90 euro",
+                        "Average selling price with add-ons: 25 euro",
+                        "Production capacity: 63 books per day"
+                    ]
+                },
+                {
+                    "question_id": "q8",
+                    "response_text": "i've also other revenue streams i'll be teaming up with existing marketplaces online marketplaces one of these that i've identified they took a personalized children's book that was selling 40 units a year and they turned them into 760 000 a year so i'll be paying them a commission with the commission i'll be still left with 19.8 percent net profit",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [
+                        "49",
+                        "41",
+                        "40",
+                        "760000",
+                        "19.8"
+                    ],
+                    "new_metrics_revealed": [
+                        "Net margin year 2: 49%",
+                        "Net margin year 3 (average): 41%",
+                        "Net profit with marketplace commission: 19.8%"
+                    ]
+                },
+                {
+                    "question_id": "q9",
+                    "response_text": "yeah i don't think the premises have it lined up paperwork's been looked at",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q10",
+                    "response_text": "owen is there anybody in the business though who knows anything about driving traffic to a website",
+                    "responding_person": "Tyler",
+                    "numerical_data_mentioned": [
+                        "912",
+                        "2014",
+                        "17",
+                        "3"
+                    ],
+                    "new_metrics_revealed": [
+                        "Shutterfly revenue 2014: 912 million",
+                        "Shutterfly annual sales growth: 17% (last 3 years)"
+                    ]
+                },
+                {
+                    "question_id": "q11",
+                    "response_text": "100 that was something that was the same we're here now a while and i haven't heard anything about that because what we have is a book that's pretty expensive right but you know there are parents who uh will like the idea of the photograph etc and that accounts for your generous margins but competitors could underprice you so so it's really how many customers you can find yeah you've found 200 so far is that right",
+                    "responding_person": "Tyler",
+                    "numerical_data_mentioned": [
+                        "200"
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q12",
+                    "response_text": "255 so we're we're clearly not good at that how are you going to improve it",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [
+                        "255"
+                    ],
+                    "new_metrics_revealed": [
+                        "Sales so far: 255 books"
+                    ]
+                },
+                {
+                    "question_id": "q13",
+                    "response_text": "i've got a guy lined up who's the he's the online marketing expert for one of ireland leading fast food operations so he's going to concentrate and drive in traffic directly to the website now this guy he's sought after a lot of people after him he only takes on one person at a time",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q14",
+                    "response_text": "that's that's the great thing about it he liked the business so much that he's cutting his rates for the first he said for the first three months he's cutting his rates like he charges a lot of money i can't divulge that much i think you do if we're going to invest um like this is a business deal it's not the kgbyou know so you haven't given us his name even how much is he going to cost you in 2017.",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [
+                        "three",
+                        "2017"
+                    ],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q15",
+                    "response_text": "we'll set him targets he's to hit these targets so he'll dedicate the amount of time to hit these targets",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [
+                        "50"
+                    ],
+                    "new_metrics_revealed": [
+                        "Marketing expert hourly rate: 50 euro"
+                    ]
+                },
+                {
+                    "question_id": "q16",
+                    "response_text": "okay so we still will always have a gross margin of 87 87.7 but then our costs do come into it and the lowest net that we'd be left with is 19.8 say 20 net which means the volumes i was looking at in terms of a return in investment before money have now dramatically increased",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [
+                        "87",
+                        "87.7",
+                        "19.8",
+                        "20"
+                    ],
+                    "new_metrics_revealed": [
+                        "Lowest net margin: 19.8% or 20%"
+                    ]
+                },
+                {
+                    "question_id": "q17",
+                    "response_text": "so owen you've hired a an expensive guy with a ponytail to do the website marketing for you but like what marketing ideas do you have so give me your five big things that are going to drive you on this website give me seven then the magnificent seven from own heaven here we go",
+                    "responding_person": "Richard",
+                    "numerical_data_mentioned": [
+                        "27",
+                        "39",
+                        "36",
+                        "45000",
+                        "100"
+                    ],
+                    "new_metrics_revealed": [
+                        "UK competitor price: 27 euro (softback)",
+                        "US competitor (Shutterfly) price: 39 USD (~36 euro) (not specified hard/softback)",
+                        "Sales target to achieve 20% net margin: 45000 units"
+                    ]
+                },
+                {
+                    "question_id": "q18",
+                    "response_text": "one so i've mentioned that covered the first two which was taking on a guy and using third parties the third one this one you're looking for gavin it's i like to call it outside of the box thinking gorilla marketing one is we're gonna team up with national radio stations offer our books with prizes for competitions i've already done this got great success for two fm the nikki burn show area two lately toy show area number three is celebrities i've identified with the top 50 celebrities in the world who have kids in this sort of area",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [
+                        "five",
+                        "seven",
+                        "seven",
+                        "two",
+                        "50"
+                    ],
+                    "new_metrics_revealed": [
+                        "Marketing idea 1: Team up with national radio stations for competitions",
+                        "Marketing idea 2: Celebrity outreach (top 50 world celebrities with kids)"
+                    ]
+                },
+                {
+                    "question_id": "q19",
+                    "response_text": "i think it's a great product but i'm really concerned that to get the story out you're gonna have to spend a lot of money",
+                    "responding_person": "Gavin",
+                    "numerical_data_mentioned": [
+                        "five",
+                        "six",
+                        "seven"
+                    ],
+                    "new_metrics_revealed": [
+                        "Marketing idea 3: Bloggers",
+                        "Marketing idea 4: Gift guides",
+                        "Marketing idea 5: Trade shows",
+                        "Marketing idea 6: Email database marketing"
+                    ]
+                },
+                {
+                    "question_id": "q20",
+                    "response_text": "i think it's a really tough job for you to find a position in the market unfortunately i'm out",
+                    "responding_person": "Alison",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q21",
+                    "response_text": "let me tell you where i'm at there's too many moving parts and there's too little proved absolutely so for that reason i'm out",
+                    "responding_person": "Tyler",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q22",
+                    "response_text": "okay thank you i don't agree that it is a shot in the dark i have the guide lined up it's the uk company that have proven record in doing this",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [],
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q23",
+                    "response_text": "about 60 of the business and i'm hoping that from in that meantime the years one two and three that we're going to be getting repeat customers directly to our site at the same time",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [
+                        "2017",
+                        "60",
+                        "one",
+                        "two",
+                        "three"
+                    ],
+                    "new_metrics_revealed": [
+                        "Projected 2017 sales from marketing expert: 60%"
+                    ]
+                },
+                {
+                    "question_id": "q24",
+                    "response_text": "i'm going to make you an offer but i have to de-risk it a bit for myself you're asking me to project forward from a proof point of 255 books to the big dream uh which i'm prepared to buy into i could de-risk it by asking you for you know half your business instead of 25 percent what i'd like to do instead though to de-risk it for me is to make you the following offer so i'll offer you the full amount 40 000 for 20 of the business but i'm also going to need a royalty of one euro per book sold until i get the 40 000 back",
+                    "responding_person": "Barry",
+                    "numerical_data_mentioned": [
+                        "255",
+                        "25",
+                        "40000",
+                        "20",
+                        "40000"
+                    ],
+                    "new_metrics_revealed": [
+                        "Offer: 40000 euro for 20% equity + 1 euro royalty per book until 40000 euro is recovered"
+                    ]
+                },
+                {
+                    "question_id": "q25",
+                    "response_text": "[Applause] thanks for working with me thanks well done thank you on well done barry you can advise the guy in the ponytail i can help him with all of the online piece of it so and that's really the story here bad news barriers you've lost four sales we all have one now no you just have to pay me my royalty check oh well don",
+                    "responding_person": "Owen",
+                    "numerical_data_mentioned": [
+                        "four",
+                        "one"
+                    ],
+                    "new_metrics_revealed": []
+                }
+            ],
+            "market_information": {
+                "target_market_size": "not_provided",
+                "current_market_share": "not_provided",
+                "named_competitors": [
+                    "UK based personalized children's book company",
+                    "Shutterfly (US)"
+                ],
+                "market_growth_rate": "not_provided"
+            },
+            "product_service_information": {
+                "core_offering_description": "Unique personalized children's books with child's photograph superimposed as main character",
+                "unique_selling_proposition": "Photograph superimposition, making child the star of the story, Hardback books, Cheaper than competitors",
+                "patent_ip_status": "not_provided",
+                "development_stage": "Selling online, Year 1 of operation"
+            },
+            "deal_outcome": {
+                "final_result": "deal",
+                "final_terms_deal": {
+                    "investment_amount": "40000 euro",
+                    "equity_percentage": "20%",
+                    "royalty": "1 euro per book until 40000 euro recovered",
+                    "investor": "Barry"
+                },
+                "number_of_interested_investors": 1,
+                "contingencies_placed": "royalty payment"
+            },
+            "data_quality_indicators": {
+                "missing_critical_data_flags": [],
+                "unclear_information_flags": [],
+                "investor_attribution_confidence": 1.0
+            },
+            "interaction_dynamics": {
+                "investor_interest_indicators": {
+                    "positive_responses": [
+                        "Barry making an offer",
+                        "Richard complimenting product novelty",
+                        "Dragons showing interest in margins"
+                    ],
+                    "negative_responses": [
+                        "Alison, Tyler, Richard, Gavin out",
+                        "Concerns about marketing strategy and costs",
+                        "Concerns about competition",
+                        "Concerns about scalability of margins"
+                    ],
+                    "skepticism_indicators": [
+                        "Questions about marketing plan",
+                        "Doubt about achieving sales targets",
+                        "Questioning the valuation"
+                    ]
+                },
+                "negotiation_dynamics": {
+                    "counter_offers": [],
+                    "deal_breakers": [
+                        "Lack of clear marketing strategy for some dragons",
+                        "Perceived risk in customer acquisition"
+                    ],
+                    "key_concerns": [
+                        "Marketing and customer acquisition",
+                        "Scalability of production",
+                        "Competition",
+                        "Net margins after marketing costs"
+                    ]
+                }
+            },
+            "pitch_structure": {
+                "initial_pitch_segment": {
+                    "start_time": "not_provided",
+                    "end_time": "not_provided",
+                    "key_points": [
+                        "Personalized children's books with photo superimposition",
+                        "Seeking 40000 euro for 20% equity",
+                        "Unique in Ireland",
+                        "Competitor in UK turned over 8.22 million in 2014",
+                        "Presented product demonstration"
+                    ]
+                },
+                "qa_segment": {
+                    "start_time": "not_provided",
+                    "end_time": "not_provided",
+                    "question_count": 24
+                },
+                "negotiation_segment": {
+                    "start_time": "not_provided",
+                    "end_time": "not_provided",
+                    "key_events": [
+                        "Barry makes an offer of 40000 for 20% equity + royalty",
+                        "Owen accepts the offer immediately"
+                    ]
+                }
+            },
+            "extraction_metadata": {
+                "confidence_scores": {
+                    "speaker_identification": 1.0,
+                    "question_classification": 0.9,
+                    "metric_extraction": 0.95,
+                    "business_classification": 1.0
+                },
+                "extraction_challenges": [],
+                "data_quality_flags": []
+            }
+        }
+    ],
+    "episode_validation": {
+        "completeness": {
+            "all_pitches_processed": true,
+            "pitch_count": 1,
+            "missing_pitches": []
+        },
+        "consistency": {
+            "schema_adherence": true,
+            "cross_pitch_references": false
+        }
+    }
+}

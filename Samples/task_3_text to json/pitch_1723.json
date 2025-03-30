@@ -1,0 +1,777 @@
+{
+    "episode_metadata": {
+        "show_name": "Shark Tank Australia",
+        "season": 11,
+        "episode": 14,
+        "air_date": "not_provided",
+        "total_pitches": 3
+    },
+    "pitches": [
+        {
+            "pitch_id": "pitch_1",
+            "business_info": {
+                "business_name": "Scope IT Education",
+                "founder_names": [
+                    {
+                        "name": "Frank",
+                        "role": "Founder"
+                    },
+                    {
+                        "name": "Tracy",
+                        "role": "General Manager"
+                    }
+                ],
+                "location": "Australia",
+                "industry_category": [
+                    "Education",
+                    "Technology",
+                    "Franchise"
+                ],
+                "business_model_type": "B2C/B2B Service",
+                "product_service_info": {
+                    "core_offering_description": "Provides computer science education programs to primary schools across Australia.",
+                    "unique_selling_proposition": "Full solution for ICT education in schools, addressing mandatory curriculum changes and lack of school resources. Franchise model for scalability.",
+                    "patent_ip_status": "not_provided",
+                    "development_stage": "Operational, expanding franchise"
+                },
+                "market_info": {
+                    "target_market_size": "All primary schools in Australia",
+                    "current_market_share": "150 schools",
+                    "named_competitors": "not_provided",
+                    "market_growth_rate": "Driven by mandatory digital technologies curriculum"
+                }
+            },
+            "pitch_metrics": {
+                "initial_ask_amount": 632000,
+                "equity_offered": 15,
+                "implied_valuation": 4213333.33,
+                "final_deal_terms": {
+                    "deal_made": true,
+                    "investment_amount": 632000,
+                    "equity_percentage": 25,
+                    "investors": [
+                        "Steve"
+                    ]
+                },
+                "participating_investors": [
+                    "Glenn",
+                    "Steve",
+                    "Naomi",
+                    "Andrew",
+                    "Janine"
+                ]
+            },
+            "business_metrics": {
+                "basic_metrics": {
+                    "current_revenue": "not_provided",
+                    "margins": "not_provided",
+                    "costs": "not_provided",
+                    "price_points": "50 per student per term (5 per week)"
+                },
+                "sales_numbers": "19 franchisees, 4 internal territories, 150 schools",
+                "distribution_channels": "Franchise, direct sales to schools",
+                "production_costs": "not_provided",
+                "projected_metrics": {
+                    "year_1_profit": "520,000 - 550,000",
+                    "year_3_profit": "5,400,000"
+                }
+            },
+            "questions_asked": [
+                {
+                    "question_id": "q1_pitch1",
+                    "raw_text": "so Frank and Tracy you're looking for 632 000 for 15 of your company valuing your business is a cool 4.21 million dollars is that correct",
+                    "investor": "Andrew",
+                    "sequence_number": 1,
+                    "basic_category": "Pitch Metrics/Valuation",
+                    "contains_metrics": true,
+                    "response_text": "that's correct",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q2_pitch1",
+                    "raw_text": "so what age range are we talking about",
+                    "investor": "Naomi",
+                    "sequence_number": 2,
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "steer of school to year 10 to you though we are working with United students now as well",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q3_pitch1",
+                    "raw_text": "my daughter's grade two and I don't know whether it's necessary to teach a coding at grade two considering by the time she's in grade five what if she learns in grade two will be obsolete",
+                    "investor": "Naomi",
+                    "sequence_number": 3,
+                    "basic_category": "Market/Product",
+                    "contains_metrics": false,
+                    "response_text": "as long as she's got those underlying skills then she'll grow with the technology it won't it won't be useless to us as well as that computational thinking and algorithmic thinking because employees in the future are going to require their employees to be clever and creative using technology and the younger we get them the more they'll learn and absorb over time",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q4_pitch1",
+                    "raw_text": "so the education department are going to make coding mandatory in schools digital Technologies mandatory encoding's one aspect so surely that's going to destroy your business model then",
+                    "investor": "Glenn",
+                    "sequence_number": 4,
+                    "basic_category": "Market/Risk",
+                    "contains_metrics": false,
+                    "response_text": "no funnily enough it won't because what we actually do is we facilitate the the lessons to be able to be run because many schools just simply don't have the teaching staff the courseware all the hardware we're already in 150 schools and the level of Technology that's in schools at the moment is not great where and how are they going to get it into their budgets this business really it has a bit of a philanthropic aspect to it it's got a social impact which is every student should have access to these type of lessons so we brought the price down as far as possible",
+                    "new_metrics_revealed": [
+                        "150 schools"
+                    ]
+                },
+                {
+                    "question_id": "q5_pitch1",
+                    "raw_text": "each course is one 40-minute lesson for 10 weeks that's what each course is so one term long yeah so five dollars per student per week or 50 for the term",
+                    "investor": "Andrew",
+                    "sequence_number": 5,
+                    "basic_category": "Business Model/Price",
+                    "contains_metrics": true,
+                    "response_text": "a young friend of mine does one a program at school and I don't know if it's your program are you in Scarborough yes yes we are well she's had incredible outcomes she adores it she's 12 12. and she does um she did 3D printing she did app development or something and she was doing gaming",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q6_pitch1",
+                    "raw_text": "so tell us about the team how have you structured your team",
+                    "investor": "Janine",
+                    "sequence_number": 6,
+                    "basic_category": "Team",
+                    "contains_metrics": false,
+                    "response_text": "well in in head office we have four executives and we're the ones who actually run the team we have about 20 staff that help facilitate the operation around the country and then we have those 19 franchisees",
+                    "new_metrics_revealed": [
+                        "4 executives",
+                        "20 staff",
+                        "19 franchisees"
+                    ]
+                },
+                {
+                    "question_id": "q7_pitch1",
+                    "raw_text": "so just to find your profit please Frank for this year we expect to make around five between 520 and 550 000 that's profit",
+                    "investor": "Andrew",
+                    "sequence_number": 7,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "net profit correct that's pretty good",
+                    "new_metrics_revealed": [
+                        "520,000 - 550,000 profit"
+                    ]
+                },
+                {
+                    "question_id": "q8_pitch1",
+                    "raw_text": "where are we going to be in three years time",
+                    "investor": "Andrew",
+                    "sequence_number": 8,
+                    "basic_category": "Financial/Projections",
+                    "contains_metrics": false,
+                    "response_text": "in year three we're budgeted at current to make 5.4 million 5.4 million Top Line what's popping out the bottom now that's 5.4 million profits 5.4 million net profit before tax in year three",
+                    "new_metrics_revealed": [
+                        "5.4 million profit year 3"
+                    ]
+                },
+                {
+                    "question_id": "q9_pitch1",
+                    "raw_text": "how many franchises is that in three years then",
+                    "investor": "Naomi",
+                    "sequence_number": 9,
+                    "basic_category": "Operations/Strategy",
+                    "contains_metrics": true,
+                    "response_text": "uh in the three years well that would actually be mostly internally run territories to reach that 5.4 million right the capital we're asking for today will actually facilitate 14 more internal territories and they're much more profitable than the franchise model",
+                    "new_metrics_revealed": [
+                        "14 internal territories"
+                    ]
+                },
+                {
+                    "question_id": "q10_pitch1",
+                    "raw_text": "you reckon if you if we drop in 632 Grand 14 regions doubling the size of the business with this investment 19 to 14. pretty close about 14 very profitable regions because they're internally owned as opposed to 19 ones that are externally",
+                    "investor": "Naomi",
+                    "sequence_number": 10,
+                    "basic_category": "Operations/Strategy",
+                    "contains_metrics": true,
+                    "response_text": "look I think your space is clearly very appropriate there's no debate about that but you're only as good as your content I think you're going to make money but I think you've got a window of five to seven years and then you're going to be disrupted I think by different models so I wish you luck thank you",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q11_pitch1",
+                    "raw_text": "what do you think apart from the cash Could you actually bring to us",
+                    "investor": "Steve",
+                    "sequence_number": 11,
+                    "basic_category": "Investor Value-Add",
+                    "contains_metrics": false,
+                    "response_text": "not much I've had a lot of exposure to um coding over the years I I think it's integral to entrepreneurship so I've got a bit of a love affair with it I have a deep love affair with getting kids to be smarter and get engaged with tech",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q12_pitch1",
+                    "raw_text": "Glenn are you going to counter that I don't think I don't think you need similar experience I think you need someone who knows how to scale up a business and and to get performance out of your franchisees from a remote headquarters you guys are expert in in doing this but what I'm going to assist is the coaching and the support in rolling out a network across Australia and then working out how to get performance out of that Network",
+                    "investor": "Steve",
+                    "sequence_number": 12,
+                    "basic_category": "Investor Value-Add",
+                    "contains_metrics": false,
+                    "response_text": "I'll get him a lucky number 33. 632 000 for 33 percent",
+                    "new_metrics_revealed": [
+                        "33% equity offer"
+                    ]
+                },
+                {
+                    "question_id": "q13_pitch1",
+                    "raw_text": "so 33 from Glenn 30 from Steve what would you like to do",
+                    "investor": "Andrew",
+                    "sequence_number": 13,
+                    "basic_category": "Deal Negotiation",
+                    "contains_metrics": true,
+                    "response_text": "okay we really appreciate your offer and we think it's a really enticing thing to take but unfortunately that position of equity would be a little bit too much for us to give away at this point in a point in time Steve Tiara we only actually have authority from our other two shareholders to let a position go of up to 25 so we're wondering if there is something that can be done this would actually make you also the largest shareholder yeah wouldn't it and it'd be the first time that we've actually broken where we don't have equal shares from the business so it is a big step for us to let something like this go",
+                    "new_metrics_revealed": [
+                        "25% maximum equity"
+                    ]
+                },
+                {
+                    "question_id": "q14_pitch1",
+                    "raw_text": "yep let's do it",
+                    "investor": "Steve",
+                    "sequence_number": 14,
+                    "basic_category": "Deal Conclusion",
+                    "contains_metrics": false,
+                    "response_text": "congratulations thank you thank you so much looking forward to it congratulations thank you thank you so much I can't believe it",
+                    "new_metrics_revealed": []
+                }
+            ],
+            "deal_outcome": {
+                "final_result": "deal",
+                "deal_terms": {
+                    "investment_amount": 632000,
+                    "equity_percentage": 25,
+                    "investors": [
+                        "Steve"
+                    ]
+                },
+                "number_of_interested_investors": 2,
+                "contingencies_placed": "not_provided"
+            },
+            "data_quality_indicators": {
+                "missing_critical_data_flags": [],
+                "unclear_information_flags": [],
+                "investor_attribution_confidence": 1.0
+            },
+            "extraction_metadata": {
+                "confidence_scores": {
+                    "speaker_identification": 1.0,
+                    "question_classification": 0.9,
+                    "metric_extraction": 1.0,
+                    "business_classification": 0.9
+                },
+                "extraction_challenges": [],
+                "data_quality_flags": []
+            },
+            "interaction_dynamics": {
+                "investor_interest_indicators": {
+                    "positive_responses": [],
+                    "negative_responses": [],
+                    "skepticism_indicators": []
+                },
+                "negotiation_dynamics": {
+                    "counter_offers": [
+                        "Glenn offered 632,000 for 39%",
+                        "Steve offered 632,000 for 30%",
+                        "Glenn revised offer to 632,000 for 33%"
+                    ],
+                    "deal_breakers": [
+                        "Equity percentage too high initially for entrepreneurs"
+                    ],
+                    "key_concerns": [
+                        "Valuation concerns from Glenn initially"
+                    ]
+                }
+            },
+            "pitch_structure": {
+                "initial_pitch_segment": {
+                    "start_time": "not_provided",
+                    "end_time": "not_provided",
+                    "key_points": [
+                        "Teaching kids computer science",
+                        "Addressing mandatory education changes",
+                        "Franchise model",
+                        "Seeking 632,000 for 15% equity"
+                    ]
+                },
+                "qa_segment": {
+                    "start_time": "not_provided",
+                    "end_time": "not_provided",
+                    "question_count": 14
+                },
+                "negotiation_segment": {
+                    "start_time": "not_provided",
+                    "end_time": "not_provided",
+                    "key_events": [
+                        "Glenn offers 39% equity",
+                        "Steve offers 30% equity",
+                        "Glenn reduces to 33%",
+                        "Entrepreneurs counter with max 25%",
+                        "Steve agrees to 25%"
+                    ]
+                }
+            }
+        },
+        {
+            "pitch_id": "pitch_2",
+            "business_info": {
+                "business_name": "Birthbeat",
+                "founder_names": [
+                    {
+                        "name": "Edwina Sharick",
+                        "role": "Founder, CEO"
+                    }
+                ],
+                "location": "Tamworth, New South Wales, Australia",
+                "industry_category": [
+                    "Education",
+                    "Health",
+                    "Online Services"
+                ],
+                "business_model_type": "B2C Service",
+                "product_service_info": {
+                    "core_offering_description": "Online antenatal classes and postnatal support for expecting parents.",
+                    "unique_selling_proposition": "Midwife-created, obstetrician-endorsed online platform offering comprehensive birth education from prenatal yoga to breastfeeding.",
+                    "patent_ip_status": "not_provided",
+                    "development_stage": "Launched online portal"
+                },
+                "market_info": {
+                    "target_market_size": "Expecting parents in Australia and potentially worldwide",
+                    "current_market_share": "Early stage, growing online presence",
+                    "named_competitors": "Other online birthing class providers",
+                    "market_growth_rate": "Growing demand for online health and education resources"
+                }
+            },
+            "pitch_metrics": {
+                "initial_ask_amount": 200000,
+                "equity_offered": 10,
+                "implied_valuation": 2000000,
+                "final_deal_terms": {
+                    "deal_made": true,
+                    "investment_amount": 200000,
+                    "equity_percentage": 20,
+                    "investors": [
+                        "Janine",
+                        "Loan of 100,000"
+                    ]
+                },
+                "participating_investors": [
+                    "Glenn",
+                    "Steve",
+                    "Naomi",
+                    "Andrew",
+                    "Janine"
+                ]
+            },
+            "business_metrics": {
+                "basic_metrics": {
+                    "current_revenue": "19000 (69 units sold)",
+                    "margins": "240 profit per unit (unit price 297)",
+                    "costs": "not_provided",
+                    "price_points": "297 per unit"
+                },
+                "sales_numbers": "69 units sold since online launch",
+                "distribution_channels": "Online platform",
+                "production_costs": "not_provided",
+                "projected_metrics": {
+                    "12_month_revenue_projection": "500,000",
+                    "2020_business_goal": "5,000,000 business"
+                }
+            },
+            "questions_asked": [
+                {
+                    "question_id": "q1_pitch2",
+                    "raw_text": "so you're looking for uh 200 kaida at a two million evaluation 10 I am Edwin so um you're a midwife having babies have you delivered",
+                    "investor": "Andrew",
+                    "sequence_number": 1,
+                    "basic_category": "Pitch Metrics/Founder Background",
+                    "contains_metrics": true,
+                    "response_text": "oh hundreds hundreds hundreds I'm not actually a clinical Midwife now okay I've resigned from my clinical position to focus 100 on birthday that's really great I love people who leave their jobs and focus 100 of their business it's a good thing isn't it it's fantastic that's great so you've got a real passion for this stuff haven't you I sure do",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q2_pitch2",
+                    "raw_text": "so Edwina tell us how it works how does it work oh yeah can I show you around the pool so",
+                    "investor": "Glenn",
+                    "sequence_number": 2,
+                    "basic_category": "Product/Service",
+                    "contains_metrics": false,
+                    "response_text": "okay well this is the epidural exercise that sounds like fun so many people don't understand but they're saying I'm going to have an individual the process that's involved let's not get ourselves you're not the first one to put birthing classes online",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q3_pitch2",
+                    "raw_text": "no that's right there are some companies that do it what is unique about birthday is that I'm actually a registered Midwife it's obstetric endorsed so we've had four Obstetricians go through the program plus we offer prenatal yoga through to the breastfeeding consultant so it's all packaged into this One-Stop shop",
+                    "investor": "Glenn",
+                    "sequence_number": 3,
+                    "basic_category": "Product/USP",
+                    "contains_metrics": false,
+                    "response_text": "what does your husband think about the idea of you giving out your full-time job and starting a business look my husband's a very patient man thankfully um because he's an engineer he's the numbers analytical brain Edwin yeah so did he did he engineer the two million evaluation or do you have some mathematics behind them no I do I was going to say I do have some mathematics behind that",
+                    "new_metrics_revealed": [
+                        "4 Obstetrician endorsements",
+                        "Prenatal yoga",
+                        "Breastfeeding consultant"
+                    ]
+                },
+                {
+                    "question_id": "q4_pitch2",
+                    "raw_text": "um okay so the unit is 297 dollars you get the entire modules so 14 hours 14 years I get 240 profit per unit we've sold 69 units so we have nineteen thousand dollars",
+                    "investor": "Andrew",
+                    "sequence_number": 4,
+                    "basic_category": "Financials/Sales",
+                    "contains_metrics": true,
+                    "response_text": "I really see this as you know maybe lower the price and then subscribe going forward you know what happens with the terrible twos what happens with the one-year-old so you can keep them on there forever I actually have a plan so my email system is quite sophisticated I can know what date of birth so then I know four months later that hey we're looking at starting solids so Now's the Time to engage with my customer again yes and say you need to know what to do if your baby chokes which leads into a subscription model yeah which then yeah which is you know God if you can get that one right yeah that's um um what's your plan to take this forward",
+                    "new_metrics_revealed": [
+                        "Unit price 297",
+                        "Profit per unit 240",
+                        "69 units sold",
+                        "19,000 revenue"
+                    ]
+                },
+                {
+                    "question_id": "q5_pitch2",
+                    "raw_text": "what's your plan to take this forward",
+                    "investor": "Glenn",
+                    "sequence_number": 5,
+                    "basic_category": "Strategy/Growth",
+                    "contains_metrics": false,
+                    "response_text": "I'm very excited about some potential contracts that are coming up we have a 50 unit trial signed with one of Australia's largest banks to provide this to their employees in part of their corporate wellness package that corporate bank employs 55 000 employees oh very good we are also deep in discussion with hcf for birthbeat to be the preferred provider for their online platform",
+                    "new_metrics_revealed": [
+                        "50 unit trial with bank (55,000 employees)",
+                        "Discussions with HCF (health fund)"
+                    ]
+                },
+                {
+                    "question_id": "q6_pitch2",
+                    "raw_text": "so is hcf talking about incorporating it into one of the programs yes so and so how big is a hdf popular the HF they have 6 000 births a year to notice",
+                    "investor": "Andrew",
+                    "sequence_number": 6,
+                    "basic_category": "Market/Partnerships",
+                    "contains_metrics": true,
+                    "response_text": "there's a lot of talking to me I'm going to say something one day it's like he thinks that none of it others can have this conversation no exactly Edwina Naomi have you got something to say yes hello sorry quickly well I was in the middle of a question at the same time are you choked you can have it next okay I feel like I'm talking to my children yeah that's right that's a very good observation yeah Edwina I know Naomi's desperate to talk sorry you often demonstrate you're not patients that's all right the reason why often we need to be as investors is because it doesn't happen in the near term and it might be a long play see the thing we don't yet know about your business is what it's going to cost to acquire a customer you have to get the growth that you need",
+                    "new_metrics_revealed": [
+                        "HCF has 6,000 births a year"
+                    ]
+                },
+                {
+                    "question_id": "q7_pitch2",
+                    "raw_text": "so what are you spending on marketing",
+                    "investor": "Naomi",
+                    "sequence_number": 7,
+                    "basic_category": "Marketing/Customer Acquisition",
+                    "contains_metrics": false,
+                    "response_text": "each couple receives a book it's posted in the mail they also get a little bag of goodie bags and then that's hand posted to them do you have a marketing expense above the line not yet what I have done is an online campaign with that is two videos those two videos one on Instagram one on Facebook one's been viewed 52 000 times one's being viewed 64 000 times so still struggling to to make the big leap from from nineteen thousand dollars to your two million dollar valuation",
+                    "new_metrics_revealed": [
+                        "Instagram video views: 52,000",
+                        "Facebook video views: 64,000"
+                    ]
+                },
+                {
+                    "question_id": "q8_pitch2",
+                    "raw_text": "yeah give me the number that we think we're going to see in the next 12 months 2020 I want to be a 5 million dollar business and I will be based on that we're going to sign two corporates that are both six-figure licenses so they will buy their licenses so give me give me a number that you probably will hit on a revenue line for the next 12 months",
+                    "investor": "Andrew",
+                    "sequence_number": 8,
+                    "basic_category": "Financial Projections",
+                    "contains_metrics": true,
+                    "response_text": "I expect this to be 500 000 in the next 12 months okay",
+                    "new_metrics_revealed": [
+                        "12-month revenue projection: 500,000"
+                    ]
+                },
+                {
+                    "question_id": "q9_pitch2",
+                    "raw_text": "is she a little make an offer with this teasing",
+                    "investor": "Andrew",
+                    "sequence_number": 9,
+                    "basic_category": "Deal Negotiation",
+                    "contains_metrics": false,
+                    "response_text": "Midwife Edwina has started a business selling online birthing classes with plans to expand her range into the Early Childhood years but with four sharks out Janine is her last hope you um been doing your business long you are authentic though you are the real deal you have the credibility to come out and be an authority in this space Oh God is she a little make an offer are we just teasing we've seen the Muppets yeah there's two old guys it's sitting the thing it just winged and carry on come on come on I'll make you an offer KitchenAid this is good I think because you're just getting going 200 000 for 20 is too much at this point I will give you a hundred thousand for 20 and a hundred thousand dollar loan okay",
+                    "new_metrics_revealed": [
+                        "Offer: 100,000 for 20% equity + 100,000 loan"
+                    ]
+                },
+                {
+                    "question_id": "q10_pitch2",
+                    "raw_text": "what are you gonna do",
+                    "investor": "Janine",
+                    "sequence_number": 10,
+                    "basic_category": "Deal Conclusion",
+                    "contains_metrics": false,
+                    "response_text": "I would absolutely love to take Janine wow that was easy thank you thank you so much Naomi really thank you really cute so all the best fantastic well done thank you so much for your time and I genuinely think we are going to make such an impact for women in Australia we will thank you thank you bye",
+                    "new_metrics_revealed": []
+                }
+            ],
+            "deal_outcome": {
+                "final_result": "deal",
+                "deal_terms": {
+                    "investment_amount": 200000,
+                    "equity_percentage": 20,
+                    "investors": [
+                        "Janine",
+                        "Loan of 100,000"
+                    ]
+                },
+                "number_of_interested_investors": 1,
+                "contingencies_placed": "loan component"
+            },
+            "data_quality_indicators": {
+                "missing_critical_data_flags": [],
+                "unclear_information_flags": [],
+                "investor_attribution_confidence": 1.0
+            },
+            "extraction_metadata": {
+                "confidence_scores": {
+                    "speaker_identification": 1.0,
+                    "question_classification": 0.9,
+                    "metric_extraction": 1.0,
+                    "business_classification": 0.9
+                },
+                "extraction_challenges": [],
+                "data_quality_flags": []
+            },
+            "interaction_dynamics": {
+                "investor_interest_indicators": {
+                    "positive_responses": [
+                        "Janine's offer"
+                    ],
+                    "negative_responses": [
+                        "Glenn, Steve, Naomi, Andrew went out"
+                    ],
+                    "skepticism_indicators": [
+                        "Concerns about customer acquisition cost",
+                        "Valuation concerns"
+                    ]
+                },
+                "negotiation_dynamics": {
+                    "counter_offers": [
+                        "Janine offered 100,000 for 20% + 100,000 loan"
+                    ],
+                    "deal_breakers": [
+                        "High valuation relative to current revenue"
+                    ],
+                    "key_concerns": [
+                        "Scalability",
+                        "Customer Acquisition Cost"
+                    ]
+                }
+            },
+            "pitch_structure": {
+                "initial_pitch_segment": {
+                    "start_time": "not_provided",
+                    "end_time": "not_provided",
+                    "key_points": [
+                        "Online birthing classes",
+                        "Addressing maternity unit closures",
+                        "Midwife-created, obstetrician-endorsed",
+                        "Seeking 200,000 for 10% equity"
+                    ]
+                },
+                "qa_segment": {
+                    "start_time": "not_provided",
+                    "end_time": "not_provided",
+                    "question_count": 10
+                },
+                "negotiation_segment": {
+                    "start_time": "not_provided",
+                    "end_time": "not_provided",
+                    "key_events": [
+                        "Janine makes offer of 100k for 20% equity + 100k loan",
+                        "Edwina accepts"
+                    ]
+                }
+            }
+        },
+        {
+            "pitch_id": "pitch_3",
+            "business_info": {
+                "business_name": "Kidsco Australia",
+                "founder_names": [
+                    {
+                        "name": "Leighton Allen",
+                        "role": "Co-founder"
+                    },
+                    {
+                        "name": "Adrian Rockman",
+                        "role": "Co-founder"
+                    }
+                ],
+                "location": "Melbourne, Victoria, Australia",
+                "industry_category": [
+                    "Education",
+                    "Childcare",
+                    "Corporate Services"
+                ],
+                "business_model_type": "B2B Service",
+                "product_service_info": {
+                    "core_offering_description": "Around school holiday programs in the workplace for working parents.",
+                    "unique_selling_proposition": "Convenient and innovative solution for school holiday childcare, offered as a corporate benefit to employees.",
+                    "patent_ip_status": "not_provided",
+                    "development_stage": "Operational, running programs in 12 sites"
+                },
+                "market_info": {
+                    "target_market_size": "Working parents in Australia (9 million)",
+                    "current_market_share": "Early stage, operating in 12 sites",
+                    "named_competitors": "Traditional holiday programs, grandparent care, unpaid leave",
+                    "market_growth_rate": "Growing need for flexible childcare solutions for working parents"
+                }
+            },
+            "pitch_metrics": {
+                "initial_ask_amount": 375000,
+                "equity_offered": 15,
+                "implied_valuation": 2500000,
+                "final_deal_terms": {
+                    "deal_made": false,
+                    "investment_amount": 0,
+                    "equity_percentage": 0,
+                    "investors": []
+                },
+                "participating_investors": [
+                    "Glenn",
+                    "Steve",
+                    "Naomi",
+                    "Andrew",
+                    "Janine"
+                ]
+            },
+            "business_metrics": {
+                "basic_metrics": {
+                    "current_revenue": "100,000+ (December/January holidays)",
+                    "margins": "Profitable after 25 children per day",
+                    "costs": "not_provided",
+                    "price_points": "80 per child per day"
+                },
+                "sales_numbers": "Programs in 12 sites across 9 companies, 15 companies in pilot programs",
+                "distribution_channels": "Direct sales to companies (HR departments)",
+                "production_costs": "Curriculum development, staffing costs",
+                "historical_revenue": {
+                    "July 2017": "20,000",
+                    "Subsequent holidays": "75,000",
+                    "Dec/Jan holidays": "100,000+"
+                }
+            },
+            "questions_asked": [
+                {
+                    "question_id": "q1_pitch3",
+                    "raw_text": "375 000 bucks for 15 correct now we know each other don't we we do uh in all fairness you operate a uh Holiday Program from one co-working space in Brisbane River City labs and my daughter enjoys a living daylight yeah we love Livvy too awesome value and I love the service",
+                    "investor": "Andrew",
+                    "sequence_number": 1,
+                    "basic_category": "Pitch Metrics/Background",
+                    "contains_metrics": true,
+                    "response_text": "so I'd like to clarify typically the age range for these kids is what primary school age five to twelve five to twelve and the people you're selling this to is usually the employer or are you selling it one-on-one to parents always the company we go through the HR so it's a business to business sale yes a YouTube the sales people at the moment we're everything all right okay so how many sites are you currently running programs in nine companies at 12 sites across Melbourne Sydney Brisbane and then we've got another 15 companies who are running pilot programs in the next two School holiday periods",
+                    "new_metrics_revealed": [
+                        "Age range: 5-12",
+                        "B2B sales model",
+                        "12 sites in 9 companies",
+                        "15 pilot programs"
+                    ]
+                },
+                {
+                    "question_id": "q2_pitch3",
+                    "raw_text": "so tell me about these companies what's the minimum size to make them run profitably",
+                    "investor": "Naomi",
+                    "sequence_number": 2,
+                    "basic_category": "Business Model/Operations",
+                    "contains_metrics": false,
+                    "response_text": "so we have a minimum of 25 children per day at 80 a child and every kid after the first 25 that drop in is seriously better profit exactly absolutely so you valued your business at two and a half million yes so tell us about the revenue number yes because I'm sure they're going to just blow us away 2.5 ill will yeah",
+                    "new_metrics_revealed": [
+                        "Minimum 25 children/day for profitability",
+                        "Price 80/child/day",
+                        "2.5M valuation"
+                    ]
+                },
+                {
+                    "question_id": "q3_pitch3",
+                    "raw_text": "so our first program which ran in July of 17. we've generated 20 000 in Revenue the following holidays we did 75 000 and the December January holidays just passed we did just over a hundred",
+                    "investor": "Adrian (responding to Andrew's implied question about revenue)",
+                    "sequence_number": 3,
+                    "basic_category": "Financials/Revenue",
+                    "contains_metrics": true,
+                    "response_text": "...",
+                    "new_metrics_revealed": [
+                        "July 2017 Revenue: 20,000",
+                        "Subsequent Holidays Revenue: 75,000",
+                        "Dec/Jan Holidays Revenue: 100,000+"
+                    ]
+                }
+            ],
+            "deal_outcome": {
+                "final_result": "no deal",
+                "deal_terms": null,
+                "number_of_interested_investors": 0,
+                "contingencies_placed": "not_provided"
+            },
+            "data_quality_indicators": {
+                "missing_critical_data_flags": [],
+                "unclear_information_flags": [],
+                "investor_attribution_confidence": 1.0
+            },
+            "extraction_metadata": {
+                "confidence_scores": {
+                    "speaker_identification": 1.0,
+                    "question_classification": 0.9,
+                    "metric_extraction": 1.0,
+                    "business_classification": 0.9
+                },
+                "extraction_challenges": [],
+                "data_quality_flags": []
+            },
+            "interaction_dynamics": {
+                "investor_interest_indicators": {
+                    "positive_responses": [
+                        "Andrew liked the service based on daughter's experience"
+                    ],
+                    "negative_responses": [
+                        "No offers made"
+                    ],
+                    "skepticism_indicators": [
+                        "Need more data to assess scalability and profitability (implied)"
+                    ]
+                },
+                "negotiation_dynamics": {
+                    "counter_offers": [],
+                    "deal_breakers": [
+                        "Lack of compelling financial performance to justify valuation (implied)"
+                    ],
+                    "key_concerns": [
+                        "Scalability beyond pilot programs",
+                        "Revenue traction relative to valuation"
+                    ]
+                }
+            },
+            "pitch_structure": {
+                "initial_pitch_segment": {
+                    "start_time": "not_provided",
+                    "end_time": "not_provided",
+                    "key_points": [
+                        "Holiday programs for working parents in workplaces",
+                        "Addressing school holiday childcare challenges",
+                        "Curriculum covering various learning areas",
+                        "Seeking 375,000 for 15% equity"
+                    ]
+                },
+                "qa_segment": {
+                    "start_time": "not_provided",
+                    "end_time": "not_provided",
+                    "question_count": 3
+                },
+                "negotiation_segment": {
+                    "start_time": "not_provided",
+                    "end_time": "not_provided",
+                    "key_events": [
+                        "No offers made",
+                        "Sharks went out due to implied concerns about financials and scalability"
+                    ]
+                }
+            }
+        }
+    ],
+    "episode_validation": {
+        "completeness": {
+            "all_pitches_processed": true,
+            "pitch_count": 3,
+            "missing_pitches": []
+        },
+        "consistency": {
+            "schema_adherence": true,
+            "cross_pitch_references": false
+        }
+    }
+}

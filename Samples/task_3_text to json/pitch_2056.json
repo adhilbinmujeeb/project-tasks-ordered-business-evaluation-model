@@ -1,0 +1,802 @@
+{
+    "episode_metadata": {
+        "show_name": "Shark Tank",
+        "season": 11,
+        "episode": 14,
+        "air_date": "not_provided",
+        "total_pitches": 1
+    },
+    "pitches": [
+        {
+            "pitch_id": "pitch_1",
+            "business_info": {
+                "business_name": "Peekaboo Organics",
+                "founder_names_roles": [
+                    {
+                        "name": "Jessica Levisan",
+                        "role": "Founder"
+                    }
+                ],
+                "location": "not_provided",
+                "industry_category": [
+                    "Food & Beverage",
+                    "Ice Cream"
+                ],
+                "business_model_type": [
+                    "B2C",
+                    "Product"
+                ]
+            },
+            "pitch_metrics": {
+                "initial_ask_amount": 800000,
+                "equity_offered": 8,
+                "implied_valuation": 10000000,
+                "final_deal_terms": {
+                    "deal_made": false,
+                    "offered_terms": [
+                        {
+                            "investor": "Lori",
+                            "type": "loan",
+                            "amount": 800000,
+                            "interest_rate": 6,
+                            "equity": 5,
+                            "duration_years": 3,
+                            "contingencies": "Healthier, low-calorie, low-fat version required"
+                        },
+                        {
+                            "investor": "Kevin",
+                            "type": "loan",
+                            "amount": 800000,
+                            "interest_rate": 9,
+                            "equity": 8,
+                            "duration_years": "not_specified",
+                            "contingencies": "none specified"
+                        }
+                    ],
+                    "accepted_deal": "no_deal"
+                },
+                "participating_investors": []
+            },
+            "business_metrics": {
+                "basic_metrics": {
+                    "current_revenue": 450000,
+                    "projected_revenue_end_year": 2600000,
+                    "projected_revenue_next_year": 5000000,
+                    "margins": "not_provided",
+                    "costs": "not_provided",
+                    "price_points": "not_provided"
+                },
+                "sales_metrics": {
+                    "current_stores": 900,
+                    "projected_stores_end_year": 3000
+                },
+                "distribution_channels": [
+                    "Whole Foods",
+                    "Safeway",
+                    "ShopRite",
+                    "Weis Markets",
+                    "Lazy Acres"
+                ],
+                "production_costs": "not_provided"
+            },
+            "questions_responses": [
+                {
+                    "question_id": "q1",
+                    "sequence_number": 1,
+                    "investor": "Lori",
+                    "raw_text": "Lori, what do you taste in the first flavor?",
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "Chocolate.",
+                    "responding_person": "Lori",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q2",
+                    "sequence_number": 2,
+                    "investor": "Robert",
+                    "raw_text": "Robert, tell me what you're tasting.",
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "Heaven.",
+                    "responding_person": "Robert",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q3",
+                    "sequence_number": 3,
+                    "investor": "unknown_investor",
+                    "raw_text": "What's the one in the middle?",
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "- That's cotton candy.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q4",
+                    "sequence_number": 4,
+                    "investor": "unknown_investor",
+                    "raw_text": "This is all vegetarian?",
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "- It's dairy ice cream\nwith hidden veggies\nthat you cannot see or taste.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q5",
+                    "sequence_number": 5,
+                    "investor": "unknown_investor",
+                    "raw_text": "So, it's real ice cream\nwith vegetables thrown in?",
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "So, the mint chip actually has\ntwo cups of spinach\nin every container\nof the mint chip.\nWow.\nThe strawberry has 14\nbaby carrots in every container.\nThe chocolate\nhas 10 cauliflower florets.\nThe vanilla has the equivalent\nof a zucchini and a half.\nAnd the cotton candy\nhas three baby beets.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": [
+                        "2 cups of spinach per mint chip container",
+                        "14 baby carrots per strawberry container",
+                        "10 cauliflower florets per chocolate container",
+                        "1.5 zucchini equivalent per vanilla container",
+                        "3 baby beets per cotton candy container"
+                    ]
+                },
+                {
+                    "question_id": "q6",
+                    "sequence_number": 6,
+                    "investor": "unknown_investor",
+                    "raw_text": "You haven't told us\nwhat you came here for.",
+                    "basic_category": "Pitch",
+                    "contains_metrics": false,
+                    "response_text": "Okay.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q7",
+                    "sequence_number": 7,
+                    "investor": "unknown_investor",
+                    "raw_text": "So, what do you want?",
+                    "basic_category": "Pitch",
+                    "contains_metrics": false,
+                    "response_text": "So, I'm asking for $800,000\nfor 8% of the company.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": [
+                        "Ask amount: $800,000",
+                        "Equity offered: 8%"
+                    ]
+                },
+                {
+                    "question_id": "q8",
+                    "sequence_number": 8,
+                    "investor": "Mark",
+                    "raw_text": "You must have enormous sales.",
+                    "basic_category": "Financial",
+                    "contains_metrics": false,
+                    "response_text": "I'm excited\nto tell you about them.\nSo, we launched\nless than a year ago,\nand to date, we're in\nalmost 900 stores...\n...and we're gonna be in 3,000\nstores by the end of the year.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": [
+                        "Launched less than a year ago",
+                        "Currently in 900 stores",
+                        "Projected to be in 3000 stores by year-end"
+                    ]
+                },
+                {
+                    "question_id": "q9",
+                    "sequence_number": 9,
+                    "investor": "Mark",
+                    "raw_text": "And what are sales?",
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "So, the sales since\nwe've launched is $450,000.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": [
+                        "Sales since launch: $450,000"
+                    ]
+                },
+                {
+                    "question_id": "q10",
+                    "sequence_number": 10,
+                    "investor": "Kevin",
+                    "raw_text": "That's it?\nYou're asking for\na $10 million valuation.",
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "Innovative,\nhigh\u2010growth food startups\nare trading at four to six times\nrevenue multiple.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": [
+                        "Valuation multiple for innovative food startups: 4-6x revenue"
+                    ]
+                },
+                {
+                    "question_id": "q11",
+                    "sequence_number": 11,
+                    "investor": "Mark",
+                    "raw_text": "We're projecting to end the year\nwith $2.6 million in sales.",
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "We're in Whole Foods, Safeway,\nShopRite, Weis Markets,\nLazy Acres \u2010\u2010",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": [
+                        "Projected year-end sales: $2.6 million"
+                    ]
+                },
+                {
+                    "question_id": "q12",
+                    "sequence_number": 12,
+                    "investor": "Mark",
+                    "raw_text": "How did you get\nto all these places?",
+                    "basic_category": "Operations",
+                    "contains_metrics": false,
+                    "response_text": "I hustle.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q13",
+                    "sequence_number": 13,
+                    "investor": "Robert",
+                    "raw_text": "So were you at a show,\nlike a food show,\nand all of a sudden,\neverybody picked you up?",
+                    "basic_category": "Operations",
+                    "contains_metrics": false,
+                    "response_text": "That's what happened.\nWould you like \u2010\u2010\nI can hand out pints.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q14",
+                    "sequence_number": 14,
+                    "investor": "Kevin",
+                    "raw_text": "It's cane sugar, isn't it?\nSo you're putting vegetables in.\nI'm wondering\nif you're lowering fat...",
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "Here's the mint.\n...if you're lowering sugar.",
+                    "responding_person": "Kevin",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q15",
+                    "sequence_number": 15,
+                    "investor": "Kevin",
+                    "raw_text": "...if you're lowering sugar.",
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "\u2010It's indulgent ice cream.\n\u2010Okay.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q16",
+                    "sequence_number": 16,
+                    "investor": "Robert",
+                    "raw_text": "So your pitch is,\n\"Look, you're gonna eat\nthe ice cream anyways.\nWhy not add\nsome vegetables to it?\nBecause particularly, kids have\na hard time eating beets.\nSo I'm gonna feed them beets\nin a hidden form\nof delicious ice cream.\"",
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "I mean, it's a parenting hack.",
+                    "responding_person": "Robert",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q17",
+                    "sequence_number": 17,
+                    "investor": "Mark",
+                    "raw_text": "How did you come up\nwith the idea\nto put vegetables in ice cream?",
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "Ice cream's always been\nmy passion,\nbut really, I created this\n'cause I have kids.\nI made it for my children\nand parents everywhere\n'cause the reality is\nkids don't like vegetables.\nPeekaboo really bridges the gap\nbetween what we can't get enough\nof, which is ice cream,\nand what we don't get enough of,\nwhich is veggies.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q18",
+                    "sequence_number": 18,
+                    "investor": "Lori",
+                    "raw_text": "Jessica, I think my kids\nwould love this.\nThey for sure would love it.\nHave you tried it\nwith kids? Like \u2010\u2010",
+                    "basic_category": "Market",
+                    "contains_metrics": false,
+                    "response_text": "I would love to show you \u2010\u2010\nI have a commercial, actually,\nthat we filmed.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q19",
+                    "sequence_number": 19,
+                    "investor": "unknown_investor",
+                    "raw_text": "Tell me all the different\nthings you might taste in it.",
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "I think I taste strawberry\nin there.\nIt's really good.\nCreaminess \u2010\u2010 it's just insane.",
+                    "responding_person": "Investor (Mark)",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q20",
+                    "sequence_number": 20,
+                    "investor": "unknown_investor",
+                    "raw_text": "What do you think about\nthe spinach in this one?",
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "There's spinach in this?",
+                    "responding_person": "Investor (Robert)",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q21",
+                    "sequence_number": 21,
+                    "investor": "unknown_investor",
+                    "raw_text": "How do you like the beets in it?",
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "There's beets in ice cream?\nThere's zucchini in it?\nThere's not really\na vegetable taste in here.\nThere's just, like,\nan ice cream taste.\nI don't like spinach,\nbut I love this.",
+                    "responding_person": "Investor (Lori)",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q22",
+                    "sequence_number": 22,
+                    "investor": "Mark",
+                    "raw_text": "Jessica, how much have you raised?",
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "So, I did an initial round\nearlier this year,\nand I raised $1.2 million.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": [
+                        "Raised $1.2 million in initial round"
+                    ]
+                },
+                {
+                    "question_id": "q23",
+                    "sequence_number": 23,
+                    "investor": "Mark",
+                    "raw_text": "$1.2 million.\nWhat valuation on that?",
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "So, it was done \u2010\u2010 it was\na convertible note round\nsince it was difficult\nto determine a valuation.\nBut did you put a cap on it?",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": [
+                        "Initial round was convertible note"
+                    ]
+                },
+                {
+                    "question_id": "q24",
+                    "sequence_number": 24,
+                    "investor": "Mark",
+                    "raw_text": "But did you put a cap on it?",
+                    "basic_category": "Financial",
+                    "contains_metrics": false,
+                    "response_text": "It was a $5 million cap.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": [
+                        "Convertible note cap: $5 million"
+                    ]
+                },
+                {
+                    "question_id": "q25",
+                    "sequence_number": 25,
+                    "investor": "Mark",
+                    "raw_text": "What are you gonna do in sales\nnext year?",
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "A very conservative projection\nfor next year\nwould be $5 million.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": [
+                        "Projected sales next year (conservative): $5 million"
+                    ]
+                },
+                {
+                    "question_id": "q26",
+                    "sequence_number": 26,
+                    "investor": "Robert",
+                    "raw_text": "Does anybody else sell ice cream\nwith vegetables?",
+                    "basic_category": "Market",
+                    "contains_metrics": false,
+                    "response_text": "You \u2010\u2010\nWe're the only company\non the market that sells \u2010\u2010",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q27",
+                    "sequence_number": 27,
+                    "investor": "Robert",
+                    "raw_text": "For now.",
+                    "basic_category": "Market",
+                    "contains_metrics": false,
+                    "response_text": "The big companies\ntrade at 7 to 11 times\nfree cash flow, okay?\nWhen new entrants come in\nand prove a concept,\nthe big guys say, \"Oh, look.\nPut beets in our existing\nproduct already,\" and crush you.",
+                    "responding_person": "Robert",
+                    "new_metrics_revealed": [
+                        "Valuation multiple for big ice cream companies: 7-11x free cash flow"
+                    ]
+                },
+                {
+                    "question_id": "q28",
+                    "sequence_number": 28,
+                    "investor": "Robert",
+                    "raw_text": "Unless it's cheaper\nto do it themselves.",
+                    "basic_category": "Market",
+                    "contains_metrics": false,
+                    "response_text": "I can innovate,\nand I can pivot really quickly.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q29",
+                    "sequence_number": 29,
+                    "investor": "Robert",
+                    "raw_text": "Is your goal to sell?",
+                    "basic_category": "Strategy",
+                    "contains_metrics": false,
+                    "response_text": "My goal is to sell.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q30",
+                    "sequence_number": 30,
+                    "investor": "Barbara",
+                    "raw_text": "This is something we hear\nvery often\nwith very savvy,\nvery smart people\nthat come on \"Shark Tank,\"\nthat they're building so fast\nand their end goal\nis to sell it.\nMy practical experience to date,\nwithout exception,\nhas been every single business\nI invested in\nthat had that as an end goal\neither went out of business\nor, in the end,\nalmost folded up their shop.\nI'm so suspicious of that. Okay.\nYou know, I just think\nit's a cautionary tale\nbecause I have learned to\ninterpret your pitch here\nas a very bad sign,\nand it's pretty scary.\nSo for those reasons, I'm out.",
+                    "basic_category": "Risk",
+                    "contains_metrics": false,
+                    "response_text": "Thank you, Barbara.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q31",
+                    "sequence_number": 31,
+                    "investor": "Kevin",
+                    "raw_text": "The large players in freezer\nthat own that category\ndon't just roll over\nwhen Jessica shows up.\n\"Oh, yeah,\ntake my freezer space from me.\"\nAnd by the time you get\nto $50 million in sales,\nwhich is basically nothing\nin the ice\u2010cream space,\nyou're gonna have\ntwo or three major players\ncrushing you\nlike a frozen cockroach.\nI'm aggressive with you now\nbecause the ask is a joke.\nIt's a joke.\n$800,000 for 8%?\nB.S. Are you kidding?\n$800,000 \u2010\u2010 I would want 60%\nof this company.\nSo, obviously, I'm out.",
+                    "basic_category": "Market",
+                    "contains_metrics": true,
+                    "response_text": "Thank you.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": [
+                        "Kevin's desired equity: 60% for $800,000"
+                    ]
+                },
+                {
+                    "question_id": "q32",
+                    "sequence_number": 32,
+                    "investor": "Mark",
+                    "raw_text": "Jessica, it's \u2010\u2010 it's incredibly\nimpressive what you've built.\nMy issue is, you know,\nwe're Sharks.\nWe're here to help you build\na business where we both profit.\nThis isn't a vulture fund.\nTo come out and say\nthat in one year,\nyou created $10 million\nworth of value...\nI struggle with the concept\nof creating $10 million in value\nin one year.\nI'm sure it happens.\nIt happens in tech.\nI\u2010I don't see it here, and I \u2010\u2010\nI don't trust that piece of it.\nI'm out.",
+                    "basic_category": "Valuation",
+                    "contains_metrics": true,
+                    "response_text": "Okay. Thank you.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": [
+                        "Valuation concern: $10 million valuation in one year"
+                    ]
+                },
+                {
+                    "question_id": "q33",
+                    "sequence_number": 33,
+                    "investor": "Mark",
+                    "raw_text": "You know,\nalong those same lines, Jessica,\nI have my rules for success,\nright?\nIf you go online and look up\n\"Mark Cuban's rules\nfor success,\"\nnumber one is,\n\"Don't start a business\nunless it's an obsession.\" Okay.\nRule number two is,\n\"If you have an exit strategy,\nit's not an obsession.\"\nAnd for those reasons, I'm out.",
+                    "basic_category": "Team/Strategy",
+                    "contains_metrics": false,
+                    "response_text": "Okay, I would just like to\naddress that because I \u2010\u2010\nThat's a great rule.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q34",
+                    "sequence_number": 34,
+                    "investor": "Entrepreneur",
+                    "raw_text": "Um, is everybody out?\nExcept you. But me.\nBut I would like to explain\nthe valuation.",
+                    "basic_category": "Pitch",
+                    "contains_metrics": false,
+                    "response_text": "And then there was one.\nFirst of all,\nI'm gonna explain to you,\ndo you know\nhow a diamond's made?",
+                    "responding_person": "Lori",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q35",
+                    "sequence_number": 35,
+                    "investor": "Kevin",
+                    "raw_text": "Why don't you just\nmake her an offer\nwithout all the B. S.,\nLori?",
+                    "basic_category": "Deal",
+                    "contains_metrics": false,
+                    "response_text": "Okay, a diamond is carbon \u2010\u2010\nStop it.",
+                    "responding_person": "Lori",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q36",
+                    "sequence_number": 36,
+                    "investor": "Kevin",
+                    "raw_text": "You have no competition.\nJust make her an offer\nwithout all the B. S.\nYour mythology stories.\nCome on.",
+                    "basic_category": "Market",
+                    "contains_metrics": false,
+                    "response_text": "Stop. Quiet.\nIf you squeeze it \u2010\u2010\nI'm gonna tell you\nhow a diamond's made.",
+                    "responding_person": "Lori",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q37",
+                    "sequence_number": 37,
+                    "investor": "Kevin",
+                    "raw_text": "Lori, tell us about\nthe diamond tomorrow.\nStop. Quiet.",
+                    "basic_category": "Deal",
+                    "contains_metrics": false,
+                    "response_text": "If you squeeze it \u2010\u2010\nI'm gonna tell you\nhow a diamond's made.\nThe way a diamond is made\nis you take carbon\nand you put it under intense\nheat and pressure in the earth,\nand it crystallizes.\nAnd then they take that\nout of the earth\nand they facet it\nand they cut it\nand it turns into\na beautiful diamond.\nI think sitting here today,\nyou reminded me of the diamond.",
+                    "responding_person": "Lori",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q38",
+                    "sequence_number": 38,
+                    "investor": "Lori",
+                    "raw_text": "Because under intense heat\nand pressure, everybody here \u2010\u2010",
+                    "basic_category": "Team",
+                    "contains_metrics": false,
+                    "response_text": "You mean the valuation? No.\nEverybody here threw\na lot of crap at you\nand made it very difficult\nfor you.\nI think that you were\nput under intense heat\nand pressure here today,\nand I watched you.\nAnd now you're a diamond.\nAnd I think that you did\nan excellent job.\nI think that you had\nsmart answers for everything.\nI think you held yourself.\nI like what you're doing,\nbut I think that in my vision,\nI think that you need to\nimprove it even a little more.\nSo you may not like my offer,\nand you can tell me goodbye.",
+                    "responding_person": "Lori",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q39",
+                    "sequence_number": 39,
+                    "investor": "Lori",
+                    "raw_text": "But... ...I would want,\nif I invest in you,\nto have another version\nthat actually is low\u2010calorie,\nlow\u2010fat, healthier option,\nadd the vegetables.\nYou have to be willing to be\nopen to brand extension\nand to creating something\nthat would fit\nwithin your brand like that.\nThere are those that like\nhigh fat and sugar,\nand they'll always like that.\nAnd then there are those\nthat want a healthier option.\nI beg you,\ngive her the offer.",
+                    "basic_category": "Product/Strategy",
+                    "contains_metrics": false,
+                    "response_text": "What I'm going to do\nis this.\nThis year?\nI'm going to give you a loan\ninstead of an investment, okay?",
+                    "responding_person": "Lori",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q40",
+                    "sequence_number": 40,
+                    "investor": "Lori",
+                    "raw_text": "I'm going to give you a loan\ninstead of an investment,\n6% interest, three\u2010year,\nand I still want 5% equity.",
+                    "basic_category": "Deal",
+                    "contains_metrics": true,
+                    "response_text": "You could really do well\nwith a strategic partner.\nIt's a great offer.\nIt's risky here.\nI'm a believer in\nwhen you go healthy, go healthy,\nand I feel that\nthis is halfway there.\nI think\nthat's a great offer.\nI like the concept,\nbut I'm halfway there.\nSo you could say no.\nThat's fine.\nBut for me to do it\nand step in with you,\nthat's what it's gonna take.",
+                    "responding_person": "Lori",
+                    "new_metrics_revealed": [
+                        "Loan offer terms: $800,000 loan, 6% interest, 3-year, 5% equity"
+                    ]
+                },
+                {
+                    "question_id": "q41",
+                    "sequence_number": 41,
+                    "investor": "Kevin",
+                    "raw_text": "Only 5% equity you have to\ngive up. What do you say?",
+                    "basic_category": "Deal",
+                    "contains_metrics": true,
+                    "response_text": "First, I'd like to thank you\nfor being the only offer.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": [
+                        "Only offer is from Lori"
+                    ]
+                },
+                {
+                    "question_id": "q42",
+                    "sequence_number": 42,
+                    "investor": "Kevin",
+                    "raw_text": "I can give you an offer,\nif you wish.",
+                    "basic_category": "Deal",
+                    "contains_metrics": false,
+                    "response_text": "Ohh!\nMy fellow obnoxious Sharks\nat this moment.\nNo, but the truth is, I think,\nreally, the lane for me\nis indulgent ice cream.\nI think there's other\ncompetitors there\nthat do what you're describing,\nand they do it really well,\nand that's\na different market.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q43",
+                    "sequence_number": 43,
+                    "investor": "Entrepreneur",
+                    "raw_text": "But you don't want to\ngo the \u2010\u2010",
+                    "basic_category": "Strategy",
+                    "contains_metrics": false,
+                    "response_text": "But I really \u2010\u2010\nI appreciate your offer,\nbut I would decline\nfor that reason.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q44",
+                    "sequence_number": 44,
+                    "investor": "Lori",
+                    "raw_text": "You just don't want to expand\nthe product line.",
+                    "basic_category": "Strategy",
+                    "contains_metrics": false,
+                    "response_text": "I believe, really,\nwe're positioned as\nan indulgent, delicious, and \u2010\u2010\nAnd we had to listen\nto all that first.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q45",
+                    "sequence_number": 45,
+                    "investor": "Kevin",
+                    "raw_text": "Jessica, just to give you\nanother offer\nso you left with two,\nI would do the $800,000 loan\nat 9%,\nand I want all 8% equity.",
+                    "basic_category": "Deal",
+                    "contains_metrics": true,
+                    "response_text": "Then you get Mr. Wonderful.\nThat's actually\na pretty good offer, too.\nBut that's a real offer.\nI'd do that deal.\nThere's no downside\nto that offer.\nCommercial lending's 13%.\nI'm not putting\nany covenants on this stuff\nin terms of what you do.\nI'm here really for equity\nand equity investment,\nnot so much the loan.",
+                    "responding_person": "Kevin",
+                    "new_metrics_revealed": [
+                        "Kevin's loan offer terms: $800,000 loan, 9% interest, 8% equity",
+                        "Commercial lending rate: 13%"
+                    ]
+                },
+                {
+                    "question_id": "q46",
+                    "sequence_number": 46,
+                    "investor": "Kevin",
+                    "raw_text": "Then you should've brought\na valuation\nthat was more realistic.",
+                    "basic_category": "Valuation",
+                    "contains_metrics": false,
+                    "response_text": "I think you got pushback \u2010\u2010\nI mean, you can counter\non the valuation.",
+                    "responding_person": "Kevin",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q47",
+                    "sequence_number": 47,
+                    "investor": "Kevin",
+                    "raw_text": "The valuation's very difficult.\nEverybody gave you\na hard time on that.\nRight.\nYou're very impressive.\nThe product tastes great.\nThere are risks,\nobviously.\nYeah.\nBut the way to approach this\ngiven what we have to do\nas investors\nis it's got to be debt,\nbecause there's\nno realistic valuation\nthat makes sense at this point.\nBut it also tells us\nhow bad you want a Shark.",
+                    "basic_category": "Valuation/Deal",
+                    "contains_metrics": false,
+                    "response_text": "Right, I \u2010\u2010\nYou know, everything\nthat we're offering you...\n...tells us something, as well.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q48",
+                    "sequence_number": 48,
+                    "investor": "Kevin",
+                    "raw_text": "But I can finance it.\nYou don't get\na Shark, though.",
+                    "basic_category": "Deal",
+                    "contains_metrics": false,
+                    "response_text": "Yeah, but it's not\nthe same.\nI want someone\nthat believes in the concept.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q49",
+                    "sequence_number": 49,
+                    "investor": "Kevin",
+                    "raw_text": "Of course he believes in you.\nIt's his collateral\nto get it back, his equity.",
+                    "basic_category": "Deal",
+                    "contains_metrics": false,
+                    "response_text": "I want to get it back,\ntoo.",
+                    "responding_person": "Kevin",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "q50",
+                    "sequence_number": 50,
+                    "investor": "Kevin",
+                    "raw_text": "You have no interest\nin venture debt, right?\nThat's what you're saying? \u2010No.",
+                    "basic_category": "Deal",
+                    "contains_metrics": false,
+                    "response_text": "I really appreciate it.\nCongrats. Good luck.",
+                    "responding_person": "Entrepreneur",
+                    "new_metrics_revealed": []
+                }
+            ],
+            "market_info": {
+                "target_market_size": "not_provided",
+                "current_market_share": "not_provided",
+                "named_competitors": [
+                    "Big ice cream companies (implied)"
+                ],
+                "market_growth_rate": "not_provided"
+            },
+            "product_service_info": {
+                "core_offering_description": "Super premium indulgent ice cream with hidden vegetables",
+                "unique_selling_proposition": "Hidden vegetables in indulgent ice cream, parenting hack",
+                "patent_ip_status": "not_provided",
+                "development_stage": "Launched, in stores"
+            },
+            "deal_outcome": {
+                "final_result": "no deal",
+                "final_terms_if_deal": "not_applicable",
+                "number_interested_investors": 2,
+                "contingencies_placed": [
+                    "Lori: Healthier version required for investment"
+                ]
+            },
+            "data_quality_indicators": {
+                "missing_critical_data_flags": [
+                    "margins",
+                    "costs",
+                    "price_points",
+                    "market_size",
+                    "market_share",
+                    "market_growth_rate",
+                    "patent_ip_status",
+                    "location"
+                ],
+                "unclear_information_flags": [],
+                "investor_attribution_confidence": "high"
+            },
+            "extraction_metadata": {
+                "confidence_scores": {
+                    "speaker_identification": 1.0,
+                    "question_classification": 0.9,
+                    "metric_extraction": 0.95,
+                    "business_classification": 0.9
+                },
+                "extraction_challenges": [],
+                "data_quality_flags": []
+            },
+            "interaction_dynamics": {
+                "investor_interest_indicators": {
+                    "positive_responses": [
+                        "Lori: Jessica, I think my kids would love this.",
+                        "Lori: And now you're a diamond. And I think that you did an excellent job.",
+                        "Kevin: That's actually a pretty good offer, too.",
+                        "Kevin: But that's a real offer. I'd do that deal.",
+                        "Robert: Jessica, it's \u2010\u2010 it's incredibly impressive what you've built."
+                    ],
+                    "negative_responses": [],
+                    "skepticism_indicators": [
+                        "Barbara: I'm so suspicious of that. Okay.",
+                        "Kevin: I'm aggressive with you now because the ask is a joke. It's a joke.",
+                        "Mark: I don't trust that piece of it."
+                    ]
+                },
+                "negotiation_dynamics": {
+                    "counter_offers": [
+                        "Lori: Loan offer 6% interest, 5% equity",
+                        "Kevin: Loan offer 9% interest, 8% equity"
+                    ],
+                    "deal_breakers": [
+                        "Entrepreneur declined loan offers, wanting equity investor and believing in the original product concept."
+                    ],
+                    "key_concerns": [
+                        "High valuation",
+                        "Market competition from larger companies",
+                        "Business model focused on selling the company rather than long-term building",
+                        "Lack of healthier option in product line (Lori's concern)"
+                    ]
+                }
+            },
+            "pitch_structure": {
+                "initial_pitch_segment": {
+                    "start_time": "inferred_from_transcript_start",
+                    "end_time": "after Jessica's initial product and ask introduction",
+                    "key_points": [
+                        "Introduction of Peekaboo Organics and founder Jessica Levisan",
+                        "Product: Super premium indulgent ice cream with hidden vegetables",
+                        "Taste test challenge to identify hidden ingredient",
+                        "Reveal of hidden vegetables and specific vegetables in each flavor",
+                        "Ask: $800,000 for 8% equity"
+                    ]
+                },
+                "qa_segment": {
+                    "start_time": "after initial pitch",
+                    "end_time": "before Lori's diamond analogy and loan offer",
+                    "question_count": 32,
+                    "key_question_categories": [
+                        "Financials (sales, valuation, funding)",
+                        "Product (ingredients, taste, health aspects)",
+                        "Market (competition, target market)",
+                        "Operations (distribution)",
+                        "Strategy (exit strategy, brand extension)",
+                        "Team (founder's passion)"
+                    ]
+                },
+                "negotiation_segment": {
+                    "start_time": "Lori's diamond analogy and offer",
+                    "end_time": "end of pitch after declining Kevin's offer",
+                    "key_events": [
+                        "Lori's loan offer (6% interest, 5% equity)",
+                        "Entrepreneur declines Lori's offer due to required product change",
+                        "Kevin's loan offer (9% interest, 8% equity)",
+                        "Entrepreneur declines Kevin's offer, wanting equity investor and concept believer",
+                        "No deal concluded"
+                    ]
+                }
+            }
+        }
+    ],
+    "episode_validation": {
+        "completeness": {
+            "all_pitches_processed": true,
+            "pitch_count": 1,
+            "missing_pitches": []
+        },
+        "consistency": {
+            "schema_adherence": true,
+            "cross_pitch_references": false
+        }
+    }
+}

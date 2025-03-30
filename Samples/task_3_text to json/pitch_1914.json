@@ -1,0 +1,798 @@
+{
+    "episode_metadata": {
+        "show_name": "Shark Tank",
+        "season": 11,
+        "episode": 14,
+        "air_date": "not_provided",
+        "total_pitches": 1
+    },
+    "pitches": [
+        {
+            "pitch_id": "pitch_1",
+            "business_info": {
+                "business_name": "TouchUp Cup",
+                "founder_names": [
+                    {
+                        "name": "Carson Grill",
+                        "role": "CEO"
+                    },
+                    {
+                        "name": "Jason Grill",
+                        "role": "Founder/Dad"
+                    }
+                ],
+                "location": "Cincinnati, Ohio",
+                "industry_category": [
+                    "Paint Storage",
+                    "Home Improvement"
+                ],
+                "business_model_type": [
+                    "Product",
+                    "B2C",
+                    "B2B"
+                ],
+                "product_service_info": {
+                    "core_offering_description": "Patented TouchUp Cup for paint storage with stainless-steel blending sphere and airtight silicone seal.",
+                    "unique_selling_proposition": "Innovative paint storage solution that prevents rust and clumps, keeps paint fresh for over 10 years.",
+                    "patent_ip_status": "Utility patent on the shape of the cup and its use; Three design patents on Muffin, Bagel, and Doughnut Fresh.",
+                    "development_stage": "Already in 4,000 locations, manufacturing and selling."
+                },
+                "market_info": {
+                    "target_market_size": "Every home, store, and workshop around the world.",
+                    "current_market_share": "not_provided",
+                    "named_competitors": [],
+                    "market_growth_rate": "not_provided"
+                }
+            },
+            "pitch_metrics": {
+                "initial_ask_amount": 150000,
+                "equity_offered": 10,
+                "implied_valuation": 1500000,
+                "final_deal_terms": {
+                    "deal_made": true,
+                    "offered_amount": 200000,
+                    "equity_taken": 20,
+                    "investors": [
+                        "Blake Mycoskie"
+                    ]
+                },
+                "participating_investors": [
+                    "Blake Mycoskie"
+                ]
+            },
+            "business_metrics": {
+                "basic_metrics": {
+                    "current_revenue": 70000,
+                    "margins": "not_provided",
+                    "costs": {
+                        "three_pack_landed_cost": 1.99,
+                        "individual_cup_landed_cost": 0.9
+                    },
+                    "price_points": {
+                        "individual_cup_wholesale": 1.89,
+                        "individual_cup_retail": "3.99-4.99",
+                        "three_pack_wholesale": 4.25,
+                        "three_pack_retail": "9.99-12.99"
+                    },
+                    "sales_last_year": 150000,
+                    "sales_this_year_to_date": 70000,
+                    "projected_sales_this_year": 400000,
+                    "sales_last_two_years": 220000
+                },
+                "market_metrics": {
+                    "distribution_channels": [
+                        "Online (70%)",
+                        "Retail (30%)",
+                        "Private Label Partnership"
+                    ],
+                    "locations": "4000 locations",
+                    "private_label_locations_potential": "55000 worldwide locations (through partner)",
+                    "meijer_locations": 250,
+                    "hardware_coop_distribution_centers": 8
+                },
+                "deal_metrics": {
+                    "ask_amount": 150000,
+                    "equity_offered": 10,
+                    "implied_valuation": 1500000,
+                    "final_terms": {
+                        "offered_amount": 200000,
+                        "equity_taken": 20,
+                        "investor": "Blake Mycoskie"
+                    }
+                }
+            },
+            "questions_asked": [
+                {
+                    "question_id": "Q1",
+                    "raw_text": "Do you have a patent on this or...?",
+                    "investor": "unknown_investor",
+                    "sequence_number": 1,
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "Yeah, so we have a utility patent on the use of the shape of the cup and the use of this \u2010\u2010",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 0.9,
+                            "question_classification": 0.8,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": []
+                    }
+                },
+                {
+                    "question_id": "Q2",
+                    "raw_text": "An application or an actual patent?",
+                    "investor": "unknown_investor",
+                    "sequence_number": 2,
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "Actual patent.",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 0.9,
+                            "question_classification": 0.8,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": []
+                    }
+                },
+                {
+                    "question_id": "Q3",
+                    "raw_text": "So, who is running the business? And you said you're in 4,000 locations. Yeah. Tell us about that, too.",
+                    "investor": "Barbara Corcoran",
+                    "sequence_number": 3,
+                    "basic_category": "Team",
+                    "contains_metrics": true,
+                    "response_text": "So, we're both running the business right now. We both have day jobs. I'm in school. I'm gonna be a freshman in high school. And my dad works in medical sales. We have a private label partnership with one of the most recognizable brands in painter's tape today, and they are presenting us to their 55,000 worldwide locations. They have already gotten us into 250 Meijer locations across the Midwest. And we are in all eight distribution centers of one of the largest hardware co\u2010op locations in the world. And our private label partner is getting us into 2,000 locations. And it's important to note that we don't have an exclusive with this partner.",
+                    "new_metrics_revealed": [
+                        "55,000 worldwide locations (potential)",
+                        "250 Meijer locations",
+                        "8 hardware co-op distribution centers",
+                        "2,000 locations (through private label partner)",
+                        "4,000 locations (current total)"
+                    ],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 0.9,
+                            "question_classification": 0.9,
+                            "metric_extraction": 0.95
+                        },
+                        "data_quality_flags": []
+                    }
+                },
+                {
+                    "question_id": "Q4",
+                    "raw_text": "They're paying you a royalty on unit sales?",
+                    "investor": "unknown_investor",
+                    "sequence_number": 4,
+                    "basic_category": "Financial",
+                    "contains_metrics": false,
+                    "response_text": "No, it's a private label, so we are the manufacturing.",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 0.9,
+                            "question_classification": 0.9,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": []
+                    }
+                },
+                {
+                    "question_id": "Q5",
+                    "raw_text": "So you're manufacturing for them?",
+                    "investor": "unknown_investor",
+                    "sequence_number": 5,
+                    "basic_category": "Operations",
+                    "contains_metrics": false,
+                    "response_text": "Yeah, so we do have a strategic partnership in Nashville, Tennessee, that does all of our picking and packing, all of our EDI order entry. And they do \u2010\u2010 we're about \u2010\u2010",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 0.9,
+                            "question_classification": 0.8,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": []
+                    }
+                },
+                {
+                    "question_id": "Q6",
+                    "raw_text": "The vocabulary is insane!",
+                    "investor": "Blake Mycoskie",
+                    "sequence_number": 6,
+                    "basic_category": "Team",
+                    "contains_metrics": false,
+                    "response_text": "EDI \u2010\u2010 I didn't learn that till my fifth year at Toms.",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 0.9,
+                            "question_classification": 0.7,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": []
+                    }
+                },
+                {
+                    "question_id": "Q7",
+                    "raw_text": "We're about 70% online and 30% in retail right now about our sales. We have sold $220,000 in sales over the last two years, with $150,000 of that being over the last year and a half and $70,000 of that being this year. We got another shipment, and we are on track to do $400,000 in sales this year.",
+                    "investor": "Carson Grill (Providing information, not a question from investor)",
+                    "sequence_number": 7,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "That's excellent. Wow. Good for you.",
+                    "new_metrics_revealed": [
+                        "70% online sales",
+                        "30% retail sales",
+                        "$220,000 sales last two years",
+                        "$150,000 sales last year and a half",
+                        "$70,000 sales this year",
+                        "$400,000 projected sales this year"
+                    ],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.0,
+                            "metric_extraction": 0.95
+                        },
+                        "data_quality_flags": [
+                            "Not a question, but information provided by entrepreneur"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q8",
+                    "raw_text": "The three\u2010pack costs you how much landed?",
+                    "investor": "Kevin O'Leary",
+                    "sequence_number": 8,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "$1.99 landed.",
+                    "new_metrics_revealed": [
+                        "$1.99 landed cost (three-pack)"
+                    ],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.9,
+                            "metric_extraction": 0.95
+                        },
+                        "data_quality_flags": []
+                    }
+                },
+                {
+                    "question_id": "Q9",
+                    "raw_text": "Including packaging?",
+                    "investor": "Kevin O'Leary",
+                    "sequence_number": 9,
+                    "basic_category": "Financial",
+                    "contains_metrics": false,
+                    "response_text": "Yes, and shipping.",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.9,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": []
+                    }
+                },
+                {
+                    "question_id": "Q10",
+                    "raw_text": "So $1.99.",
+                    "investor": "Kevin O'Leary (Confirmation)",
+                    "sequence_number": 10,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "Landed.",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.7,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": [
+                            "Confirmation, not a direct question"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q11",
+                    "raw_text": "The individual cup costs us 90 cents landed.",
+                    "investor": "Carson Grill (Providing information, not a question from investor)",
+                    "sequence_number": 11,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "Okay, and what are you selling them for?",
+                    "new_metrics_revealed": [
+                        "90 cents landed cost (individual cup)"
+                    ],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.0,
+                            "metric_extraction": 0.95
+                        },
+                        "data_quality_flags": [
+                            "Information provided by entrepreneur, leading to the next question"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q12",
+                    "raw_text": "Okay, and what are you selling them for?",
+                    "investor": "Kevin O'Leary",
+                    "sequence_number": 12,
+                    "basic_category": "Financial",
+                    "contains_metrics": false,
+                    "response_text": "The individual cup, we wholesale for $1.89 and retail for $3.99 to $4.99. And the three\u2010pack, we wholesale for $4.25 and retail anywhere from $9.99 to $12.99.",
+                    "new_metrics_revealed": [
+                        "Individual cup wholesale price: $1.89",
+                        "Individual cup retail price: $3.99-$4.99",
+                        "Three-pack wholesale price: $4.25",
+                        "Three-pack retail price: $9.99-$12.99"
+                    ],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.9,
+                            "metric_extraction": 0.95
+                        },
+                        "data_quality_flags": []
+                    }
+                },
+                {
+                    "question_id": "Q13",
+                    "raw_text": "Normally on \"Shark Tank,\" when you bring in your son, usually, the father gives the pitch and the son does a little demo, and then off they go because things are gonna get tough in the Tank. So far, Carson's doing all the talking. You're not saying anything. You know what? I have all faith in him. We run this business 50/50. He knows what he's doing.",
+                    "investor": "Kevin O'Leary (Observation/Implied question)",
+                    "sequence_number": 13,
+                    "basic_category": "Team",
+                    "contains_metrics": false,
+                    "response_text": "I've gone to trade shows with my dad. I've gone to buyer meetings One buyer, we both walk in. She looks me dead in the eye and says, \"Oh, you brought your kid. He can sit in the hallway, I guess.\" And I said, \"Oh, no.\" So that's when we pulled up a chair out of the hallway, and I led the meeting.",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.7,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": [
+                            "Implied question about Jason's role, responded by Carson highlighting his experience"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q14",
+                    "raw_text": "Hold on. You're 15 years old, and you have four patents.",
+                    "investor": "unknown_investor (Confirmation/Amazement)",
+                    "sequence_number": 14,
+                    "basic_category": "Team",
+                    "contains_metrics": true,
+                    "response_text": "Yes. These are three of my newest products \u2010\u2010 the Muffin, Bagel, They are absolutely a part of this deal. They are ergonomically designed to keep muffins, bagels, and doughnuts fresh for three to four days longer than conventional packaging.",
+                    "new_metrics_revealed": [
+                        "4 patents",
+                        "Muffin Fresh",
+                        "Bagel Fresh",
+                        "Doughnut Fresh"
+                    ],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 0.9,
+                            "question_classification": 0.7,
+                            "metric_extraction": 0.95
+                        },
+                        "data_quality_flags": [
+                            "Confirmation/Amazement, leading to revelation of more products"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q15",
+                    "raw_text": "So you're throwing that in? You're not selling those yet?",
+                    "investor": "unknown_investor",
+                    "sequence_number": 15,
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "Well, it's about 5% of our sales.",
+                    "new_metrics_revealed": [
+                        "5% of sales from Muffin, Bagel, Doughnut Fresh"
+                    ],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 0.9,
+                            "question_classification": 0.9,
+                            "metric_extraction": 0.95
+                        },
+                        "data_quality_flags": []
+                    }
+                },
+                {
+                    "question_id": "Q16",
+                    "raw_text": "You're asking for $150,000 for 10%. I'd like to give us some more cash flow, some more runway, so I'd like to do $200,000 for 25%.",
+                    "investor": "Blake Mycoskie (Offer)",
+                    "sequence_number": 16,
+                    "basic_category": "Deal",
+                    "contains_metrics": true,
+                    "response_text": "Wow. Thank you so much for that offer.",
+                    "new_metrics_revealed": [
+                        "$200,000 for 25% offer (Blake Mycoskie)"
+                    ],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.7,
+                            "metric_extraction": 0.95
+                        },
+                        "data_quality_flags": [
+                            "Offer, not a question in typical sense"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q17",
+                    "raw_text": "No, but I was gonna give $150,000 for 25%, and now he did \u2010\u2010 he did $200,000 for 25%, so I'm forced to do $200,000 for 17.5% to cut his legs out from underneath him.",
+                    "investor": "Kevin O'Leary (Counter-offer)",
+                    "sequence_number": 17,
+                    "basic_category": "Deal",
+                    "contains_metrics": true,
+                    "response_text": "Yes! Yes! [ Laughter ] Are you serious? I'm serious. Thank you for that offer.",
+                    "new_metrics_revealed": [
+                        "$200,000 for 17.5% counter-offer (Kevin O'Leary)"
+                    ],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.7,
+                            "metric_extraction": 0.95
+                        },
+                        "data_quality_flags": [
+                            "Counter-offer, not a question in typical sense"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q18",
+                    "raw_text": "So, I'll make it simple, guys. I love you. You guys are amazing. But those guys have made great offers, so for those reasons, I'm out.",
+                    "investor": "Mark Cuban (Out)",
+                    "sequence_number": 18,
+                    "basic_category": "Deal",
+                    "contains_metrics": false,
+                    "response_text": "Thank you. Thank you, Mark.",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.7,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": [
+                            "Investor going out, not a question"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q19",
+                    "raw_text": "My dilemma is this \u2010\u2010 I want Carson to drop out of school and become a CEO.",
+                    "investor": "Kevin O'Leary (Humorous statement)",
+                    "sequence_number": 19,
+                    "basic_category": "Team",
+                    "contains_metrics": false,
+                    "response_text": "I just finished eighth grade. I don't think that's an option right now. I'm out. And I'd have to agree.",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.7,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": [
+                            "Humorous statement leading to Kevin going out, not a question"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q20",
+                    "raw_text": "Who will be running the business? 'Cause I can't work on it every day. Blake can't work on it Who's gonna work on it every day? Or will we have to hire somebody else?",
+                    "investor": "John Paul DeJoria",
+                    "sequence_number": 20,
+                    "basic_category": "Team",
+                    "contains_metrics": false,
+                    "response_text": "You know, if we were sitting in your shoes, we'd be asking the same questions. We want to get this to a point where I don't have to have the other job. But the time right now is not right to \u2010\u2010",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.9,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": []
+                    }
+                },
+                {
+                    "question_id": "Q21",
+                    "raw_text": "But at some time, when you're working at midnight, the buyers in retail, they're up Monday morning at 9:00 a. m. Calling people saying \"My shelves are empty.\" And if you're not there to pick up that phone at 9:00 a. m., they're calling your competitor. So who's gonna pick up that phone?",
+                    "investor": "John Paul DeJoria (Elaborating on concern)",
+                    "sequence_number": 21,
+                    "basic_category": "Operations",
+                    "contains_metrics": false,
+                    "response_text": "Do we want to get this to a point where I can be full\u2010time in this business? Absolutely. Absolutely. But I can't at this moment. I'm gonna have to revise my offer to $150,000 for 20%.",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.8,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": [
+                            "Elaborating on previous question, still focused on team/operations"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q22",
+                    "raw_text": "I'm gonna have to revise my offer to $150,000 for 20%, 'cause I see right now that at least for a year, it's going to have to take administering money to other people to go out and do some of these jobs.",
+                    "investor": "Daymond John (Revised Offer)",
+                    "sequence_number": 22,
+                    "basic_category": "Deal",
+                    "contains_metrics": true,
+                    "response_text": "That's absolutely right, Daymond.",
+                    "new_metrics_revealed": [
+                        "$150,000 for 20% revised offer (Daymond John)"
+                    ],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.7,
+                            "metric_extraction": 0.95
+                        },
+                        "data_quality_flags": [
+                            "Revised offer, not a question in typical sense"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q23",
+                    "raw_text": "I'm not changing my offer. You've gotten two very good offers here from both of them. Someone like Blake or like Daymond could sit and really work with you and teach you and give you some good advice, whereas I would want you to have someone else run it for you. So I'm gonna go out.",
+                    "investor": "Kevin O'Leary (Out again)",
+                    "sequence_number": 23,
+                    "basic_category": "Deal",
+                    "contains_metrics": false,
+                    "response_text": "Okay. Thank you for your time.",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.7,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": [
+                            "Investor going out, not a question"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q24",
+                    "raw_text": "I have a question on your offer. So, would you be willing to fulfill purchase orders, help us fulfill those purchase orders on top of that, if it got, like, uncontrollable to us?",
+                    "investor": "Jason Grill",
+                    "sequence_number": 24,
+                    "basic_category": "Deal",
+                    "contains_metrics": false,
+                    "response_text": "I don't know until I get in there and really understand your business better. But if I own 25% of this business and we need to, you know, fund purchase orders or inventory, you know, then it's gonna be in my best interest to make sure that I help arrange a line of credit at a bank for you.",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.9,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": [
+                            "Question from entrepreneur to investor about offer terms"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q25",
+                    "raw_text": "Daymond, same question to you, as far as fulfilling purchase orders.",
+                    "investor": "Jason Grill",
+                    "sequence_number": 25,
+                    "basic_category": "Deal",
+                    "contains_metrics": false,
+                    "response_text": "No. I don't want to be the bank. I want to use other people's money.",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.9,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": [
+                            "Question from entrepreneur to investor about offer terms"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q26",
+                    "raw_text": "Yeah, so, Blake, we really weren't hoping to give up 25% of our company. Would you be willing to compromise and say 17.5%?",
+                    "investor": "Carson Grill (Counter-offer to Blake)",
+                    "sequence_number": 26,
+                    "basic_category": "Deal",
+                    "contains_metrics": true,
+                    "response_text": "For $150,000, yes.",
+                    "new_metrics_revealed": [
+                        "Counter-offer to Blake: 17.5% equity"
+                    ],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.7,
+                            "metric_extraction": 0.95
+                        },
+                        "data_quality_flags": [
+                            "Counter-offer, not a question in typical sense"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q27",
+                    "raw_text": "Could you do it for the $200,000?",
+                    "investor": "Carson Grill (Counter to Blake's counter)",
+                    "sequence_number": 27,
+                    "basic_category": "Deal",
+                    "contains_metrics": true,
+                    "response_text": "No, I don't think so. I think my best offer would be $150,000 for 17.5%, which is what Daymond \u2010\u2010 But I really encourage you to give a little bit more away but also get that extra $50,000 in cash, 'cause I think it's gonna help bring these ideas to life.",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.9,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": [
+                            "Counter to counter-offer, negotiation"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q28",
+                    "raw_text": "Could you do $200,000 for 20%?",
+                    "investor": "Carson Grill (Final Counter-offer)",
+                    "sequence_number": 28,
+                    "basic_category": "Deal",
+                    "contains_metrics": true,
+                    "response_text": "I love this kid. I love that you're asking, but I really think the value that I'm gonna bring, I need to own 25% equity. What do you want to do, buddy?",
+                    "new_metrics_revealed": [
+                        "Final counter-offer: $200,000 for 20% equity"
+                    ],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.9,
+                            "metric_extraction": 0.95
+                        },
+                        "data_quality_flags": [
+                            "Final counter-offer attempt"
+                        ]
+                    }
+                },
+                {
+                    "question_id": "Q29",
+                    "raw_text": "Daymond, I would like to thank you for your offer. That was really kind of you, and I really appreciate it. But, Blake, you have a deal.",
+                    "investor": "Carson Grill (Accepting Deal)",
+                    "sequence_number": 29,
+                    "basic_category": "Deal",
+                    "contains_metrics": false,
+                    "response_text": "Okay. Great. Thank you.",
+                    "new_metrics_revealed": [],
+                    "extraction_metadata": {
+                        "confidence_scores": {
+                            "speaker_identification": 1.0,
+                            "question_classification": 0.7,
+                            "metric_extraction": 1.0
+                        },
+                        "data_quality_flags": [
+                            "Deal acceptance, not a question"
+                        ]
+                    }
+                }
+            ],
+            "deal_outcome": {
+                "final_result": "deal",
+                "final_terms": {
+                    "offered_amount": 200000,
+                    "equity_taken": 20,
+                    "investor": "Blake Mycoskie"
+                },
+                "number_of_interested_investors": 2,
+                "contingencies_placed": "not_provided"
+            },
+            "extraction_metadata": {
+                "confidence_scores": {
+                    "speaker_identification": 0.95,
+                    "question_classification": 0.85,
+                    "metric_extraction": 0.95,
+                    "business_classification": 0.9
+                },
+                "extraction_challenges": [],
+                "data_quality_flags": []
+            },
+            "interaction_dynamics": {
+                "investor_interest_indicators": {
+                    "positive_responses": [
+                        "Blake Mycoskie offered $200,000 for 25%",
+                        "Kevin O'Leary offered $200,000 for 17.5%",
+                        "Daymond John offered $150,000 for 20% (revised)",
+                        "Investors impressed by Carson's knowledge and vocabulary"
+                    ],
+                    "negative_responses": [],
+                    "skepticism_indicators": [
+                        "John Paul DeJoria's concern about full-time management"
+                    ]
+                },
+                "negotiation_dynamics": {
+                    "counter_offers": [
+                        "Kevin O'Leary countered Blake's offer",
+                        "Daymond John revised his offer downwards",
+                        "Carson countered Blake's initial offer request for 25% equity down to 20%"
+                    ],
+                    "deal_breakers": [
+                        "Kevin O'Leary went out due to concern about management and then again after revised offer from Daymond."
+                    ],
+                    "key_concerns": [
+                        "Lack of full-time commitment from founders (initially)",
+                        "Equity percentage"
+                    ]
+                }
+            },
+            "pitch_structure": {
+                "initial_pitch_segment": {
+                    "start_time": "0:00 - 1:30 (estimated from transcript flow)",
+                    "end_time": "1:30 (estimated from transcript flow)",
+                    "key_points": [
+                        "Problem of messy paint closets and wasted paint",
+                        "Introduction of TouchUp Cup as a solution",
+                        "Key features: stainless steel blending sphere, airtight seal, long-term freshness",
+                        "Sales formats: three-pack and individual",
+                        "Claim of 4,000 locations"
+                    ]
+                },
+                "qa_segment": {
+                    "start_time": "1:30 (estimated from transcript flow)",
+                    "end_time": "End of negotiation (estimated from transcript flow)",
+                    "question_count": 29
+                },
+                "negotiation_segment": {
+                    "start_time": "Blake's initial offer (estimated from transcript flow)",
+                    "end_time": "Deal acceptance (estimated from transcript flow)",
+                    "key_events": [
+                        "Blake offers $200k for 25%",
+                        "Kevin counters with $200k for 17.5%",
+                        "Mark Cuban goes out",
+                        "Kevin O'Leary jokes about Carson dropping out, then goes out",
+                        "John Paul DeJoria expresses concern about full-time management",
+                        "Daymond revises offer to $150k for 20%",
+                        "Kevin O'Leary goes out again",
+                        "Entrepreneurs ask about purchase order fulfillment",
+                        "Entrepreneurs counter Blake to 17.5% then to 20% for $200k",
+                        "Deal accepted with Blake at $200k for 20%"
+                    ]
+                }
+            }
+        }
+    ],
+    "episode_validation": {
+        "completeness": {
+            "all_pitches_processed": true,
+            "pitch_count": 1,
+            "missing_pitches": []
+        },
+        "consistency": {
+            "schema_adherence": true,
+            "cross_pitch_references": false
+        }
+    }
+}

@@ -1,0 +1,363 @@
+{
+    "episode_metadata": {
+        "show_name": "Dragons' Den",
+        "season": 11,
+        "episode": 14,
+        "air_date": "not_provided",
+        "total_pitches": 1
+    },
+    "pitches": [
+        {
+            "pitch_id": "pitch_1",
+            "business_info": {
+                "business_name": "Wild Irish Seaweeds Limited",
+                "founder_names": [
+                    {
+                        "name": "Evan",
+                        "role": "Co-founder"
+                    },
+                    {
+                        "name": "Jarred",
+                        "role": "Co-founder/Father"
+                    },
+                    {
+                        "name": "Eileen",
+                        "role": "Co-founder/Mother (mentioned)"
+                    }
+                ],
+                "location": "Quilty, West Clare, Ireland",
+                "industry_category": [
+                    "Food",
+                    "Skincare",
+                    "Food Ingredients"
+                ],
+                "business_model_type": [
+                    "B2C (Retail Products)",
+                    "B2B (Food Ingredients, Bulk Seaweed)",
+                    "Product",
+                    "Service (Ingredient Supply)"
+                ]
+            },
+            "pitch_metrics": {
+                "initial_ask_amount": 50000,
+                "equity_offered": 5,
+                "implied_valuation": 1000000,
+                "final_deal_terms": {
+                    "deal_made": true,
+                    "investment_amount": 50000,
+                    "equity_percentage": 10,
+                    "investors": [
+                        "Alison"
+                    ],
+                    "contingencies": "Buy back 5% equity if numbers hit in first year"
+                },
+                "participating_investors": [
+                    "Alison",
+                    "Gavin"
+                ]
+            },
+            "business_metrics": {
+                "current_revenue": 320000,
+                "previous_year_revenue": 185000,
+                "gross_margin_year_1": 22,
+                "net_margin_year_1": 50,
+                "gross_margin_year_2": 22,
+                "net_margin_year_2": 84,
+                "skincare_range_gross_margin": 87,
+                "halo_gross_margin": 52,
+                "bulk_seaweed_gross_margin": "70-80",
+                "price_points": "not_provided",
+                "distribution_channels": [
+                    "Distributors in Ireland",
+                    "Distributor in UK",
+                    "Amazon (US - Ocean Halo)",
+                    "Costco (US - Ocean Halo)",
+                    "Walgreens (US - Ocean Halo)",
+                    "Walmart (US - Ocean Halo)",
+                    "Don's (potential)",
+                    "Tesco's (potential)",
+                    "Sainsbury's (potential)"
+                ],
+                "production_costs": "not_provided",
+                "sales_numbers": "not_provided"
+            },
+            "questions_asked": [
+                {
+                    "question_id": "Q1",
+                    "raw_text": "I love the idea of taking what is a real tradition in Ireland and reinvigorating it and bringing it up to date give three very different ranges I don't see a lot of connection between them and in terms of visually have you taken a deliberate decision to go very different across the three different areas?",
+                    "investor": "Alison",
+                    "sequence_number": 1,
+                    "basic_category": "Product",
+                    "contains_metrics": false,
+                    "response_text": "this is our flagship range for food people know when they go into shops they know the color we wanted so people could really make the differentiation between the skin care range and the edible seaweed range",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "Q2",
+                    "raw_text": "just so that we're clear do you own the oceans halo ground or is that are you manufacturing for somebody else under that brand?",
+                    "investor": "Alison",
+                    "sequence_number": 2,
+                    "basic_category": "Business Model",
+                    "contains_metrics": false,
+                    "response_text": "the ocean here or Brandi is not our brand not a contract manufacturer yeah exactly yeah and you're a supplier yeah we've the European license today okay",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "Q3",
+                    "raw_text": "obviously you have some amazing sales so the first year we had a sales of 185,000 and last year we'd sales of three hundred and twenty thousand now that's just with the range here and the range here we were very new to the market we have three large multinational food ingredients companies that there's ongoing clinical trials on using seaweed just on the 320,000 sales what sort of gross margin did you have a net margin?",
+                    "investor": "Alison",
+                    "sequence_number": 3,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "we had a gross margin of 122 and we had a net of 50 the following year then we had a was at 222 and we had a net of 84 no this year we've taken the step we want to go bigger",
+                    "new_metrics_revealed": [
+                        "Gross margin year 1: 122%",
+                        "Net margin year 1: 50%",
+                        "Gross margin year 2: 222%",
+                        "Net margin year 2: 84%"
+                    ]
+                },
+                {
+                    "question_id": "Q4",
+                    "raw_text": "see our margins must be tighter on halo than they are on okay the margins this this product works off 70% of emergent okay this the skincare range works off 87% of American and the halo works off 52% of an art the food manufacturing is what really excites us the edible seaweeds gone into braids into chowder's all these into the already met ingredients they're taken orders per hundred kilos firatli the food ingredient business yeah we're trying to satisfy a lot of markets at the same time or endangering or falling down a gap so just say that for now thanks guys yes how labor-intensive is hand harvesting and is hand harvesting a unique selling point?",
+                    "investor": "Gavin",
+                    "sequence_number": 4,
+                    "basic_category": "Operations",
+                    "contains_metrics": true,
+                    "response_text": "I suppose 80% of the series in the world market is is farmed the difference of hand harvested is it's grown as natural environment you harvested from the proceeded waters in the Atlantic where we come from the west coast declare",
+                    "new_metrics_revealed": [
+                        "Halo margin: 52%",
+                        "Skincare margin: 87%"
+                    ]
+                },
+                {
+                    "question_id": "Q5",
+                    "raw_text": "so what's the range here and the potential forest in terms of the actual brand test has an exfoliator it has a body scrub it has an oil which is and just help infused in coconut oil this is unusual question 5% I come on you're pulling my leg oh yeah we've put an awful lot of time and effort into establishing demarcus that we have for these products talking to these multiples Jared what did you say would be the percentage you'd part with today well I suppose before we get into that I'm not going to go boy",
+                    "investor": "Gavin",
+                    "sequence_number": 5,
+                    "basic_category": "Product",
+                    "contains_metrics": true,
+                    "response_text": "we know who's the boss I think the online marker is something that that that we haven't really tapped into either what business are you in though I mean are you in the beauty business or the food business I mean you need to make a choice so let's put it out there straight away we're a food business seaweed in general is the new superfood",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "Q6",
+                    "raw_text": "what are your contacts in the food service area at the moment?",
+                    "investor": "Peter",
+                    "sequence_number": 6,
+                    "basic_category": "Market",
+                    "contains_metrics": false,
+                    "response_text": "we have O'Brien food ingredients okay we also have our Redmond fine foods the other one Keri foods have done clinical trials done and seaweed we need to get is all accreditation standards to be able to supply you guys",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "Q7",
+                    "raw_text": "what breakdown is for the bulk manufacturer and also what percentage is the food ingredient market in 2015 one eighty five in sales I'd say about 125 to 130 was on our retail food in Greece about twenty K and the rest was two and the bulk seaweed so retail is doable the size of the book yeah that was the bulk manufacture but last year that grew and grew our food ingredient market by about 50% we supply a company in Scotland with bulk seaweed who are after getting a massive contract to supply American kids lunch boxes with small five gram sashes of seaweed and we're their sole supplier what kind of margin would you have on the book?",
+                    "investor": "Peter",
+                    "sequence_number": 8,
+                    "basic_category": "Financial",
+                    "contains_metrics": true,
+                    "response_text": "they're boiled cat between seventy and eighty percent gross margin gross margin gentleman just want to get a hold on this at a scale of the business aside from the two of you who's who's working in the business what's the overhead like our harvesters and we work with lekha cooperative models they get paid for what they peak we've won guy on the road on sales I look after our kind of boy customers we call them food / food ingredient customers in our if our sales American is done by my sister and who's managing the drying and the quality sure looks after the harvesting do I'm a weekend to play it sevens business so I make sure that the quality control is good because I've been years dealing with these people what's the the the split between you in terms of the equity on the business it's a family Jordan Eileen would have set it up initially and so it's 45 45 10 so 45 yeah yeah yeah but if I feel you know Eileen has 45 - all right the mom and dad a forty five percent each and you've got ten but it's your business well look it's out of the money we developed the business where we're getting up and running and plan is clear is pretty successful GA County right I mean pearling and faux pas well you have a few lads down there who play both hurling and football like part Collins and people like that right and they've made a choice no to settle on one and you know you guys are doing Harlan football basketball of tiddlywinks and if you want to win the other and you got to pick one so do that but I'm of thanks I have a question for you guys what would this business look like if in the short term not maybe forever that you do what you do best and that is collecting the seaweed recognizing the quality known how to deal with this known what it's for a quarter the margins if you just literally supplied good quality seaweed to other people who produce end products over there look like it'll probably take an initial investment to build the capacity of the facility it will be a leaner business model and more profitable one order of both could be 40 grand words to make that in in that retail you're waiting to chase down customers and get fans on the road so it is it would be a lot probably more profitable model I'm struggling to get to the nuts and bolts of this business okay in terms of trying to meet this halfway rather than having your own brand is maybe you go into the likes of Don's and Tesco's and Sainsbury's and you offer them an own labor yeah well I am I am sitting on the fence here I'm really struggling I think there's lows of opportunity in this business just one thing that might be people might be thinking of this particular brand we can go over a known brand on this they're lovely relaxed I love these gentlemen two of the Dragons have admitted they're struggling I'm not struggling at all I think the opportunity here is vast I'd like to make you an offer the full 50 grand for 15 percent of your business let me tell you where I'm at the fact that alison has made you an offer and this is Alison's area of expertise in terms of the food business I'm going to step out and say that she would be the ideal dragon for you thanks so much gentlemen I can't match the knowledge and experience that Alison has in food so for that reason I might and not for the first time this year it's down to Alison and Gavin again Alison has already made an offer will Gavin do the same we were so engaged with the different aspects of this business we never got a time frame on when an investor will be getting a return on the fifty thousand they would be putting into this business answer me that question I'd love to see that hopefully come back in the first two to three years but you know I'd have to spend a lot of time because when Jared wants to go bulk and you want to go brand I'm gonna have to be down in Claire so I'm going to offer you 50,000 euro for 25% to cover my time you have two offers if you want to consider with two separate offers for the full amount from Gavin and Alison this father-and-son team must decide if they will part with a quarter or 15% of their company Gavin Alison thanks very much for both our offers we put a bit of value on what we have done today and we're just wondering is there any negotiation on the percentage Alison I certainly wouldn't go to 5% I think yeah there's a lot of time required to try and refocus the business down the right route but I would be willing to go to ten and allow you to buy back the 5% if you hit your numbers in the first year okay thank you I'm sure I must smell like seaweed now to you guys thank you what I want to say is I very much respect to hard work that has gone in here it's just a religion with me having money is one thing but all three of us have the same amount of and when I slice and Dicers I have to beginning a maximum margin for me so in a month of Sundays I wouldn't be as mad as this very beautiful lady to my right here alone so I'm out thanks okay thank you so much with that in mind Alison we'd like to accept your offer delighted Evan Jared well done you did really really well in there did you think from early on that Alison was interested given her background in food we we thought oh and she was very positive odd roles are very interests or whoever delighted with that if Gavin had gone to 15% the same as Alison what would you have done we're taken Alison all day long well congratulations Alison I think you've got a great team on board there I'm in the seaweed business yeah I can't wait for the new you",
+                    "new_metrics_revealed": [
+                        "Bulk seaweed gross margin: 70-80%"
+                    ]
+                },
+                {
+                    "question_id": "Q8",
+                    "raw_text": "gentleman just want to get a hold on this at a scale of the business aside from the two of you who's who's working in the business what's the overhead like?",
+                    "investor": "Peter",
+                    "sequence_number": 7,
+                    "basic_category": "Operations",
+                    "contains_metrics": false,
+                    "response_text": "our harvesters and we work with lekha cooperative models they get paid for what they peak we've won guy on the road on sales I look after our kind of boy customers we call them food / food ingredient customers in our if our sales American is done by my sister and who's managing the drying and the quality sure looks after the harvesting do I'm a weekend to play it sevens business so I make sure that the quality control is good because I've been years dealing with these people what's the the the split between you in terms of the equity on the business it's a family Jordan Eileen would have set it up initially and so it's 45 45 10 so 45 yeah yeah yeah but if I feel you know Eileen has 45 - all right the mom and dad a forty five percent each and you've got ten but it's your business well look it's out of the money we developed the business where we're getting up and running and plan is clear is pretty successful GA County right I mean pearling and faux pas well you have a few lads down there who play both hurling and football like part Collins and people like that right and they've made a choice no to settle on one and you know you guys are doing Harlan football basketball of tiddlywinks and if you want to win the other and you got to pick one so do that but I'm of thanks I have a question for you guys what would this business look like if in the short term not maybe forever that you do what you do best and that is collecting the seaweed recognizing the quality known how to deal with this known what it's for a quarter the margins if you just literally supplied good quality seaweed to other people who produce end products over there look like it'll probably take an initial investment to build the capacity of the facility it will be a leaner business model and more profitable one order of both could be 40 grand words to make that in in that retail you're waiting to chase down customers and get fans on the road so it is it would be a lot probably more profitable model I'm struggling to get to the nuts and bolts of this business okay in terms of trying to meet this halfway rather than having your own brand is maybe you go into the likes of Don's and Tesco's and Sainsbury's and you offer them an own labor yeah well I am I am sitting on the fence here I'm really struggling I think there's lows of opportunity in this business just one thing that might be people might be thinking of this particular brand we can go over a known brand on this they're lovely relaxed I love these gentlemen two of the Dragons have admitted they're struggling I'm not struggling at all I think the opportunity here is vast I'd like to make you an offer the full 50 grand for 15 percent of your business let me tell you where I'm at the fact that alison has made you an offer and this is Alison's area of expertise in terms of the food business I'm going to step out and say that she would be the ideal dragon for you thanks so much gentlemen I can't match the knowledge and experience that Alison has in food so for that reason I might and not for the first time this year it's down to Alison and Gavin again Alison has already made an offer will Gavin do the same we were so engaged with the different aspects of this business we never got a time frame on when an investor will be getting a return on the fifty thousand they would be putting into this business answer me that question I'd love to see that hopefully come back in the first two to three years but you know I'd have to spend a lot of time because when Jared wants to go bulk and you want to go brand I'm gonna have to be down in Claire so I'm going to offer you 50,000 euro for 25% to cover my time you have two offers if you want to consider with two separate offers for the full amount from Gavin and Alison this father-and-son team must decide if they will part with a quarter or 15% of their company Gavin Alison thanks very much for both our offers we put a bit of value on what we have done today and we're just wondering is there any negotiation on the percentage Alison I certainly wouldn't go to 5% I think yeah there's a lot of time required to try and refocus the business down the right route but I would be willing to go to ten and allow you to buy back the 5% if you hit your numbers in the first year okay thank you I'm sure I must smell like seaweed now to you guys thank you what I want to say is I very much respect to hard work that has gone in here it's just a religion with me having money is one thing but all three of us have the same amount of and when I slice and Dicers I have to beginning a maximum margin for me so in a month of Sundays I wouldn't be as mad as this very beautiful lady to my right here alone so I'm out thanks okay thank you so much with that in mind Alison we'd like to accept your offer delighted Evan Jared well done you did really really well in there did you think from early on that Alison was interested given her background in food we we thought oh and she was very positive odd roles are very interests or whoever delighted with that if Gavin had gone to 15% the same as Alison what would you have done we're taken Alison all day long well congratulations Alison I think you've got a great team on board there I'm in the seaweed business yeah I can't wait for the new you",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "Q9",
+                    "raw_text": "what's the the split between you in terms of the equity on the business?",
+                    "investor": "Peter",
+                    "sequence_number": 9,
+                    "basic_category": "Team",
+                    "contains_metrics": false,
+                    "response_text": "it's a family Jordan Eileen would have set it up initially and so it's 45 45 10 so 45 yeah yeah yeah but if I feel you know Eileen has 45 - all right the mom and dad a forty five percent each and you've got ten but it's your business well look it's out of the money we developed the business where we're getting up and running and plan is clear is pretty successful GA County right I mean pearling and faux pas well you have a few lads down there who play both hurling and football like part Collins and people like that right and they've made a choice no to settle on one and you know you guys are doing Harlan football basketball of tiddlywinks and if you want to win the other and you got to pick one so do that but I'm of thanks I have a question for you guys what would this business look like if in the short term not maybe forever that you do what you do best and that is collecting the seaweed recognizing the quality known how to deal with this known what it's for a quarter the margins if you just literally supplied good quality seaweed to other people who produce end products over there look like it'll probably take an initial investment to build the capacity of the facility it will be a leaner business model and more profitable one order of both could be 40 grand words to make that in in that retail you're waiting to chase down customers and get fans on the road so it is it would be a lot probably more profitable model I'm struggling to get to the nuts and bolts of this business okay in terms of trying to meet this halfway rather than having your own brand is maybe you go into the likes of Don's and Tesco's and Sainsbury's and you offer them an own labor yeah well I am I am sitting on the fence here I'm really struggling I think there's lows of opportunity in this business just one thing that might be people might be thinking of this particular brand we can go over a known brand on this they're lovely relaxed I love these gentlemen two of the Dragons have admitted they're struggling I'm not struggling at all I think the opportunity here is vast I'd like to make you an offer the full 50 grand for 15 percent of your business let me tell you where I'm at the fact that alison has made you an offer and this is Alison's area of expertise in terms of the food business I'm going to step out and say that she would be the ideal dragon for you thanks so much gentlemen I can't match the knowledge and experience that Alison has in food so for that reason I might and not for the first time this year it's down to Alison and Gavin again Alison has already made an offer will Gavin do the same we were so engaged with the different aspects of this business we never got a time frame on when an investor will be getting a return on the fifty thousand they would be putting into this business answer me that question I'd love to see that hopefully come back in the first two to three years but you know I'd have to spend a lot of time because when Jared wants to go bulk and you want to go brand I'm gonna have to be down in Claire so I'm going to offer you 50,000 euro for 25% to cover my time you have two offers if you want to consider with two separate offers for the full amount from Gavin and Alison this father-and-son team must decide if they will part with a quarter or 15% of their company Gavin Alison thanks very much for both our offers we put a bit of value on what we have done today and we're just wondering is there any negotiation on the percentage Alison I certainly wouldn't go to 5% I think yeah there's a lot of time required to try and refocus the business down the right route but I would be willing to go to ten and allow you to buy back the 5% if you hit your numbers in the first year okay thank you I'm sure I must smell like seaweed now to you guys thank you what I want to say is I very much respect to hard work that has gone in here it's just a religion with me having money is one thing but all three of us have the same amount of and when I slice and Dicers I have to beginning a maximum margin for me so in a month of Sundays I wouldn't be as mad as this very beautiful lady to my right here alone so I'm out thanks okay thank you so much with that in mind Alison we'd like to accept your offer delighted Evan Jared well done you did really really well in there did you think from early on that Alison was interested given her background in food we we thought oh and she was very positive odd roles are very interests or whoever delighted with that if Gavin had gone to 15% the same as Alison what would you have done we're taken Alison all day long well congratulations Alison I think you've got a great team on board there I'm in the seaweed business yeah I can't wait for the new you",
+                    "new_metrics_revealed": [
+                        "Equity split: Jarred 45%, Eileen 45%, Evan 10%"
+                    ]
+                },
+                {
+                    "question_id": "Q10",
+                    "raw_text": "what would this business look like if in the short term not maybe forever that you do what you do best and that is collecting the seaweed recognizing the quality known how to deal with this known what it's for a quarter the margins if you just literally supplied good quality seaweed to other people who produce end products over there look like?",
+                    "investor": "Peter",
+                    "sequence_number": 10,
+                    "basic_category": "Strategy",
+                    "contains_metrics": true,
+                    "response_text": "it'll probably take an initial investment to build the capacity of the facility it will be a leaner business model and more profitable one order of both could be 40 grand words to make that in in that retail you're waiting to chase down customers and get fans on the road so it is it would be a lot probably more profitable model",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "Q11",
+                    "raw_text": "rather than having your own brand is maybe you go into the likes of Don's and Tesco's and Sainsbury's and you offer them an own labor yeah well I am I am sitting on the fence here I'm really struggling I think there's lows of opportunity in this business just one thing that might be people might be thinking of this particular brand we can go over a known brand on this they're lovely relaxed I love these gentlemen two of the Dragons have admitted they're struggling I'm not struggling at all I think the opportunity here is vast I'd like to make you an offer the full 50 grand for 15 percent of your business let me tell you where I'm at the fact that alison has made you an offer and this is Alison's area of expertise in terms of the food business I'm going to step out and say that she would be the ideal dragon for you",
+                    "investor": "Peter",
+                    "sequence_number": 11,
+                    "basic_category": "Strategy",
+                    "contains_metrics": false,
+                    "response_text": "thanks so much gentlemen I can't match the knowledge and experience that Alison has in food so for that reason I might and not for the first time this year it's down to Alison and Gavin again Alison has already made an offer will Gavin do the same we were so engaged with the different aspects of this business we never got a time frame on when an investor will be getting a return on the fifty thousand they would be putting into this business answer me that question I'd love to see that hopefully come back in the first two to three years but you know I'd have to spend a lot of time because when Jared wants to go bulk and you want to go brand I'm gonna have to be down in Claire so I'm going to offer you 50,000 euro for 25% to cover my time you have two offers if you want to consider with two separate offers for the full amount from Gavin and Alison this father-and-son team must decide if they will part with a quarter or 15% of their company Gavin Alison thanks very much for both our offers we put a bit of value on what we have done today and we're just wondering is there any negotiation on the percentage Alison I certainly wouldn't go to 5% I think yeah there's a lot of time required to try and refocus the business down the right route but I would be willing to go to ten and allow you to buy back the 5% if you hit your numbers in the first year okay thank you I'm sure I must smell like seaweed now to you guys thank you what I want to say is I very much respect to hard work that has gone in here it's just a religion with me having money is one thing but all three of us have the same amount of and when I slice and Dicers I have to beginning a maximum margin for me so in a month of Sundays I wouldn't be as mad as this very beautiful lady to my right here alone so I'm out thanks okay thank you so much with that in mind Alison we'd like to accept your offer delighted Evan Jared well done you did really really well in there did you think from early on that Alison was interested given her background in food we we thought oh and she was very positive odd roles are very interests or whoever delighted with that if Gavin had gone to 15% the same as Alison what would you have done we're taken Alison all day long well congratulations Alison I think you've got a great team on board there I'm in the seaweed business yeah I can't wait for the new you",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "Q12",
+                    "raw_text": "answer me that question I'd love to see that hopefully come back in the first two to three years but you know I'd have to spend a lot of time because when Jared wants to go bulk and you want to go brand I'm gonna have to be down in Claire so I'm going to offer you 50,000 euro for 25% to cover my time you have two offers if you want to consider with two separate offers for the full amount from Gavin and Alison",
+                    "investor": "Gavin",
+                    "sequence_number": 12,
+                    "basic_category": "Financial",
+                    "contains_metrics": false,
+                    "response_text": "Gavin Alison thanks very much for both our offers we put a bit of value on what we have done today and we're just wondering is there any negotiation on the percentage Alison I certainly wouldn't go to 5% I think yeah there's a lot of time required to try and refocus the business down the right route but I would be willing to go to ten and allow you to buy back the 5% if you hit your numbers in the first year okay thank you I'm sure I must smell like seaweed now to you guys thank you what I want to say is I very much respect to hard work that has gone in here it's just a religion with me having money is one thing but all three of us have the same amount of and when I slice and Dicers I have to beginning a maximum margin for me so in a month of Sundays I wouldn't be as mad as this very beautiful lady to my right here alone so I'm out thanks okay thank you so much with that in mind Alison we'd like to accept your offer delighted Evan Jared well done you did really really well in there did you think from early on that Alison was interested given her background in food we we thought oh and she was very positive odd roles are very interests or whoever delighted with that if Gavin had gone to 15% the same as Alison what would you have done we're taken Alison all day long well congratulations Alison I think you've got a great team on board there I'm in the seaweed business yeah I can't wait for the new you",
+                    "new_metrics_revealed": []
+                },
+                {
+                    "question_id": "Q13",
+                    "raw_text": "is there any negotiation on the percentage Alison?",
+                    "investor": "Evan",
+                    "sequence_number": 13,
+                    "basic_category": "Deal",
+                    "contains_metrics": false,
+                    "response_text": "I certainly wouldn't go to 5% I think yeah there's a lot of time required to try and refocus the business down the right route but I would be willing to go to ten and allow you to buy back the 5% if you hit your numbers in the first year okay thank you I'm sure I must smell like seaweed now to you guys thank you what I want to say is I very much respect to hard work that has gone in here it's just a religion with me having money is one thing but all three of us have the same amount of and when I slice and Dicers I have to beginning a maximum margin for me so in a month of Sundays I wouldn't be as mad as this very beautiful lady to my right here alone so I'm out thanks okay thank you so much with that in mind Alison we'd like to accept your offer delighted Evan Jared well done you did really really well in there did you think from early on that Alison was interested given her background in food we we thought oh and she was very positive odd roles are very interests or whoever delighted with that if Gavin had gone to 15% the same as Alison what would you have done we're taken Alison all day long well congratulations Alison I think you've got a great team on board there I'm in the seaweed business yeah I can't wait for the new you",
+                    "new_metrics_revealed": [
+                        "Final equity offered by Alison: 10% with buyback option"
+                    ]
+                }
+            ],
+            "market_information": {
+                "target_market_size": "Billions of dollars (snack market in America)",
+                "current_market_share": "not_provided",
+                "named_competitors": "not_provided",
+                "market_growth_rate": "Growing (due to health trends - superfood)"
+            },
+            "product_service_information": {
+                "core_offering_description": "Organic hand harvested seaweed products (food, skincare, ingredients)",
+                "unique_selling_proposition": "Hand-harvested, organic, from wild Atlantic, Irish tradition, Sustainable harvesting",
+                "patent_ip_status": "Demarcus (brand name)",
+                "development_stage": "Existing business with sales, new skincare range"
+            },
+            "deal_outcome": {
+                "final_result": "deal",
+                "deal_terms": {
+                    "investment_amount": 50000,
+                    "equity_percentage": 10,
+                    "investors": [
+                        "Alison"
+                    ],
+                    "contingencies": "Buy back 5% equity if numbers hit in first year"
+                },
+                "interested_investors_count": 2,
+                "interested_investors": [
+                    "Alison",
+                    "Gavin"
+                ],
+                "deal_breakers": [
+                    "Peter",
+                    "Gavin (initially hesitant due to strategy but made offer)",
+                    "Unknown Dragon (stepped out due to Alison's expertise)"
+                ]
+            },
+            "data_quality_indicators": {
+                "missing_critical_data_flags": [],
+                "unclear_information_flags": [
+                    "Conflicting margin data (122%, 222% gross margins seem unrealistic)",
+                    "Breakdown of revenue by product type not fully detailed",
+                    "Specific price points not mentioned"
+                ],
+                "investor_attribution_confidence": 1.0
+            },
+            "extraction_metadata": {
+                "confidence_scores": {
+                    "speaker_identification": 1.0,
+                    "question_classification": 0.95,
+                    "metric_extraction": 0.9,
+                    "business_classification": 1.0
+                },
+                "extraction_challenges": [
+                    "Resolving potentially incorrect margin figures",
+                    "Inferring business model details from conversation"
+                ],
+                "data_quality_flags": [
+                    "Potential inaccuracies in reported gross margin figures",
+                    "Incomplete financial breakdown"
+                ]
+            },
+            "interaction_dynamics": {
+                "investor_interest_indicators": {
+                    "positive_responses": [
+                        "Alison: I love the idea of taking what is a real tradition in Ireland and reinvigorating it and bringing it up to date",
+                        "Peter: I'm not struggling at all I think the opportunity here is vast"
+                    ],
+                    "negative_responses": [
+                        "Peter: I'm really struggling with your strategy there's just a lot of sales strategies going on here and I'm not really clear on what year",
+                        "Gavin: just be careful you don't over diverse and under focus"
+                    ],
+                    "skepticism_indicators": [
+                        "Alison: give three very different ranges I don't see a lot of connection between them",
+                        "Peter: what business are you in though I mean are you in the beauty business or the food business I mean you need to make a choice"
+                    ]
+                },
+                "negotiation_dynamics": {
+                    "counter_offers": [
+                        "Alison initial offer: 50,000 euro for 15%",
+                        "Gavin offer: 50,000 euro for 25%",
+                        "Alison final offer: 50,000 euro for 10% with buyback"
+                    ],
+                    "deal_breakers": [
+                        "Gavin (negotiated out due to Alison's expertise and final percentage)",
+                        "Peter (out due to margin requirements and strategy concerns)",
+                        "Unknown Dragon (stepped out due to Alison's expertise)"
+                    ],
+                    "key_concerns": [
+                        "Strategy diversification (too many product lines)",
+                        "Scalability of hand-harvesting",
+                        "Clarity on core business focus (food ingredients vs. retail brand)"
+                    ]
+                }
+            },
+            "pitch_structure": {
+                "initial_pitch_segment": {
+                    "start_time": "not_provided",
+                    "end_time": "not_provided",
+                    "key_points": [
+                        "Seeking 50,000 euros for 5% equity",
+                        "Family seaweed harvesting tradition",
+                        "Organic hand-harvested seaweed products",
+                        "Three ranges: edible seaweed, skincare, food ingredients",
+                        "Sales through distributors and retailers"
+                    ]
+                },
+                "qa_segment": {
+                    "start_time": "not_provided",
+                    "end_time": "not_provided",
+                    "question_count": 13
+                },
+                "negotiation_segment": {
+                    "start_time": "not_provided",
+                    "end_time": "not_provided",
+                    "key_events": [
+                        "Alison makes offer of 50,000 for 15%",
+                        "Peter expresses interest but needs clarity on strategy",
+                        "Gavin makes offer of 50,000 for 25%",
+                        "Negotiation on equity percentage with Alison",
+                        "Deal accepted with Alison at 10% with buyback option"
+                    ]
+                }
+            }
+        }
+    ],
+    "episode_validation": {
+        "completeness": {
+            "all_pitches_processed": true,
+            "pitch_count": 1,
+            "missing_pitches": []
+        },
+        "consistency": {
+            "schema_adherence": true,
+            "cross_pitch_references": false
+        }
+    }
+}
