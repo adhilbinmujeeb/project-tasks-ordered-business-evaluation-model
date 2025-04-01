@@ -1,0 +1,131 @@
+{
+    "business_name": "Inmentor Fashion Label",
+    "business_id": "pitch_1",
+    "pitch_id": "not_provided",
+    "business_founders": [
+        {
+            "name": "John Morrison",
+            "role": "Co-founder"
+        },
+        {
+            "name": "Emma McPherson",
+            "role": "Designer, Co-founder"
+        },
+        {
+            "name": "Joanne",
+            "role": "Business Partner"
+        }
+    ],
+    "Business Attributes": {
+        "Business Fundamentals": {
+            "Business Origin Story": {
+                "Inspiration Source": "Personal Problem/Need",
+                "Development Timeline": "Gradual Evolution"
+            },
+            "Regulatory Requirements": {
+                "Compliance Status": "Not Yet Started",
+                "Specific Compliance": "not_provided",
+                "Regulatory Bodies": "not_provided"
+            },
+            "Market Recognition": {
+                "Achievements & Awards": "not_provided",
+                "Public Perception": "Luxury/Premium"
+            },
+            "Industry Classification": {
+                "Primary Industry": "Fashion & Apparel",
+                "Sub-Industry Examples": "not_provided"
+            },
+            "Development Stage": "Initial Market Launch",
+            "Business Model": {
+                "Primary Revenue Model": "Direct Sales (One-time Purchase)",
+                "Target Market Segment": "Business-to-Consumer (B2C)"
+            }
+        },
+        "Financial Metrics": {
+            "Revenue Brackets (Annual)": "Under $50,000",
+            "Profitability Status": "Pre-Profit Stage",
+            "Cost Structure Components": "Raw Materials & Supplies",
+            "Investment Profile": {
+                "Previous Funding Sources": "Bootstrap Only",
+                "Investment Ask": "not_provided",
+                "Equity Offered": "not_provided"
+            }
+        },
+        "Market Position": {
+            "Customer Engagement": {
+                "Feedback Channels": "Direct Feedback",
+                "Customer Loyalty Programs": "not_provided"
+            },
+            "Digital Presence": {
+                "Online Platforms": "not_provided",
+                "Digital Marketing Channels": "not_provided"
+            },
+            "Market Size Categories": "Micro Market (<$1M)",
+            "Competition Level": "Moderate Competition (4-10 competitors)",
+            "Competitive Position": "Niche Player"
+        },
+        "Product/Service Attributes": {
+            "Innovation Level": "Significant Improvement",
+            "Intellectual Property Status": "not_provided",
+            "Development Status": "Production Ready"
+        },
+        "Team Composition": {
+            "Leadership Experience": "First-Time Entrepreneurs",
+            "Background": "Academic Background",
+            "Team Size": "Co-Founders (2-3)",
+            "Expertise Coverage": "Product Development"
+        },
+        "Growth & Scalability": {
+            "Growth Rate": "Early Growth (<20% annual)",
+            "Scalability Potential": "Limited Scalability",
+            "International Potential": "Local Market Only"
+        },
+        "Impact & Sustainability": {
+            "Product Lifecycle Impact": {
+                "Manufacturing Impact": "not_provided",
+                "End-of-Life Management": "not_provided"
+            },
+            "Community Integration": {
+                "Local Impact": "not_provided",
+                "Global Responsibility": "not_provided"
+            },
+            "Environmental Impact": "not_provided",
+            "Social Impact": "not_provided",
+            "Sustainability Practices": "not_provided"
+        },
+        "Risk Assessment": {
+            "Operational Risks": "Staffing Challenges",
+            "Market Risks": "Market Acceptance",
+            "Financial Risks": "Capital Requirements"
+        },
+        "Exit Strategy": {
+            "Planned Exit Options": "not_provided",
+            "Exit Timeline": "No Specific Timeline"
+        },
+        "Innovation & Research": {
+            "Research & Development": {
+                "R&D Focus Areas": "Product Innovation",
+                "Research Partnerships": "not_provided"
+            },
+            "Technology Integration": {
+                "Core Technologies": "not_provided",
+                "Technology Implementation": "not_provided"
+            }
+        },
+        "Customer Experience": {
+            "Service Delivery": {
+                "Service Channels": "Physical Store",
+                "Customer Journey": "Purchase Decision"
+            },
+            "Personalization Capabilities": {
+                "Data Collection": "not_provided",
+                "Customization Options": "Product Customization"
+            }
+        },
+        "Additional Considerations": {
+            "Cultural Fit": "Quality-Focused",
+            "Marketing Strategy": "Traditional Advertising",
+            "Customer Relationship": "Relationship-Based"
+        }
+    }
+}

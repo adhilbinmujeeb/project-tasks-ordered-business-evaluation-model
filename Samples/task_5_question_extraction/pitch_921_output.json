@@ -1,0 +1,131 @@
+{
+    "business_name": "gogear.ca",
+    "business_id": "gogear_1",
+    "pitch_id": "not_provided",
+    "business_founders": [
+        {
+            "name": "Aaron Mueller",
+            "role": "GM and Chief Merchandising Officer"
+        },
+        {
+            "name": "Rich Vigers",
+            "role": "Chief Operating Officer"
+        },
+        {
+            "name": "Matt Richmond",
+            "role": "Chief Financial Officer"
+        }
+    ],
+    "Business Attributes": {
+        "Business Fundamentals": {
+            "Business Origin Story": {
+                "Inspiration Source": "Market Gap Identification",
+                "Development Timeline": "Gradual Evolution"
+            },
+            "Regulatory Requirements": {
+                "Compliance Status": "Fully Compliant",
+                "Specific Compliance": "State/Local Compliance",
+                "Regulatory Bodies": "State Agencies"
+            },
+            "Market Recognition": {
+                "Achievements & Awards": "not_provided",
+                "Public Perception": "Value-Focused"
+            },
+            "Industry Classification": {
+                "Primary Industry": "Consumer Goods & Retail",
+                "Sub-Industry Examples": "E-commerce Platforms"
+            },
+            "Development Stage": "Growth Phase",
+            "Business Model": {
+                "Primary Revenue Model": "Direct Sales (One-time Purchase)",
+                "Target Market Segment": "Business-to-Consumer (B2C)"
+            }
+        },
+        "Financial Metrics": {
+            "Revenue Brackets (Annual)": "$500,000 - $1 million",
+            "Profitability Status": "Pre-Profit Stage",
+            "Cost Structure Components": "Labor & Workforce",
+            "Investment Profile": {
+                "Previous Funding Sources": "Bootstrap Only",
+                "Investment Ask": "not_provided",
+                "Equity Offered": "not_provided"
+            }
+        },
+        "Market Position": {
+            "Customer Engagement": {
+                "Feedback Channels": "not_provided",
+                "Customer Loyalty Programs": "not_provided"
+            },
+            "Digital Presence": {
+                "Online Platforms": "E-commerce Platform",
+                "Digital Marketing Channels": "not_provided"
+            },
+            "Market Size Categories": "not_provided",
+            "Competition Level": "Moderate Competition (4-10 competitors)",
+            "Competitive Position": "Niche Player"
+        },
+        "Product/Service Attributes": {
+            "Innovation Level": "Significant Improvement",
+            "Intellectual Property Status": "not_provided",
+            "Development Status": "Production Ready"
+        },
+        "Team Composition": {
+            "Leadership Experience": "First-Time Entrepreneurs",
+            "Background": "not_provided",
+            "Team Size": "Co-Founders (2-3)",
+            "Expertise Coverage": "not_provided"
+        },
+        "Growth & Scalability": {
+            "Growth Rate": "Moderate Growth (20-50% annual)",
+            "Scalability Potential": "Moderately Scalable",
+            "International Potential": "Regional Expansion Possible"
+        },
+        "Impact & Sustainability": {
+            "Product Lifecycle Impact": {
+                "Manufacturing Impact": "not_provided",
+                "End-of-Life Management": "not_provided"
+            },
+            "Community Integration": {
+                "Local Impact": "not_provided",
+                "Global Responsibility": "not_provided"
+            },
+            "Environmental Impact": "not_provided",
+            "Social Impact": "not_provided",
+            "Sustainability Practices": "not_provided"
+        },
+        "Risk Assessment": {
+            "Operational Risks": "Supply Chain Dependency",
+            "Market Risks": "Market Acceptance",
+            "Financial Risks": "Capital Requirements"
+        },
+        "Exit Strategy": {
+            "Planned Exit Options": "Strategic Acquisition",
+            "Exit Timeline": "Medium-term (3-5 years)"
+        },
+        "Innovation & Research": {
+            "Research & Development": {
+                "R&D Focus Areas": "Product Innovation",
+                "Research Partnerships": "not_provided"
+            },
+            "Technology Integration": {
+                "Core Technologies": "not_provided",
+                "Technology Implementation": "In-House Development"
+            }
+        },
+        "Customer Experience": {
+            "Service Delivery": {
+                "Service Channels": "Online Platform",
+                "Customer Journey": "Usage Period"
+            },
+            "Personalization Capabilities": {
+                "Data Collection": "Purchase History",
+                "Customization Options": "Product Customization"
+            }
+        },
+        "Additional Considerations": {
+            "Cultural Fit": "Innovation Focus",
+            "Marketing Strategy": "Digital Marketing",
+            "Customer Relationship": "Transaction-Based"
+        }
+    }
+}
