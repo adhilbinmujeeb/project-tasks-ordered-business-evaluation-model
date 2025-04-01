@@ -1,0 +1,131 @@
+{
+    "business_name": "Clog Boss",
+    "business_id": "clog_boss_01",
+    "pitch_id": "not_provided",
+    "business_founders": [
+        {
+            "name": "Mike Sherman",
+            "role": "Master Plumber"
+        },
+        {
+            "name": "Cindy Sherman",
+            "role": "not_provided"
+        },
+        {
+            "name": "Brittany Sherman",
+            "role": "not_provided"
+        }
+    ],
+    "Business Attributes": {
+        "Business Fundamentals": {
+            "Business Origin Story": {
+                "Inspiration Source": "Personal Problem/Need",
+                "Development Timeline": "Gradual Evolution"
+            },
+            "Regulatory Requirements": {
+                "Compliance Status": "Not Yet Started",
+                "Specific Compliance": "not_provided",
+                "Regulatory Bodies": "not_provided"
+            },
+            "Market Recognition": {
+                "Achievements & Awards": "not_provided",
+                "Public Perception": "Value-Focused"
+            },
+            "Industry Classification": {
+                "Primary Industry": "Manufacturing & Industrial",
+                "Sub-Industry Examples": "not_provided"
+            },
+            "Development Stage": "Beta Testing/Market Testing",
+            "Business Model": {
+                "Primary Revenue Model": "Direct Sales (One-time Purchase)",
+                "Target Market Segment": "Business-to-Consumer (B2C)"
+            }
+        },
+        "Financial Metrics": {
+            "Revenue Brackets (Annual)": "Under $50,000",
+            "Profitability Status": "Pre-Profit Stage",
+            "Cost Structure Components": "Raw Materials & Supplies",
+            "Investment Profile": {
+                "Previous Funding Sources": "Bootstrap Only",
+                "Investment Ask": "$500,000 - $1 million",
+                "Equity Offered": "not_provided"
+            }
+        },
+        "Market Position": {
+            "Customer Engagement": {
+                "Feedback Channels": "Direct Feedback",
+                "Customer Loyalty Programs": "not_provided"
+            },
+            "Digital Presence": {
+                "Online Platforms": "not_provided",
+                "Digital Marketing Channels": "not_provided"
+            },
+            "Market Size Categories": "Massive Market (>$10B)",
+            "Competition Level": "High Competition (10+ competitors)",
+            "Competitive Position": "New Entrant"
+        },
+        "Product/Service Attributes": {
+            "Innovation Level": "Significant Improvement",
+            "Intellectual Property Status": "Granted Patents",
+            "Development Status": "Market Testing"
+        },
+        "Team Composition": {
+            "Leadership Experience": "Mixed Experience Team",
+            "Background": "Technical Experts",
+            "Team Size": "Co-Founders (2-3)",
+            "Expertise Coverage": "Technical/Engineering"
+        },
+        "Growth & Scalability": {
+            "Growth Rate": "Pre-Growth",
+            "Scalability Potential": "Highly Scalable",
+            "International Potential": "Global Market Potential"
+        },
+        "Impact & Sustainability": {
+            "Product Lifecycle Impact": {
+                "Manufacturing Impact": "not_provided",
+                "End-of-Life Management": "not_provided"
+            },
+            "Community Integration": {
+                "Local Impact": "not_provided",
+                "Global Responsibility": "not_provided"
+            },
+            "Environmental Impact": "not_provided",
+            "Social Impact": "Health Improvement",
+            "Sustainability Practices": "not_provided"
+        },
+        "Risk Assessment": {
+            "Operational Risks": "Manufacturing Complexity",
+            "Market Risks": "Market Acceptance",
+            "Financial Risks": "Capital Requirements"
+        },
+        "Exit Strategy": {
+            "Planned Exit Options": "Strategic Acquisition",
+            "Exit Timeline": "Medium-term (3-5 years)"
+        },
+        "Innovation & Research": {
+            "Research & Development": {
+                "R&D Focus Areas": "Product Innovation",
+                "Research Partnerships": "not_provided"
+            },
+            "Technology Integration": {
+                "Core Technologies": "not_provided",
+                "Technology Implementation": "not_provided"
+            }
+        },
+        "Customer Experience": {
+            "Service Delivery": {
+                "Service Channels": "not_provided",
+                "Customer Journey": "Usage Period"
+            },
+            "Personalization Capabilities": {
+                "Data Collection": "not_provided",
+                "Customization Options": "not_provided"
+            }
+        },
+        "Additional Considerations": {
+            "Cultural Fit": "Innovation Focus",
+            "Marketing Strategy": "not_provided",
+            "Customer Relationship": "Transaction-Based"
+        }
+    }
+}

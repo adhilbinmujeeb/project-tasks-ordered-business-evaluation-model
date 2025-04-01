@@ -1,0 +1,135 @@
+{
+    "business_name": "The Party People",
+    "business_id": "party_people_1",
+    "pitch_id": "not_provided",
+    "business_founders": [
+        {
+            "name": "Dean Sakis",
+            "role": "Chief Party Dude"
+        },
+        {
+            "name": "Brother of Dean Sakis",
+            "role": "Co-owner"
+        },
+        {
+            "name": "Mom",
+            "role": "Founder"
+        },
+        {
+            "name": "Grandfather",
+            "role": "Co-founder"
+        }
+    ],
+    "Business Attributes": {
+        "Business Fundamentals": {
+            "Business Origin Story": {
+                "Inspiration Source": "not_provided",
+                "Development Timeline": "not_provided"
+            },
+            "Regulatory Requirements": {
+                "Compliance Status": "not_provided",
+                "Specific Compliance": "not_provided",
+                "Regulatory Bodies": "not_provided"
+            },
+            "Market Recognition": {
+                "Achievements & Awards": "not_provided",
+                "Public Perception": "not_provided"
+            },
+            "Industry Classification": {
+                "Primary Industry": "Consumer Goods & Retail",
+                "Sub-Industry Examples": "not_provided"
+            },
+            "Development Stage": "Growth Phase",
+            "Business Model": {
+                "Primary Revenue Model": "Direct Sales (One-time Purchase)",
+                "Target Market Segment": "Business-to-Consumer (B2C)"
+            }
+        },
+        "Financial Metrics": {
+            "Revenue Brackets (Annual)": "$1 million - $5 million",
+            "Profitability Status": "Consistently Profitable",
+            "Cost Structure Components": "not_provided",
+            "Investment Profile": {
+                "Previous Funding Sources": "Bootstrap Only",
+                "Investment Ask": "$250,000 - $500,000",
+                "Equity Offered": "5-10%"
+            }
+        },
+        "Market Position": {
+            "Customer Engagement": {
+                "Feedback Channels": "not_provided",
+                "Customer Loyalty Programs": "not_provided"
+            },
+            "Digital Presence": {
+                "Online Platforms": "Company Website",
+                "Digital Marketing Channels": "Search Engine Marketing"
+            },
+            "Market Size Categories": "Small Market ($1M-$10M)",
+            "Competition Level": "not_provided",
+            "Competitive Position": "not_provided"
+        },
+        "Product/Service Attributes": {
+            "Innovation Level": "not_provided",
+            "Intellectual Property Status": "not_provided",
+            "Development Status": "Production Ready"
+        },
+        "Team Composition": {
+            "Leadership Experience": "not_provided",
+            "Background": "not_provided",
+            "Team Size": "Co-Founders (2-3)",
+            "Expertise Coverage": "not_provided"
+        },
+        "Growth & Scalability": {
+            "Growth Rate": "Moderate Growth (20-50% annual)",
+            "Scalability Potential": "Highly Scalable",
+            "International Potential": "National Expansion Ready"
+        },
+        "Impact & Sustainability": {
+            "Product Lifecycle Impact": {
+                "Manufacturing Impact": "not_provided",
+                "End-of-Life Management": "not_provided"
+            },
+            "Community Integration": {
+                "Local Impact": "not_provided",
+                "Global Responsibility": "not_provided"
+            },
+            "Environmental Impact": "not_provided",
+            "Social Impact": "not_provided",
+            "Sustainability Practices": "not_provided"
+        },
+        "Risk Assessment": {
+            "Operational Risks": "not_provided",
+            "Market Risks": "Market Acceptance",
+            "Financial Risks": "Capital Requirements"
+        },
+        "Exit Strategy": {
+            "Planned Exit Options": "Strategic Acquisition",
+            "Exit Timeline": "Medium-term (3-5 years)"
+        },
+        "Innovation & Research": {
+            "Research & Development": {
+                "R&D Focus Areas": "not_provided",
+                "Research Partnerships": "not_provided"
+            },
+            "Technology Integration": {
+                "Core Technologies": "not_provided",
+                "Technology Implementation": "not_provided"
+            }
+        },
+        "Customer Experience": {
+            "Service Delivery": {
+                "Service Channels": "Physical Store",
+                "Customer Journey": "Awareness Phase"
+            },
+            "Personalization Capabilities": {
+                "Data Collection": "not_provided",
+                "Customization Options": "not_provided"
+            }
+        },
+        "Additional Considerations": {
+            "Cultural Fit": "Customer-Centric",
+            "Marketing Strategy": "Digital Marketing",
+            "Customer Relationship": "Experience-Based"
+        }
+    }
+}

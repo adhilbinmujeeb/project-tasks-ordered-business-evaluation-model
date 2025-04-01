@@ -1,0 +1,127 @@
+{
+    "business_name": "Fluaway48",
+    "business_id": "fluaway48_1",
+    "pitch_id": "not_provided",
+    "business_founders": [
+        {
+            "name": "Nicole Jones",
+            "role": "Co-founder"
+        },
+        {
+            "name": "Steve Jones",
+            "role": "Co-founder"
+        }
+    ],
+    "Business Attributes": {
+        "Business Fundamentals": {
+            "Business Origin Story": {
+                "Inspiration Source": "not_provided",
+                "Development Timeline": "Gradual Evolution"
+            },
+            "Regulatory Requirements": {
+                "Compliance Status": "Fully Compliant",
+                "Specific Compliance": "Industry-Specific Compliance",
+                "Regulatory Bodies": "Testing Laboratories"
+            },
+            "Market Recognition": {
+                "Achievements & Awards": "not_provided",
+                "Public Perception": "not_provided"
+            },
+            "Industry Classification": {
+                "Primary Industry": "Healthcare & Wellness",
+                "Sub-Industry Examples": "Dietary Supplements"
+            },
+            "Development Stage": "Beta Testing/Market Testing",
+            "Business Model": {
+                "Primary Revenue Model": "Direct Sales (One-time Purchase)",
+                "Target Market Segment": "Business-to-Consumer (B2C)"
+            }
+        },
+        "Financial Metrics": {
+            "Revenue Brackets (Annual)": "Pre-Revenue",
+            "Profitability Status": "Pre-Profit Stage",
+            "Cost Structure Components": "Manufacturing & Production",
+            "Investment Profile": {
+                "Previous Funding Sources": "Friends & Family",
+                "Investment Ask": "$1 million - $5 million",
+                "Equity Offered": "not_provided"
+            }
+        },
+        "Market Position": {
+            "Customer Engagement": {
+                "Feedback Channels": "not_provided",
+                "Customer Loyalty Programs": "not_provided"
+            },
+            "Digital Presence": {
+                "Online Platforms": "not_provided",
+                "Digital Marketing Channels": "not_provided"
+            },
+            "Market Size Categories": "Large Market ($100M-$1B)",
+            "Competition Level": "Moderate Competition (4-10 competitors)",
+            "Competitive Position": "New Entrant"
+        },
+        "Product/Service Attributes": {
+            "Innovation Level": "Significant Improvement",
+            "Intellectual Property Status": "Trademarks",
+            "Development Status": "Market Testing"
+        },
+        "Team Composition": {
+            "Leadership Experience": "First-Time Entrepreneurs",
+            "Background": "Business/Management",
+            "Team Size": "Co-Founders (2-3)",
+            "Expertise Coverage": "Business/Management"
+        },
+        "Growth & Scalability": {
+            "Growth Rate": "Hypergrowth (>100% annual)",
+            "Scalability Potential": "Highly Scalable",
+            "International Potential": "International Expansion Ready"
+        },
+        "Impact & Sustainability": {
+            "Product Lifecycle Impact": {
+                "Manufacturing Impact": "Sustainable Packaging",
+                "End-of-Life Management": "Recyclable Products"
+            },
+            "Community Integration": {
+                "Local Impact": "not_provided",
+                "Global Responsibility": "not_provided"
+            },
+            "Environmental Impact": "Minimal Environmental Impact",
+            "Social Impact": "Health Improvement",
+            "Sustainability Practices": "Sustainable Materials"
+        },
+        "Risk Assessment": {
+            "Operational Risks": "Supply Chain Dependency",
+            "Market Risks": "Market Acceptance",
+            "Financial Risks": "Capital Requirements"
+        },
+        "Exit Strategy": {
+            "Planned Exit Options": "Strategic Acquisition",
+            "Exit Timeline": "Medium-term (3-5 years)"
+        },
+        "Innovation & Research": {
+            "Research & Development": {
+                "R&D Focus Areas": "Product Innovation",
+                "Research Partnerships": "University Collaboration"
+            },
+            "Technology Integration": {
+                "Core Technologies": "not_provided",
+                "Technology Implementation": "not_provided"
+            }
+        },
+        "Customer Experience": {
+            "Service Delivery": {
+                "Service Channels": "not_provided",
+                "Customer Journey": "Usage Period"
+            },
+            "Personalization Capabilities": {
+                "Data Collection": "not_provided",
+                "Customization Options": "not_provided"
+            }
+        },
+        "Additional Considerations": {
+            "Cultural Fit": "Innovation Focus",
+            "Marketing Strategy": "Digital Marketing",
+            "Customer Relationship": "Transaction-Based"
+        }
+    }
+}

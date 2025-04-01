@@ -1,0 +1,131 @@
+{
+    "business_name": "Jamali Coconut Products",
+    "business_id": "jamali_coconut_products",
+    "pitch_id": "not_provided",
+    "business_founders": [
+        {
+            "name": "Chaffee Abraham",
+            "role": "Founder"
+        },
+        {
+            "name": "Victoria",
+            "role": "Wife"
+        },
+        {
+            "name": "Jim",
+            "role": "Father"
+        }
+    ],
+    "Business Attributes": {
+        "Business Fundamentals": {
+            "Business Origin Story": {
+                "Inspiration Source": "Personal Problem/Need",
+                "Development Timeline": "not_provided"
+            },
+            "Regulatory Requirements": {
+                "Compliance Status": "not_provided",
+                "Specific Compliance": "Industry-Specific Compliance",
+                "Regulatory Bodies": "not_provided"
+            },
+            "Market Recognition": {
+                "Achievements & Awards": "not_provided",
+                "Public Perception": "Health-Focused"
+            },
+            "Industry Classification": {
+                "Primary Industry": "Food & Beverage",
+                "Sub-Industry Examples": "Health & Nutrition"
+            },
+            "Development Stage": "Revenue Generating",
+            "Business Model": {
+                "Primary Revenue Model": "Direct Sales (One-time Purchase)",
+                "Target Market Segment": "Business-to-Consumer (B2C)"
+            }
+        },
+        "Financial Metrics": {
+            "Revenue Brackets (Annual)": "$250,000 - $500,000",
+            "Profitability Status": "Early Profitability",
+            "Cost Structure Components": "Raw Materials & Supplies",
+            "Investment Profile": {
+                "Previous Funding Sources": "Bootstrap Only",
+                "Investment Ask": "not_provided",
+                "Equity Offered": "not_provided"
+            }
+        },
+        "Market Position": {
+            "Customer Engagement": {
+                "Feedback Channels": "Customer Service",
+                "Customer Loyalty Programs": "not_provided"
+            },
+            "Digital Presence": {
+                "Online Platforms": "not_provided",
+                "Digital Marketing Channels": "not_provided"
+            },
+            "Market Size Categories": "Small Market ($1M-$10M)",
+            "Competition Level": "Moderate Competition (4-10 competitors)",
+            "Competitive Position": "Niche Player"
+        },
+        "Product/Service Attributes": {
+            "Innovation Level": "Significant Improvement",
+            "Intellectual Property Status": "Trademarks",
+            "Development Status": "Production Ready"
+        },
+        "Team Composition": {
+            "Leadership Experience": "First-Time Entrepreneurs",
+            "Background": "not_provided",
+            "Team Size": "Solo Founder",
+            "Expertise Coverage": "Industry-Specific"
+        },
+        "Growth & Scalability": {
+            "Growth Rate": "Moderate Growth (20-50% annual)",
+            "Scalability Potential": "Moderately Scalable",
+            "International Potential": "Regional Expansion Possible"
+        },
+        "Impact & Sustainability": {
+            "Product Lifecycle Impact": {
+                "Manufacturing Impact": "not_provided",
+                "End-of-Life Management": "Recyclable Products"
+            },
+            "Community Integration": {
+                "Local Impact": "Local Supplier Network",
+                "Global Responsibility": "Fair Trade Practices"
+            },
+            "Environmental Impact": "Minimal Environmental Impact",
+            "Social Impact": "Health Improvement",
+            "Sustainability Practices": "Sustainable Materials"
+        },
+        "Risk Assessment": {
+            "Operational Risks": "Supply Chain Dependency",
+            "Market Risks": "Market Acceptance",
+            "Financial Risks": "Cash Flow Management"
+        },
+        "Exit Strategy": {
+            "Planned Exit Options": "Strategic Acquisition",
+            "Exit Timeline": "Medium-term (3-5 years)"
+        },
+        "Innovation & Research": {
+            "Research & Development": {
+                "R&D Focus Areas": "Product Innovation",
+                "Research Partnerships": "not_provided"
+            },
+            "Technology Integration": {
+                "Core Technologies": "not_provided",
+                "Technology Implementation": "not_provided"
+            }
+        },
+        "Customer Experience": {
+            "Service Delivery": {
+                "Service Channels": "In-Person Service",
+                "Customer Journey": "Usage Period"
+            },
+            "Personalization Capabilities": {
+                "Data Collection": "Purchase History",
+                "Customization Options": "Product Customization"
+            }
+        },
+        "Additional Considerations": {
+            "Cultural Fit": "Health-Focused",
+            "Marketing Strategy": "Digital Marketing",
+            "Customer Relationship": "Transaction-Based"
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "business_name": "Cheese Geek",
+    "business_id": "cheese_geek_1",
+    "pitch_id": "not_provided",
+    "business_founders": [
+        "Edward Hancock (Founder)",
+        "Rich (CEO and problem solver)",
+        "Richard Simpson"
+    ],
+    "Business Attributes": {
+        "Business Fundamentals": {
+            "Business Origin Story": {
+                "Inspiration Source": "Market Trend Response",
+                "Development Timeline": "Gradual Evolution"
+            },
+            "Regulatory Requirements": {
+                "Compliance Status": "Fully Compliant",
+                "Specific Compliance": "Industry-Specific Compliance",
+                "Regulatory Bodies": "Industry Associations"
+            },
+            "Market Recognition": {
+                "Achievements & Awards": "not_provided",
+                "Public Perception": "Value-Focused"
+            },
+            "Industry Classification": {
+                "Primary Industry": "Food & Beverage",
+                "Sub-Industry Examples": "Artisanal & Specialty Foods"
+            },
+            "Development Stage": "Revenue Generating",
+            "Business Model": {
+                "Primary Revenue Model": "Subscription Services",
+                "Target Market Segment": "Business-to-Consumer (B2C)"
+            }
+        },
+        "Financial Metrics": {
+            "Revenue Brackets (Annual)": "$1 million - $5 million",
+            "Profitability Status": "Early Profitability",
+            "Cost Structure Components": "Raw Materials & Supplies",
+            "Investment Profile": {
+                "Previous Funding Sources": "Friends & Family",
+                "Investment Ask": "not_provided",
+                "Equity Offered": "not_provided"
+            }
+        },
+        "Market Position": {
+            "Customer Engagement": {
+                "Feedback Channels": "Customer Service",
+                "Customer Loyalty Programs": "Subscription Benefits"
+            },
+            "Digital Presence": {
+                "Online Platforms": "Company Website",
+                "Digital Marketing Channels": "not_provided"
+            },
+            "Market Size Categories": "Small Market ($1M-$10M)",
+            "Competition Level": "Moderate Competition (4-10 competitors)",
+            "Competitive Position": "Niche Player"
+        },
+        "Product/Service Attributes": {
+            "Innovation Level": "Significant Improvement",
+            "Intellectual Property Status": "not_provided",
+            "Development Status": "Production Ready"
+        },
+        "Team Composition": {
+            "Leadership Experience": "First-Time Entrepreneurs",
+            "Background": "Financial Experts",
+            "Team Size": "not_provided",
+            "Expertise Coverage": "Finance/Accounting"
+        },
+        "Growth & Scalability": {
+            "Growth Rate": "Fast Growth (50-100% annual)",
+            "Scalability Potential": "Moderately Scalable",
+            "International Potential": "Regional Expansion Possible"
+        },
+        "Impact & Sustainability": {
+            "Product Lifecycle Impact": {
+                "Manufacturing Impact": "Sustainable Packaging",
+                "End-of-Life Management": "not_provided"
+            },
+            "Community Integration": {
+                "Local Impact": "Local Supplier Network",
+                "Global Responsibility": "Fair Trade Practices"
+            },
+            "Environmental Impact": "Minimal Environmental Impact",
+            "Social Impact": "not_provided",
+            "Sustainability Practices": "Ethical Supply Chain"
+        },
+        "Risk Assessment": {
+            "Operational Risks": "Supply Chain Dependency",
+            "Market Risks": "Market Acceptance",
+            "Financial Risks": "Capital Requirements"
+        },
+        "Exit Strategy": {
+            "Planned Exit Options": "Initial Public Offering (IPO)",
+            "Exit Timeline": "Long-term (5-10 years)"
+        },
+        "Innovation & Research": {
+            "Research & Development": {
+                "R&D Focus Areas": "User Experience",
+                "Research Partnerships": "not_provided"
+            },
+            "Technology Integration": {
+                "Core Technologies": "Artificial Intelligence",
+                "Technology Implementation": "In-House Development"
+            }
+        },
+        "Customer Experience": {
+            "Service Delivery": {
+                "Service Channels": "Online Platform",
+                "Customer Journey": "Usage Period"
+            },
+            "Personalization Capabilities": {
+                "Data Collection": "Purchase History",
+                "Customization Options": "Service Personalization"
+            }
+        },
+        "Additional Considerations": {
+            "Cultural Fit": "Innovation Focus",
+            "Marketing Strategy": "Digital Marketing",
+            "Customer Relationship": "Subscription-Based"
+        }
+    }
+}

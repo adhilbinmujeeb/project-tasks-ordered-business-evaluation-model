@@ -1,0 +1,127 @@
+{
+    "business_name": "Above Below",
+    "business_id": "above_below_cross_country_swimming",
+    "pitch_id": "not_provided",
+    "business_founders": [
+        {
+            "name": "Will",
+            "role": "Founder"
+        },
+        {
+            "name": "Lauren",
+            "role": "Founder"
+        }
+    ],
+    "Business Attributes": {
+        "Business Fundamentals": {
+            "Business Origin Story": {
+                "Inspiration Source": "Market Gap Identification",
+                "Development Timeline": "Gradual Evolution"
+            },
+            "Regulatory Requirements": {
+                "Compliance Status": "Not Yet Started",
+                "Specific Compliance": "Design Patents",
+                "Regulatory Bodies": "not_provided"
+            },
+            "Market Recognition": {
+                "Achievements & Awards": "not_provided",
+                "Public Perception": "Trendsetter"
+            },
+            "Industry Classification": {
+                "Primary Industry": "Sports & Recreation",
+                "Sub-Industry Examples": "not_provided"
+            },
+            "Development Stage": "Revenue Generating",
+            "Business Model": {
+                "Primary Revenue Model": "Direct Sales (One-time Purchase)",
+                "Target Market Segment": "Business-to-Consumer (B2C)"
+            }
+        },
+        "Financial Metrics": {
+            "Revenue Brackets (Annual)": "$50,000 - $100,000",
+            "Profitability Status": "Loss-Making but Growing",
+            "Cost Structure Components": "not_provided",
+            "Investment Profile": {
+                "Previous Funding Sources": "Friends & Family",
+                "Investment Ask": "$100,000 - $250,000",
+                "Equity Offered": "5-10%"
+            }
+        },
+        "Market Position": {
+            "Customer Engagement": {
+                "Feedback Channels": "not_provided",
+                "Customer Loyalty Programs": "not_provided"
+            },
+            "Digital Presence": {
+                "Online Platforms": "Social Media Presence",
+                "Digital Marketing Channels": "Social Media Marketing"
+            },
+            "Market Size Categories": "Micro Market (<$1M)",
+            "Competition Level": "Emerging Market (New category)",
+            "Competitive Position": "New Entrant"
+        },
+        "Product/Service Attributes": {
+            "Innovation Level": "Category Creator",
+            "Intellectual Property Status": "Design Patents",
+            "Development Status": "Production Ready"
+        },
+        "Team Composition": {
+            "Leadership Experience": "First-Time Entrepreneurs",
+            "Background": "not_provided",
+            "Team Size": "Co-Founders (2-3)",
+            "Expertise Coverage": "not_provided"
+        },
+        "Growth & Scalability": {
+            "Growth Rate": "Early Growth (<20% annual)",
+            "Scalability Potential": "Moderately Scalable",
+            "International Potential": "Regional Expansion Possible"
+        },
+        "Impact & Sustainability": {
+            "Product Lifecycle Impact": {
+                "Manufacturing Impact": "Sustainable Packaging",
+                "End-of-Life Management": "Recyclable Products"
+            },
+            "Community Integration": {
+                "Local Impact": "Community Events",
+                "Global Responsibility": "not_provided"
+            },
+            "Environmental Impact": "Minimal Environmental Impact",
+            "Social Impact": "Education/Skills Development",
+            "Sustainability Practices": "Sustainable Materials"
+        },
+        "Risk Assessment": {
+            "Operational Risks": "Manufacturing Complexity",
+            "Market Risks": "Market Acceptance",
+            "Financial Risks": "Capital Requirements"
+        },
+        "Exit Strategy": {
+            "Planned Exit Options": "Strategic Acquisition",
+            "Exit Timeline": "Medium-term (3-5 years)"
+        },
+        "Innovation & Research": {
+            "Research & Development": {
+                "R&D Focus Areas": "Product Innovation",
+                "Research Partnerships": "not_provided"
+            },
+            "Technology Integration": {
+                "Core Technologies": "not_provided",
+                "Technology Implementation": "not_provided"
+            }
+        },
+        "Customer Experience": {
+            "Service Delivery": {
+                "Service Channels": "Online Platform",
+                "Customer Journey": "Awareness Phase"
+            },
+            "Personalization Capabilities": {
+                "Data Collection": "Purchase History",
+                "Customization Options": "Product Customization"
+            }
+        },
+        "Additional Considerations": {
+            "Cultural Fit": "Innovation Focus",
+            "Marketing Strategy": "Digital Marketing",
+            "Customer Relationship": "Community-Based"
+        }
+    }
+}
